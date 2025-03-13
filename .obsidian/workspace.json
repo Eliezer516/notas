@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39d3edbef8b5b71d",
+        "id": "9b787f41fa8b5e69",
         "type": "tabs",
         "children": [
           {
-            "id": "3b43df3d306b519a",
+            "id": "dbb5a2a41925ebe6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0. General"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0. General"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 0. General"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0. General"
             }
           }
         ]
@@ -158,9 +165,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "3b43df3d306b519a",
-  "lastOpenFiles": []
+  "active": "dbb5a2a41925ebe6",
+  "lastOpenFiles": [
+    "diálogo.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/4. Construyendo Puentes, Prácticas Interculturales.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/2. Interculturalidad. Concepto y Relevancia.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/1. Introducción a la Diversidad Cultural.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/4. Construyendo Puentes, Prácticas Interculturales.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/3. Estereotipos y Prejuicios Culturales.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/3. Estereotipos y Prejuicios Culturales.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/2. Interculturalidad. Concepto y Relevancia.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/1. Introducción a la Diversidad Cultural.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad"
+  ]
 }
