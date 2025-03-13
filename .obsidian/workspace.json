@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/1. Introducción a la Diversidad Cultural.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. General"
+              "title": "1. Introducción a la Diversidad Cultural"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.5026054382324
   },
   "right": {
     "id": "5179ea190926c5ec",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/1. Introducción a la Diversidad Cultural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. General"
+              "title": "Backlinks for 1. Introducción a la Diversidad Cultural"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/1. Introducción a la Diversidad Cultural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0. General"
+              "title": "Outgoing links from 1. Introducción a la Diversidad Cultural"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/1. Introducción a la Diversidad Cultural.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. General"
+              "title": "Outline of 1. Introducción a la Diversidad Cultural"
             }
           }
         ]
@@ -166,13 +166,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "dbb5a2a41925ebe6",
   "lastOpenFiles": [
-    "diálogo.md",
+    "13-03-2025.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+    "diálogo.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/4. Construyendo Puentes, Prácticas Interculturales.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/2. Interculturalidad. Concepto y Relevancia.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/1. Introducción a la Diversidad Cultural.md",
