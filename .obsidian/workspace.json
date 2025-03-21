@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38c1cf8a5f611954",
+        "id": "270a56b2c253162d",
         "type": "tabs",
         "children": [
           {
-            "id": "f8ef790278a794f1",
+            "id": "246a87bd813e6b8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/0. General.md",
-                "mode": "source",
+                "file": "clases/1er año/Matemática/Unidades de medida y conversión/cuaderno/4. Aplicaciones de las unidades de conversión.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. General"
-            }
-          },
-          {
-            "id": "edc334c464ff2914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/cuaderno/1. Introducción a los Patrimonios de la Humanidad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Introducción a los Patrimonios de la Humanidad"
+              "title": "4. Aplicaciones de las unidades de conversión"
             }
           }
         ]
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50260543823242
+    "width": 233.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "5179ea190926c5ec",
@@ -183,8 +170,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f8ef790278a794f1",
+  "active": "246a87bd813e6b8c",
   "lastOpenFiles": [
+    "clases/1er año/Matemática/Unidades de medida y conversión/4. Aplicaciones de las unidades de conversión.md",
     "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/cuaderno/1. Introducción a los Patrimonios de la Humanidad.md",
     "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/0. General.md",
     "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/1. Introducción a los Patrimonios de la Humanidad.md",
@@ -215,7 +203,6 @@
     "Pasted image 20250314102123.png",
     "clases/1er año/Matemática/Unidades de medida y conversión/0. General.md",
     "clases/1er año/Matemática/Unidades de medida y conversión/cuaderno/4. Aplicaciones de las unidades de conversión.md",
-    "clases/1er año/Matemática/Unidades de medida y conversión/4. Aplicaciones de las unidades de conversión.md",
     "clases/1er año/Matemática/Unidades de medida y conversión/2. Unidades de medida en el sistema internacional.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad"
