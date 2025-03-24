@@ -9,7 +9,7 @@ El sistema numérico náhuatl es vigesimal, lo que significa que se basa en el n
 - 4 - Nawi
 - 5 - Makuilli
 - 10 - Mahtlaktli
-- 20 - Cempohualli [[1]](https://www.youtube.com/watch?v=-2UNahmxrNE).
+- 20 - Cempohualli
 
 ### 3. Números Compuestos
 Los números mayores se forman combinando los básicos. Por ejemplo:
