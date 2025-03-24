@@ -16,7 +16,7 @@ Los números mayores se forman combinando los básicos. Por ejemplo:
 - 21 se dice "Cempohualli wan se" (20 y 1).
 - 40 se dice "Ompoalli" (2x20) [[1]](https://www.youtube.com/watch?v=-2UNahmxrNE).
 
-### 4. Operaciones Básicas en Náhuatl
+### Operaciones Básicas en Náhuatl
 - **Suma**: 2 (Ome) + 3 (Eyi) = 5 (Makuilli). Se dice: "Ome wan Eyi, Makuilli".
 - **Resta**: 5 (Makuilli) - 2 (Ome) = 3 (Eyi). Se dice: "Makuilli tlatlaz, Eyi".
 - **Multiplicación**: 2 (Ome) x 3 (Eyi) = 6 (Chicome). Se dice: "Ome x Eyi, Chicome".
