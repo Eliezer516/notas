@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5b9eee19d6b8d43b",
+        "id": "bdd70fda58a2026d",
         "type": "tabs",
         "children": [
           {
-            "id": "d605046f3c76358a",
+            "id": "5d8660b5ad9a8af7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/4. Construyendo Puentes, Prácticas Interculturales.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4. Construyendo Puentes, Prácticas Interculturales"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,33 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d605046f3c76358a",
+  "active": "5d8660b5ad9a8af7",
   "lastOpenFiles": [
-    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno/4. La Herencia Artística en el Contexto Actual.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno/3. Retos y Realidades de los Pueblos Originarios Hoy.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno/2. Manifestaciones Artísticas de los Pueblos Originarios.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno/1. Introducción a los Pueblos Originarios de Venezuela.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/4. La Herencia Artística en el Contexto Actual.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/3. Retos y Realidades de los Pueblos Originarios Hoy.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/2. Manifestaciones Artísticas de los Pueblos Originarios.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/1. Introducción a los Pueblos Originarios de Venezuela.md",
+    "01-04-2025.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/Concepción social del arte",
+    "clases/2do año/Arte y patrimonio/3er lapso/Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad",
+    "clases/2do año/Arte y patrimonio/3er lapso/Saberes populares, prácticas gastronómicas",
+    "clases/2do año/Arte y patrimonio/3er lapso/La danza, cuerpo y movimiento",
+    "clases/2do año/Arte y patrimonio/3er lapso",
+    "clases/1er año/Matemática/3er lapso/Tablas de doble entrada",
+    "clases/1er año/Matemática/3er lapso/Sistema sexagesimal",
+    "clases/1er año/Matemática/3er lapso/Potencia de 10",
+    "clases/1er año/Matemática/3er lapso/Poligonos",
+    "06-04-2025.md",
+    "Untitled.canvas",
+    "2025-04-17.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/4. Construyendo Puentes, Prácticas Interculturales.md",
+    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/3. Estereotipos y Prejuicios Culturales.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/3. Estereotipos y Prejuicios Culturales.md",
     "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/cuaderno/6. Patrimonios de la Humanidad en Oceanía.md",
@@ -182,29 +201,10 @@
     "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/cuaderno/3. Patrimonios de la Humanidad en América.md",
     "RRSS/Ideas de contenido.md",
     "RRSS/22-03-2025.md",
-    "RRSS",
     "22-03-2025.md",
     "clases/1er año/Matemática/Unidades de medida y conversión/cuaderno/4. Aplicaciones de las unidades de conversión.md",
     "19-03-2025.md",
-    "clases/1er año/Matemática/Unidades de medida y conversión/4. Aplicaciones de las unidades de conversión.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/cuaderno/1. Introducción a los Patrimonios de la Humanidad.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/0. General.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/1. Introducción a los Patrimonios de la Humanidad.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/cuaderno/2. Patrimonios de la Humanidad en África.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/6. Patrimonios de la Humanidad en Oceanía.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/5. Patrimonios de la Humanidad en Asia.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/4. Patrimonios de la Humanidad en Europa.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/3. Patrimonios de la Humanidad en América.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/2. Patrimonios de la Humanidad en África.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/cuaderno",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/Nueva carpeta",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes 1/6. Patrimonios de la Humanidad en Oceanía.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes 1/5. Patrimonios de la Humanidad en Asia.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes 1",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes",
     "Pasted image 20250314102906.png",
-    "Pasted image 20250314102123.png",
-    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno",
-    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad"
+    "Pasted image 20250314102123.png"
   ]
 }
