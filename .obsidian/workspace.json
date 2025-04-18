@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc8ca442c51eb30",
+        "id": "8a783fec6816d0ac",
         "type": "tabs",
         "children": [
           {
-            "id": "3e5f3acc30aee4b0",
+            "id": "5278effa6ca2f39a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/0. General.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. General"
+              "title": "New tab"
             }
           }
         ]
@@ -73,12 +69,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "7007bcf90585b423",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 233.50260543823242
+    "width": 284.5
   },
   "right": {
     "id": "5179ea190926c5ec",
@@ -169,8 +175,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3e5f3acc30aee4b0",
+  "active": "b741bdeb592d922f",
   "lastOpenFiles": [
+    "long/3er momento/matematicas.md",
+    "long/3er momento/poligonos.md",
+    "long/3er momento/Index.md",
+    "long/3er momento",
+    "long",
+    "06-04-2025.md",
+    "clases/1er año/Matemática/3er lapso/Poligonos/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/0. General.md",
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/0. General.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/4. La Danza en la Actualidad.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/0. General.md",
@@ -181,7 +195,6 @@
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/4. La Artesanía en el Contexto Actual.md",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/0. General.md",
     "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/4. La Herencia Artística en el Contexto Actual.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/0. General.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/0. General.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/1. Introducción a la Concepción Social del Arte.md",
     "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/4. Publicidad y Marketing en Artes Gráficas.md",
@@ -192,21 +205,14 @@
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/1. Introducción a la Danza.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/4. El Arte en la Era Contemporánea.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/3. El Artista como Agente de Cambio.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/2. El Arte como Reflejo Cultural.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/1. Introducción a la Concepción Social del Arte.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/Nueva carpeta",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/4. El Arte en la Era Contemporánea.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/3. El Artista como Agente de Cambio.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/2. El Arte como Reflejo Cultural.md",
     "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno",
     "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/Nueva carpeta",
     "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno",
     "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/Nueva carpeta",
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/cuaderno",
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/Nueva carpeta",
-    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno",
-    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/Nueva carpeta",
     "Untitled.canvas",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
