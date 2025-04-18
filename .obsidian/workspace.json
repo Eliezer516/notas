@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "57a5e73dab4532c6",
+        "id": "eb9157093344cd7f",
         "type": "tabs",
         "children": [
           {
-            "id": "a8eacade37a5a3c0",
+            "id": "8ffc6894d6580f53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/0. General.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. General"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a8eacade37a5a3c0",
+  "active": "8ffc6894d6580f53",
   "lastOpenFiles": [
-    "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/cuaderno/4. Danza y Emoción.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/0. General.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno/4. La Gastronomía como Patrimonio Cultural.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno/3. Prácticas Gastronómicas Tradicionales.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno/2. Ingredientes Típicos y su Significado Cultural.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno/1. Introducción a los Saberes Populares.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/Nueva carpeta",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/4. La Gastronomía como Patrimonio Cultural.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/3. Prácticas Gastronómicas Tradicionales.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/2. Ingredientes Típicos y su Significado Cultural.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/1. Introducción a los Saberes Populares.md",
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/0. General.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/cuaderno/4. Danza y Emoción.md",
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/cuaderno/3. El Cuerpo en la Danza.md",
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/cuaderno/2. Tipos de Danza.md",
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/cuaderno/1. Introducción a la Danza.md",
@@ -184,7 +191,6 @@
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/1. Introducción a la Danza.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/0. General.md",
     "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/0. General.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/0. General.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/0. General.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno/4. La Danza en la Actualidad.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno/3. La Danza como Expresión Cultural.md",
@@ -193,20 +199,10 @@
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/Nueva carpeta",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/4. La Danza en la Actualidad.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/3. La Danza como Expresión Cultural.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/2. Tipos de Danza en Diversas Culturas.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/1. Introducción a la Danza y el Baile.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/4. Presentación de Dramatizaciones.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/3. Creación de Personajes y Diálogos.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/2. Técnicas de Narración Oral.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/1. Introducción a la Dramatización.md",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/Nueva carpeta",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/cuaderno",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/Nueva carpeta",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte",
     "Untitled.canvas",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
