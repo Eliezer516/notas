@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cef9361e261e6904",
+        "id": "57a5e73dab4532c6",
         "type": "tabs",
         "children": [
           {
-            "id": "40eec39907d74256",
+            "id": "a8eacade37a5a3c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. General"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "40eec39907d74256",
+  "active": "a8eacade37a5a3c0",
   "lastOpenFiles": [
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/4. Presentación de Dramatizaciones.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno/4. La Danza en la Actualidad.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno/3. La Danza como Expresión Cultural.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno/2. Tipos de Danza en Diversas Culturas.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno/1. Introducción a la Danza y el Baile.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/cuaderno",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/Nueva carpeta",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/4. La Danza en la Actualidad.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/3. La Danza como Expresión Cultural.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/2. Tipos de Danza en Diversas Culturas.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/1. Introducción a la Danza y el Baile.md",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/4. Presentación de Dramatizaciones.md",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/3. Creación de Personajes y Diálogos.md",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/2. Técnicas de Narración Oral.md",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/1. Introducción a la Dramatización.md",
@@ -192,21 +199,10 @@
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/Nueva carpeta",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/3. El Proceso Creativo del Artesano y la Artesana.md",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/2. Técnicas y Materiales en la Artesanía.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/1. Introducción a la Artesanía.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno/4. La Herencia Artística en el Contexto Actual.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/0. General.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno/3. Retos y Realidades de los Pueblos Originarios Hoy.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno/2. Manifestaciones Artísticas de los Pueblos Originarios.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno/1. Introducción a los Pueblos Originarios de Venezuela.md",
     "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/4. La Herencia Artística en el Contexto Actual.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/3. Retos y Realidades de los Pueblos Originarios Hoy.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/2. Manifestaciones Artísticas de los Pueblos Originarios.md",
     "clases/2do año/Arte y patrimonio/3er lapso/Concepción social del arte",
     "clases/2do año/Arte y patrimonio/3er lapso/Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad",
     "clases/2do año/Arte y patrimonio/3er lapso/Saberes populares, prácticas gastronómicas",
-    "clases/2do año/Arte y patrimonio/3er lapso/La danza, cuerpo y movimiento",
-    "clases/2do año/Arte y patrimonio/3er lapso",
     "Untitled.canvas",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
