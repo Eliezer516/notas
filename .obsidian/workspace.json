@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d804eb595a64996",
+        "id": "cef9361e261e6904",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab9c5677c59dfd6",
+            "id": "40eec39907d74256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/0. General.md",
+                "file": "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,10 +169,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3ab9c5677c59dfd6",
+  "active": "40eec39907d74256",
   "lastOpenFiles": [
-    "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/cuaderno/4. La Artesanía en el Contexto Actual.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/4. Presentación de Dramatizaciones.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/3. Creación de Personajes y Diálogos.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/2. Técnicas de Narración Oral.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno/1. Introducción a la Dramatización.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/cuaderno",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/Nueva carpeta",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/4. Presentación de Dramatizaciones.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/3. Creación de Personajes y Diálogos.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/2. Técnicas de Narración Oral.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/1. Introducción a la Dramatización.md",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/cuaderno/4. La Artesanía en el Contexto Actual.md",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/cuaderno/3. El Proceso Creativo del Artesano y la Artesana.md",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/cuaderno/2. Técnicas y Materiales en la Artesanía.md",
     "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/cuaderno/1. Introducción a la Artesanía.md",
@@ -191,23 +202,12 @@
     "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/4. La Herencia Artística en el Contexto Actual.md",
     "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/3. Retos y Realidades de los Pueblos Originarios Hoy.md",
     "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/2. Manifestaciones Artísticas de los Pueblos Originarios.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/1. Introducción a los Pueblos Originarios de Venezuela.md",
-    "01-04-2025.md",
     "clases/2do año/Arte y patrimonio/3er lapso/Concepción social del arte",
     "clases/2do año/Arte y patrimonio/3er lapso/Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad",
     "clases/2do año/Arte y patrimonio/3er lapso/Saberes populares, prácticas gastronómicas",
     "clases/2do año/Arte y patrimonio/3er lapso/La danza, cuerpo y movimiento",
     "clases/2do año/Arte y patrimonio/3er lapso",
-    "clases/1er año/Matemática/3er lapso/Tablas de doble entrada",
-    "clases/1er año/Matemática/3er lapso/Sistema sexagesimal",
-    "06-04-2025.md",
     "Untitled.canvas",
-    "2025-04-17.md",
-    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/4. Construyendo Puentes, Prácticas Interculturales.md",
-    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
-    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/3. Estereotipos y Prejuicios Culturales.md",
-    "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/3. Estereotipos y Prejuicios Culturales.md",
-    "clases/2do año/Arte y patrimonio/Patrimonios de la humanidad en todos los continentes/cuaderno/6. Patrimonios de la Humanidad en Oceanía.md",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
