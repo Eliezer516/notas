@@ -11,10 +11,14 @@
             "id": "1c17d35f31a52d86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/0. General.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0. General"
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/0. General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0. General"
             }
           },
           {
@@ -176,7 +181,17 @@
   },
   "active": "1c17d35f31a52d86",
   "lastOpenFiles": [
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/cuaderno/4. Profundización y Problemas del Sistema Sexagesimal.md",
     "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/0. General.md",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/cuaderno/3. Aplicaciones del Sistema Sexagesimal.md",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/cuaderno/2. Estructura del Sistema Sexagesimal.md",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/cuaderno/1. Introducción al Sistema Sexagesimal.md",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/cuaderno",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/Nueva carpeta",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/4. Profundización y Problemas del Sistema Sexagesimal.md",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/3. Aplicaciones del Sistema Sexagesimal.md",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/2. Estructura del Sistema Sexagesimal.md",
+    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/1. Introducción al Sistema Sexagesimal.md",
     "clases/1er año/Matemática/3er lapso/2. Potencia de 10/0. General.md",
     "clases/1er año/Matemática/3er lapso/2. Potencia de 10/cuaderno/4. Aplicaciones de la Potencia de 10.md",
     "clases/1er año/Matemática/3er lapso/2. Potencia de 10/cuaderno/3. Notación Científica y Potencias de 10.md",
@@ -198,20 +213,10 @@
     "clases/1er año/Matemática/3er lapso/1. Poligonos/Nueva carpeta",
     "1.md",
     "clases/1er año/Matemática/3er lapso/1. Poligonos/3. Cálculo de Ángulos en Polígonos.md",
-    "clases/1er año/Matemática/3er lapso/1. Poligonos/2. Tipos de Polígonos.md",
-    "clases/1er año/Matemática/3er lapso/1. Poligonos/1. Introducción a los Polígonos.md",
-    "long/3er momento/matematicas.md",
-    "long/3er momento/poligonos.md",
-    "long/3er momento/Index.md",
     "long/3er momento",
     "long",
-    "06-04-2025.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/0. General.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/0. General.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/Nueva carpeta",
-    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno",
-    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/Nueva carpeta",
     "Untitled.canvas",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
