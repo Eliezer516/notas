@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5444768d536f148a",
+        "id": "1a2f3bfd94e0c630",
         "type": "tabs",
         "children": [
           {
-            "id": "8d4f712cb61fb580",
+            "id": "354ce906714731f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/4. El Arte en la Era Contemporánea.md",
+                "file": "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/0. General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. El Arte en la Era Contemporánea"
+              "title": "0. General"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 238.5
   },
   "right": {
     "id": "5179ea190926c5ec",
@@ -179,9 +179,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8d4f712cb61fb580",
+  "active": "354ce906714731f3",
   "lastOpenFiles": [
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/0. General.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/UNIDAD DE APRENDIZAJE ARTE Y PATRIMONIO 2DO AÑO MOMENTO II.md",
     "clases/2do año/Arte y patrimonio/3er lapso/UNIDAD DE APRENDIZAJE ARTE Y PATRIMONIO 2DO AÑO MOMENTO II.docx",
+    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/4. El Arte en la Era Contemporánea.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/3. El Artista como Agente de Cambio.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/2. El Arte como Reflejo Cultural.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/1. Introducción a la Concepción Social del Arte.md",
@@ -203,10 +208,6 @@
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/cuaderno/1. Introducción a la Danza.md",
     "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/0. General.md",
     "clases/1er año/Matemática/3er lapso/4. Tablas de doble entrada/cuaderno/4. Aplicaciones de Tablas de Doble Entrada.md",
-    "clases/1er año/Matemática/3er lapso/4. Tablas de doble entrada/cuaderno/3. Interpretación de Tablas de Doble Entrada.md",
-    "clases/1er año/Matemática/3er lapso/4. Tablas de doble entrada/cuaderno/2. Creación de Tablas de Doble Entrada.md",
-    "clases/1er año/Matemática/3er lapso/4. Tablas de doble entrada/cuaderno/1. Introducción a las Tablas de Doble Entrada.md",
-    "clases/1er año/Matemática/3er lapso/4. Tablas de doble entrada/0. General.md",
     "clases/1er año/Matemática/3er lapso/4. Tablas de doble entrada/cuaderno",
     "clases/1er año/Matemática/3er lapso/4. Tablas de doble entrada/Nueva carpeta",
     "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/cuaderno",
@@ -216,7 +217,6 @@
     "clases/1er año/Matemática/3er lapso/1. Poligonos/cuaderno",
     "clases/1er año/Matemática/3er lapso/1. Poligonos/Nueva carpeta",
     "long/3er momento",
-    "long",
     "Untitled.canvas",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
