@@ -8,3 +8,4 @@ note_type: task
 - [ ] Gimnasio 
 - [ ] hotel
 - [ ] catálogo online 
+- [ ] clínica dental
