@@ -9,3 +9,4 @@ note_type: task
 - [ ] hotel
 - [ ] catálogo online 
 - [ ] clínica dental
+- [ ] servicio de mudanza 
