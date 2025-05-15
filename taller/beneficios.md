@@ -1,0 +1,6 @@
+---
+title: beneficios
+date: 15-05-2025
+draft: false
+---
+Más allá de su atractivo como manualidad, el origami ofrece una rica variedad de beneficios que impactan positivamente en el desarrollo integral de los estudiantes. Fomenta la motricidad fina a través de los movimientos precisos que requiere el doblado del papel, mejora la concentración al demandar atención en cada paso del proceso, y desarrolla el pensamiento secuencial al seguir una serie de instrucciones en un orden específico.3 Asimismo, el origami potencia la visualización espacial al transformar una superficie plana en una forma tridimensional, estimula la creatividad al permitir la experimentación y la creación de diseños originales, y fortalece la capacidad de resolución de problemas al enfrentar los desafíos inherentes al doblado.4 Estos beneficios se alinean estrechamente con los principios del aprendizaje activo y constructivista, donde los estudiantes construyen su conocimiento a través de la experiencia práctica y la manipulación de objetos. Al involucrarse activamente en el doblado, los docentes podrán experimentar de primera mano el potencial que el origami ofrece a sus estudiantes.
