@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programación/prompts de IA/planificación Diaria.md",
+                "file": "universidad/autores/IAPT (definición).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planificación Diaria"
+              "title": "IAPT (definición)"
             }
           }
         ]
@@ -171,6 +171,11 @@
   },
   "active": "e24a8c315be8cc4c",
   "lastOpenFiles": [
+    "universidad/autores/0. General.md",
+    "universidad/autores/IAPT (definición).md",
+    "programación/prompts de IA/planificación Diaria.md",
+    "universidad/autores",
+    "programación/prompts de IA/criterios de evaluación.md",
     "clases/1er año/Matemática/3er lapso/2. Potencia de 10/ERCA/2. Propiedades de las Potencias de 10.md",
     "clases/1er año/Matemática/3er lapso/2. Potencia de 10/ERCA/1. Fundamentos de la Potencia de 10.md",
     "clases/1er año/Matemática/3er lapso/2. Potencia de 10/ERCA",
@@ -178,7 +183,6 @@
     "programación/prompts de IA/unidad de aprendizaje.md",
     "programación/prompts de IA/redactor de indicadores.md",
     "programación/prompts de IA/planificador de clases.md",
-    "programación/prompts de IA/planificación Diaria.md",
     "programación/prompts de IA",
     "nuevos conocimientos/sesgo de confirmación.md",
     "nuevos conocimientos/el efecto de mera exposición.md",
@@ -200,13 +204,9 @@
     "Hola mundo.md",
     "clases/1er año/Matemática/3er lapso/1. Poligonos/3. Cálculo de Ángulos en Polígonos.md",
     "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/cuaderno/4. Construyendo Puentes, Prácticas Interculturales.md",
-    "universidad/exposición.md",
-    "universidad/acompañante.md",
     "universidad",
-    "programación/Hide navbar on scroll.md",
     "programación",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno",
-    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
