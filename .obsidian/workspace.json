@@ -11,10 +11,14 @@
             "id": "e24a8c315be8cc4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "programación/prompts de IA/planificación Diaria.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "planificación Diaria"
             }
           }
         ]
@@ -167,6 +171,10 @@
   },
   "active": "e24a8c315be8cc4c",
   "lastOpenFiles": [
+    "clases/1er año/Matemática/3er lapso/2. Potencia de 10/ERCA/2. Propiedades de las Potencias de 10.md",
+    "clases/1er año/Matemática/3er lapso/2. Potencia de 10/ERCA/1. Fundamentos de la Potencia de 10.md",
+    "clases/1er año/Matemática/3er lapso/2. Potencia de 10/ERCA",
+    "universidad/guión cultura venezolana.md",
     "programación/prompts de IA/unidad de aprendizaje.md",
     "programación/prompts de IA/redactor de indicadores.md",
     "programación/prompts de IA/planificador de clases.md",
@@ -197,12 +205,8 @@
     "universidad",
     "programación/Hide navbar on scroll.md",
     "programación",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/4. El Arte en la Era Contemporánea.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/3. El Artista como Agente de Cambio.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/2. El Arte como Reflejo Cultural.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno",
     "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno",
-    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
