@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d047eb53544a81ea",
+        "id": "814f461730a03f42",
         "type": "tabs",
         "children": [
           {
-            "id": "330945b06dcf2a50",
+            "id": "e24a8c315be8cc4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programación/ideas de sitios web.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ideas de sitios web"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "330945b06dcf2a50",
+  "active": "e24a8c315be8cc4c",
   "lastOpenFiles": [
+    "programación/prompts de IA/unidad de aprendizaje.md",
+    "programación/prompts de IA/redactor de indicadores.md",
+    "programación/prompts de IA/planificador de clases.md",
+    "programación/prompts de IA/planificación Diaria.md",
+    "programación/prompts de IA",
+    "nuevos conocimientos/sesgo de confirmación.md",
+    "nuevos conocimientos/el efecto de mera exposición.md",
+    "nuevos conocimientos",
+    "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/ERCA/29-05-2025.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/ERCA/2. Técnicas y materiales en la artesanía.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/ERCA",
+    "programación/ideas de sitios web.md",
     "taller/Desarrollo.md",
     "taller/Estructura.md",
     "universidad/ángulos y números radicales.md",
@@ -178,7 +186,6 @@
     "substack/Capítulo 1_ Bienvenido a tu Mente Extraordinaria_.md",
     "substack/0. general.md",
     "substack",
-    "programación/ideas de sitios web.md",
     "programación/ideas de contenido.md",
     "clases/1er año/Matemática/3er lapso/1. Poligonos/Ejercicios.md",
     "alabanzas.md",
@@ -193,20 +200,9 @@
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/4. El Arte en la Era Contemporánea.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/3. El Artista como Agente de Cambio.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/2. El Arte como Reflejo Cultural.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno/1. Introducción a la Concepción Social del Arte.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno/4. Publicidad y Marketing en Artes Gráficas.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno/3. Proceso de Producción Editorial.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno/2. Diseño y Composición Gráfica.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno/1. Introducción a las Artes Gráficas Editoriales.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno/4. La Gastronomía como Patrimonio Cultural.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno/3. Prácticas Gastronómicas Tradicionales.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno/2. Ingredientes Típicos y su Significado Cultural.md",
     "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte/cuaderno",
     "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/cuaderno",
     "clases/2do año/Arte y patrimonio/3er lapso/2. Saberes populares, prácticas gastronómicas/cuaderno",
-    "clases/2do año/Arte y patrimonio/3er lapso/1. La danza, cuerpo y movimiento/cuaderno",
-    "clases/2do año/Arte y patrimonio/3er lapso/UNIDAD DE APRENDIZAJE ARTE Y PATRIMONIO 2DO AÑO MOMENTO II.docx",
-    "clases/2do año/Arte y patrimonio/3er lapso/4. Concepción social del arte",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
