@@ -2,7 +2,7 @@
 	- Mapa conceptual
 	- Cuadro comparativo
 	- Ejercicios Practicos
-	- Debate
+	- Debate.
 
 2. Saberes populares: practicas gastronomicas
 	- Preguntas guiadas
