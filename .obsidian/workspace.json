@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "516916c76e4ba5fb",
+        "id": "0391a72d11613642",
         "type": "tabs",
         "children": [
           {
-            "id": "cd83c28d6a1ab1bc",
+            "id": "2dfa80ead74a7fa3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,7 +166,7 @@
       "fit:Fit Sync": false
     }
   },
-  "active": "cd83c28d6a1ab1bc",
+  "active": "2dfa80ead74a7fa3",
   "lastOpenFiles": [
     "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/ERCA/1. Introducción al Sistema Sexagesimal.md",
     "_fit/clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/3. El Proceso Creativo del Artesano y la Artesana.md",
