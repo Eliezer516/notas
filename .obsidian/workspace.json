@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0391a72d11613642",
+        "id": "ec3dbec5c9e1535a",
         "type": "tabs",
         "children": [
           {
-            "id": "2dfa80ead74a7fa3",
+            "id": "79b1d2b84d248758",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,9 @@
       "fit:Fit Sync": false
     }
   },
-  "active": "2dfa80ead74a7fa3",
+  "active": "79b1d2b84d248758",
   "lastOpenFiles": [
+    "alabanzas.md",
     "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/ERCA/1. Introducción al Sistema Sexagesimal.md",
     "_fit/clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/3. El Proceso Creativo del Artesano y la Artesana.md",
     "_fit/clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/0. General.md",
@@ -195,7 +196,6 @@
     "_fit/31-05-2025.md",
     "_fit/copy/5 - Técnicas para crear títulos efectivos y llamados a la acción.md",
     "_fit/copy",
-    "_fit/RRSS/Cómo crear un ambiente de aprendizaje inclusivo en casa.md",
     "_fit/universidad/autores",
     "_fit/nuevos conocimientos",
     "_fit/RRSS",
