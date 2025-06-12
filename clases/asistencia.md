@@ -1,12 +1,12 @@
 ---
 note_type: task
 ---
-- [x] 1) rubiana
+- [ ] 1) rubiana
 - [x] 2) adrianny
 - [x] 3) williany
 - [x] 4) sorianny
 - [x] 5) Camila ruzza
-- [ ] 6) euzel
+- [x] 6) euzel
 - [x] 7) roxibel
 - [x] 8) shanttal 
 - [x] 9) balbuena
