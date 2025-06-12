@@ -11,10 +11,14 @@
             "id": "79b1d2b84d248758",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/cuaderno/2. Estructura del Sistema Sexagesimal.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. Estructura del Sistema Sexagesimal"
             }
           }
         ]
@@ -162,12 +166,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "fit:Fit Sync": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "79b1d2b84d248758",
   "lastOpenFiles": [
+    "universidad/ángulos y números radicales/Planificación.md",
+    "universidad/ángulos y números radicales/General.md",
+    "universidad/ángulos y números radicales/ERCA.md",
+    "universidad/ángulos y números radicales",
+    "programación/prompts de IA/estructura de guion.md",
+    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/ERCA/2. Diseño y Composición Gráfica.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA/2. Técnicas de Narración Oral.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA",
     "alabanzas.md",
     "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/ERCA/1. Introducción al Sistema Sexagesimal.md",
     "_fit/clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/3. El Proceso Creativo del Artesano y la Artesana.md",
@@ -189,12 +200,6 @@
     "_fit/copy/2 - Estilo de escritura, voz y tono.md",
     "_fit/copy/3 - Investigación y análisis de la audiencia.md",
     "_fit/copy/6 - Práctica avanzada y retroalimentación.md",
-    "_fit/nuevos conocimientos/sesgo de confirmación.md",
-    "_fit/alabanzas.md",
-    "_fit/copy/Plan de copywriting.md",
-    "_fit/programación/ideas de contenido.md",
-    "_fit/31-05-2025.md",
-    "_fit/copy/5 - Técnicas para crear títulos efectivos y llamados a la acción.md",
     "_fit/copy",
     "_fit/universidad/autores",
     "_fit/nuevos conocimientos",
@@ -202,8 +207,6 @@
     "_fit/substack",
     "_fit/programación",
     "_fit/universidad",
-    "_fit/clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela/cuaderno",
-    "_fit/clases/1er año/Arte y patrimonio/3er lapso/1. Historia, herencia artística y actualidad de los pueblosoriginarios de Venezuela",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
