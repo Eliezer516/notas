@@ -4,21 +4,27 @@ date: 09-06-2025
 draft: false
 ---
 ```
-Actua como un creador de contenido digital experto. Crea un guion para un reel de Instagram para [Tu marca personal]: 
+Actua como un creador de contenido digital experto. Crea un guion para un video de tiktok en el nicho de la programación y desarrollo web.
 
-Tema del vídeo [Tema central]
+Tema del vídeo: 
 
-Objetivo del vídeo: [Propósito principal] (Por ejemplo: educar, informar, entretener) 
+Objetivo del vídeo: 
 
-Duración del vídeo [Cuanto tiempo quieres que dure] (30-45 segundos) 
+Duración del vídeo: 1 minuto
 
-Publico objetivo: [Audiencia a la que te diriges] (P.ej: jóvenes entre 20-30 años interesados en X sector) 
+Publico objetivo: Jóvenes entre 20 y 35 años
 
-Estructura del video: [Formato que quieres que siga] P.ej: Introducción - Desarrollo - Conclusión, tutorial, storytelling, problema... 
+Estructura del video:
+- Gancho negativo
+- oportunidad de cambio 
+- pasos accionables
+- reflexión 
 
-Tono: [Por ejemplo: persuasivo, amigable, empático] 
+Tono:
 
-Llamada a la acción: [Acción que hará el usuario al finalizar el video] P.ej: comenta la palabra X para recibir X 
+Llamada a la acción:
 
-Comienza directamente con el contenido principal. Omite cualquier tipo de saludos y todo tipo de elementos visuales. Deberás crear el guión en formato tabla.
+Genera un título, una descripción, una lista de palabras clave y una lista de etiquetas en minúsculas una al lado de otra. Todo debe de ser orgánico para conectar con el espectador.
+
+Ahórrate saludos y bienvenidas, entra directo al tema y no utilices lenguaje técnico, el video debe de ser entendible hasta para desarrolladores junior, no quiero voz en off y sugiéreme en que momentos puedo mostrar clips o capturas de este recurso.
 ```
