@@ -6,12 +6,12 @@ note_type: task
 - [x] 3) williany
 - [x] 4) sorianny
 - [x] 5) Camila ruzza
-- [x] 6) euzel
+- [ ] 6) euzel
 - [x] 7) roxibel
 - [x] 8) shanttal 
 - [x] 9) balbuena
 - [x] 10) luque
 - [x] 11) Jhon Alex g9mez
 - [x] 12) leonardo
-- [x] 13) Jonathan 
+- [ ] 13) Jonathan 
 - [x] 14) Pernía 
