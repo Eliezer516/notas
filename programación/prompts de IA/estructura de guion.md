@@ -15,14 +15,15 @@ Duración del vídeo: 1 minuto
 Publico objetivo: Jóvenes entre 20 y 35 años
 
 Estructura del video:
-- Gancho negativo
-- oportunidad de cambio 
-- pasos accionables
-- reflexión 
+- Gancho negativo.
+- breve descripción del recurso.
+- oportunidad de cambio.
+- pasos accionables.
+- reflexión.
 
-Tono:
+Tono: amigable 
 
-Llamada a la acción:
+Llamada a la acción: sígueme, deja tu like para no perderte vídeos como este
 
 Genera un título, una descripción, una lista de palabras clave y una lista de etiquetas en minúsculas una al lado de otra. Todo debe de ser orgánico para conectar con el espectador.
 
