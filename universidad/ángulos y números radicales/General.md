@@ -11,6 +11,8 @@ draft: false
 
 #### Título de la Clase: Introducción a los Ángulos y Números Radicales
 
+#### Propósito:
+
 ##### Objetivos:
 - Comprender qué son los ángulos y su clasificación.
 - Introducir el concepto de números radicales y su relación con los ángulos en la geometría.
