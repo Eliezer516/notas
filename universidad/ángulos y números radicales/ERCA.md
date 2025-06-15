@@ -36,7 +36,7 @@ draft: false
 
 2. **Números Radicales:**
    - **Introducción a los Números Radicales:** Los números radicales son aquellos que incluyen raíces, como la raíz cuadrada o cúbica de un número.
-   - **Propiedades de los Radicales:** Revisión de algunas propiedades básicas, como \(\sqrt{a \times b} = \sqrt{a} \times \sqrt{b}\).
+   - **Propiedades de los Radicales:** Revisión de algunas propiedades básicas, como $$\(\sqrt{a \times b} = \sqrt{a} \times \sqrt{b}\)$$.
 
 3. **Relación entre Ángulos y Números Radicales:**
    - **Ejemplo Práctico:** Uso del Teorema de Pitágoras para calcular la longitud de un lado en un triángulo rectángulo, donde las longitudes pueden ser números radicales.
