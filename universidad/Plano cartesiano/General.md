@@ -3,49 +3,48 @@ title: General
 date: 14-06-2025
 draft: false
 ---
-
-¡Perfecto! A continuación, te presento una planificación detallada para **1 clase** sobre el tema: **"Sistema de coordenadas cartesianas"**, ideal para estudiantes de nivel secundaria o primeros cursos universitarios.
+¡Perfecto! A continuación, te presento una planificación detallada para **1 clase** sobre el tema: **"Sistema de coordenadas lineales y cartesianas"**, ideal para estudiantes de nivel secundaria o primeros cursos universitarios.
 
 ---
 
 ### 📌 **Título de la clase:**  
-**Introducción al sistema de coordenadas cartesianas**
+**Comparación entre sistemas de coordenadas: lineal y cartesiano**
 
 ---
 
 ### 🧠 **Temas a tratar:**
 
-1. **Definición del sistema de coordenadas cartesianas**
-   - Origen del nombre (en honor a René Descartes).
-   - Concepto de plano cartesiano.
-   
-2. **Ejes de coordenadas**
-   - Eje X (abscisas) y eje Y (ordenadas).
-   - El punto de intersección: el origen (0, 0).
+1. **Introducción a los sistemas de coordenadas**
+   - ¿Qué es un sistema de coordenadas?
+   - Importancia en la representación de posiciones y datos.
 
-3. **Cuadrantes del plano cartesiano**
-   - Identificación de los cuatro cuadrantes.
-   - Signos de las coordenadas en cada cuadrante.
+2. **Sistema de coordenadas lineales**
+   - Definición: recta numérica.
+   - Uso de una sola dimensión (eje X).
+   - Representación de números reales.
+   - Ejemplos: termómetro, regla, línea de tiempo.
 
-4. **Ubicación de puntos en el plano**
-   - Interpretación de pares ordenados (x, y).
-   - Representación gráfica de puntos dados sus pares ordenados.
+3. **Sistema de coordenadas cartesianas**
+   - Plano cartesiano: dos dimensiones (ejes X e Y).
+   - Pares ordenados (x, y).
+   - Cuadrantes del plano.
+   - Ubicación de puntos.
 
-5. **Aplicaciones básicas**
-   - Uso del plano cartesiano en matemáticas, física y geografía.
-   - Ejemplos prácticos sencillos.
+4. **Diferencias y aplicaciones**
+   - Comparación entre sistemas lineales y cartesianos.
+   - Contextos donde se utilizan: matemáticas, física, geografía, diseño gráfico, etc.
 
 ---
 
 ### 🎯 **Actividad de cierre sugerida:**  
-**Mapa conceptual**
+**Cuadro comparativo**
 
 #### Descripción:
-Los estudiantes deberán elaborar un **mapa conceptual** que incluya los conceptos principales vistos durante la clase: ejes coordenados, cuadrantes, pares ordenados, origen de coordenadas, y aplicaciones.
+Los estudiantes deberán completar un **cuadro comparativo** entre el sistema de coordenadas **lineal** y el sistema de coordenadas **cartesiano**, destacando características como número de dimensiones, elementos principales, ejemplos y usos.
 
 #### Objetivo:
-Reforzar la comprensión de la estructura del sistema de coordenadas cartesianas mediante la organización visual de los conceptos clave.
+Reforzar la comprensión de las diferencias fundamentales entre ambos sistemas mediante una organización clara y visual de sus propiedades.
 
 ---
 
-¿Te gustaría que prepare una planificación similar pero con más clases para profundizar en este tema?
+¿Te gustaría que amplíe este tema en varias clases con actividades más prácticas o de análisis?

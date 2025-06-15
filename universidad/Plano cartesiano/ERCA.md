@@ -3,16 +3,15 @@ title: ERCA
 date: 14-06-2025
 draft: false
 ---
-
-¡Perfecto! A continuación, te presento una **clase completa** sobre el **sistema de coordenadas cartesianas**, estructurada siguiendo la metodología **ERCA (Experiencia, Reflexión, Conceptualización y Aplicación)**.
+¡Perfecto! A continuación, te presento una **clase completa** sobre **Sistemas de Coordenadas**, enfocada en la **introducción a los sistemas lineales y cartesianos**, estructurada bajo la metodología **ERCA (Experiencia, Reflexión, Conceptualización y Aplicación)**.
 
 ---
 
-## 🧭 CLASE: SISTEMA DE COORDENADAS CARTESIANAS
+## 🧭 CLASE: SISTEMAS DE COORDENADAS – LINEALES Y CARTESIANOS
 
 ### **Duración:** 80 minutos  
 ### **Nivel educativo:** Secundaria  
-### **Tema:** Introducción al plano cartesiano  
+### **Tema:** Introducción a los sistemas de coordenadas  
 ### **Metodología:** ERCA (Experiencia, Reflexión, Conceptualización, Aplicación)
 
 ---
@@ -22,131 +21,138 @@ draft: false
 **Propósito:** Activar conocimientos previos y generar conexión con el tema a través de preguntas y ejemplos cercanos.
 
 ### Preguntas para iniciar:
-- ¿Alguna vez has usado un mapa o GPS?
-- ¿Cómo crees que se localiza un lugar exacto en un mapa?
-- ¿Has jugado al "hundir la flota" o buscacoches? ¿Cómo se ubican los puntos?
-- Si te digo que un punto está en (3, 4), ¿qué podría significar?
+- ¿Cómo ubicarías un objeto dentro del salón sin señalarlo?
+- ¿Alguna vez has usado una regla o termómetro? ¿Qué tienen en común?
+- ¿Has visto mapas o pantallas de videojuegos donde aparecen coordenadas?
+- ¿Crees que hay más de una forma de ubicar algo en el espacio?
 
 ### Ejemplo rápido (opcional):
-> “Imagina que estás en una sala de cine. El asiento 5-F indica que debes ir a la fila 5 y columna F. Esto también es una forma de coordenadas.”
+> “Un termómetro tiene números que suben o bajan… ¿Es eso también un sistema de coordenadas?”
 
 ---
 
 ## 🤔 2. Reflexión (15 minutos)
 
-**Propósito:** Inducir al estudiante a pensar en cómo se organiza el espacio en un sistema de coordenadas.
+**Propósito:** Inducir al estudiante a pensar en cómo se organiza el espacio y la posición en diferentes contextos.
 
 ### Preguntas guía:
-- ¿Por qué crees que es útil tener un sistema para ubicar cosas en un plano?
-- ¿Qué pasaría si no hubiera un orden para ubicar puntos?
-- ¿Cómo podrías describir la posición de un objeto sin usar palabras como “derecha”, “izquierda” o “cerca”?
-- ¿Qué necesitas para saber exactamente dónde está algo en una hoja de papel?
+- ¿Para qué sirve tener un sistema que nos diga "dónde" está algo?
+- ¿Puedes ubicar algo solo con un número? ¿Y con dos?
+- ¿Qué necesitas para saber si algo está arriba, abajo, izquierda o derecha?
+- ¿Por qué crees que usamos diferentes sistemas según lo que queremos representar?
 
 ### Reflexión breve:
-- Piensa en cómo indicarías a alguien la ubicación de tu casa sin darle una dirección.
-- Comparte tu idea con un compañero.
+- Piensa en cómo le explicarías a alguien que no habla tu idioma dónde está un objeto.
+- Comparte con un compañero y comparen sus respuestas.
 
 ---
 
 ## 📘 3. Conceptualización (20 minutos)
 
-**Propósito:** Presentar los conceptos clave del sistema de coordenadas cartesianas.
+**Propósito:** Presentar los conceptos clave de los sistemas de coordenadas lineales y cartesianos.
 
 ---
 
-### 🔹 Definición del sistema de coordenadas cartesianas
+### 🔹 Sistema de coordenadas lineales
 
-Es un sistema formado por dos rectas perpendiculares llamadas **ejes**, que permiten ubicar cualquier punto en el plano mediante un par ordenado de números.
+- Es un sistema **de una dimensión** (solo eje X).
+- Se representa como una **recta numérica**.
+- Sirve para ubicar puntos en línea recta.
+- Cada punto corresponde a un **número real**.
+- El cero es el **punto de referencia**.
 
-El nombre viene de **René Descartes**, filósofo y matemático francés, quien lo introdujo en el siglo XVII.
-
----
-
-### 🔹 Ejes de coordenadas
-
-- **Eje X**: Horizontal → Se llama **abscisa**
-- **Eje Y**: Vertical → Se llama **ordenada**
-
-El punto donde se cruzan ambos ejes es el **origen de coordenadas**, y su valor es **(0, 0)**.
-
----
-
-### 🔹 Cuadrantes del plano cartesiano
-
-El cruce de los ejes divide el plano en **cuatro cuadrantes**:
-
-| Cuadrante | Signo de x | Signo de y |
-|-----------|-------------|-------------|
-| I         | +           | +           |
-| II        | –           | +           |
-| III       | –           | –           |
-| IV        | +           | –           |
+✅ **Ejemplos:**
+- Termómetro
+- Regla o metro
+- Línea de tiempo
+- Escala de puntuación
 
 ---
 
-### 🔹 Ubicación de puntos en el plano
+### 🔹 Sistema de coordenadas cartesianas
 
-Un punto se identifica con un **par ordenado (x, y)**.
+- Es un sistema **de dos dimensiones** (ejes X y Y).
+- Se forma por dos rectas perpendiculares: **eje horizontal (X)** y **eje vertical (Y)**.
+- El punto donde se cruzan es el **origen (0, 0)**.
+- Un punto se ubica con un **par ordenado (x, y)**.
+- El plano se divide en **cuatro cuadrantes**.
 
-**Ejemplo:**
-- Punto A = (2, 3): Avanzamos 2 unidades a la derecha y subimos 3.
-- Punto B = (–1, 4): Nos movemos 1 unidad a la izquierda y subimos 4.
+| Cuadrante | Signo x | Signo y |
+|----------|---------|---------|
+| I        | +       | +       |
+| II       | –       | +       |
+| III      | –       | –       |
+| IV       | +       | –       |
 
-✅ Importante: **Siempre se menciona primero la x y luego la y.**
+✅ **Ejemplos de uso:**
+- Mapas y GPS
+- Gráficas matemáticas
+- Videojuegos
+- Diseño gráfico y animación
+- Física (movimiento, fuerzas)
 
 ---
 
-### 🔹 Aplicaciones básicas
+### 🔹 Diferencias entre ambos sistemas
 
-- **Matemáticas:** Para graficar funciones, ecuaciones y figuras.
-- **Física:** Para representar trayectorias y vectores.
-- **Geografía:** En mapas y sistemas de posicionamiento GPS.
-- **Juegos:** Para ubicar personajes o movimientos.
+| Característica | Coordenadas Lineales | Coordenadas Cartesianas |
+|----------------|----------------------|---------------------------|
+| Número de ejes | 1                    | 2                         |
+| Dimensión      | 1D                   | 2D                        |
+| Representa     | Posición en línea    | Posición en plano         |
+| Uso            | Medidas simples      | Ubicaciones precisas      |
 
 ---
 
 ## ✍️ 4. Aplicación (30 minutos)
 
-**Propósito:** Practicar la ubicación de puntos y la interpretación de coordenadas.
-
-### 📝 Actividad 1: Ubica los siguientes puntos en un plano cartesiano
-
-**(Puedes dibujarlo en tu cuaderno o usar una hoja impresa con plano cartesiano)**
-
-- A = (3, 2)  
-- B = (–1, 4)  
-- C = (–2, –3)  
-- D = (4, –1)  
-
-Identifica en qué cuadrante queda cada uno.
+**Propósito:** Practicar la ubicación de puntos y comparar los dos sistemas.
 
 ---
 
-### 📝 Actividad 2: Identifica las coordenadas
+### 📝 Actividad 1: Sistema lineal
 
-Observa este conjunto de puntos ubicados en un plano e indica sus coordenadas:
+#### Dibuja una recta numérica y ubica los siguientes valores:
 
-_(Aquí puedes incluir una imagen simple con 4 puntos marcados o decirles: "Tu profesor te mostrará un plano con puntos marcados")_
+- A = –3  
+- B = 0  
+- C = 2.5  
+- D = 5  
 
-- Punto 1: _________  
-- Punto 2: _________  
-- Punto 3: _________  
-- Punto 4: _________
+¿Qué indica cada punto?  
+¿Cómo interpretarías un valor negativo?
 
 ---
 
-### 💡 Opcional: Juego rápido
+### 📝 Actividad 2: Sistema cartesiano
 
-Dibuja un pequeño mapa con objetos (ej.: árbol, casa, persona) y escribe sus coordenadas. Intercambia con un compañero para que descubra qué objeto corresponde a cada coordenada.
+#### Ubica los siguientes puntos en un plano cartesiano:
+
+- A = (1, 3)  
+- B = (–2, 1)  
+- C = (–3, –4)  
+- D = (4, –2)  
+
+Identifica el cuadrante de cada uno.
+
+---
+
+### 💬 Actividad 3: Comparación
+
+#### Contesta brevemente:
+
+1. ¿En qué se parecen ambos sistemas?  
+2. ¿Cuál da más información sobre la ubicación de un punto? ¿Por qué?  
+3. Da un ejemplo de algo que puedas representar con coordenadas lineales y otro con coordenadas cartesianas.
 
 ---
 
 ## 📌 Cierre de clase (opcional, 5 minutos)
 
-- ¿Qué aprendiste hoy sobre el plano cartesiano?
-- ¿Para qué sirve el sistema de coordenadas?
-- ¿En qué situaciones de tu vida crees que podrías usarlo?
-- ¿Qué fue lo más difícil de entender?
+- ¿Qué aprendimos hoy sobre los sistemas de coordenadas?
+- ¿Cuál te parece más útil y por qué?
+- ¿En qué materias o situaciones crees que usarás estos sistemas?
+- ¿Qué dudas te quedaron?
 
 ---
 
@@ -156,37 +162,48 @@ Te comparto una **hoja de trabajo editable** que puedes copiar a Word o Google D
 
 ---
 
-### 📋 **FICHA DE TRABAJO: PLANO CARTESIANO**
+### 📋 **FICHA DE TRABAJO: SISTEMAS DE COORDENADAS**
 
 #### Nombre: ________________________________  
 #### Fecha: _________________________________
 
 ---
 
-### 📍 **Ejercicio 1: Ubica los siguientes puntos en el plano cartesiano**
+### 📍 **Ejercicio 1: Sistema de coordenadas lineales**
 
-- A = (1, 2)  
-- B = (–3, 1)  
-- C = (–2, –4)  
-- D = (5, –2)
+Dibuja una recta numérica y marca los siguientes puntos:
 
-¿En qué cuadrante quedó cada uno?
+- A = –1  
+- B = 0  
+- C = 3.5  
+- D = 4  
 
-- A: __________  
-- B: __________  
-- C: __________  
-- D: __________
+¿Qué tipo de sistema es este? ___________________________
 
 ---
 
-### 📍 **Ejercicio 2: Escribe las coordenadas de los siguientes puntos**
+### 📍 **Ejercicio 2: Sistema de coordenadas cartesianas**
 
-_(Profesor/a proporcionará una imagen o ejemplo visual)_
+Ubica los siguientes puntos y anota el cuadrante donde quedan:
 
-- Punto 1: __________  
-- Punto 2: __________  
-- Punto 3: __________  
-- Punto 4: __________
+| Punto | Coordenadas | Cuadrante |
+|-------|--------------|------------|
+| A     | (2, –1)      |            |
+| B     | (–3, 4)      |            |
+| C     | (–2, –2)     |            |
+| D     | (5, 3)       |            |
+
+---
+
+### 💬 **Ejercicio 3: Comparación y reflexión**
+
+1. ¿Qué diferencia encuentras entre un sistema y otro?  
+______________________________________________________  
+______________________________________________________
+
+2. Menciona un ejemplo de uso de cada sistema:  
+- Lineal: _______________________________________  
+- Cartesiano: ___________________________________
 
 ---
 
@@ -194,11 +211,11 @@ _(Profesor/a proporcionará una imagen o ejemplo visual)_
 
 | **Criterio** | **Excelente (4)** | **Bueno (3)** | **Regular (2)** | **Básico (1)** | **No presente (0)** |
 |--------------|-------------------|---------------|------------------|----------------|----------------------|
-| **Ubicación correcta de puntos** | Todos los puntos están bien ubicados | La mayoría está bien | Algunos errores importantes | Muchos errores | Sin resolver |
-| **Identificación de cuadrantes** | Todos los cuadrantes correctamente señalados | La mayoría bien | Algunos mal | Muchos mal | Sin resolver |
-| **Lectura de coordenadas** | Coordenadas leídas correctamente | Algunas erróneas | Varios errores | Muy pocos aciertos | No entregado |
+| **Recta numérica correcta** | Todos los puntos bien ubicados | Algunos errores menores | Errores importantes | Muy desorganizado | Sin resolver |
+| **Plano cartesiano correcto** | Puntos y cuadrantes bien identificados | La mayoría bien | Algunos mal | Muchos errores | Sin resolver |
+| **Comparación clara** | Explica diferencias y usos correctamente | Algunas ideas confusas | Ideas incompletas | Respuesta muy corta o sin sentido | No entregado |
 | **Presentación y limpieza** | Trabajo claro y organizado | Algunos desordenes | Desordenado | Muy desorganizado | No realizado |
 
 ---
 
-¿Quieres que también genere un **plano cartesiano listo para imprimir** o un **formulario interactivo en Google Forms** para practicar estos ejercicios digitalmente?
+¿Quieres que genere un **plano cartesiano listo para imprimir**, una **presentación PowerPoint** o un **formulario interactivo en Google Forms** para practicar estos contenidos digitalmente?
