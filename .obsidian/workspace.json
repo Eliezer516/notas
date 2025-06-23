@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/Proyecto/0. Indice.md",
+                "file": "universidad/Presentacion sobre la robotica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Indice"
+              "title": "Presentacion sobre la robotica"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "2ee12d108e855559",
   "lastOpenFiles": [
-    "universidad/Presentacion sobre la robotica.md",
     "universidad/Proyecto/0. Indice.md",
+    "universidad/Presentacion sobre la robotica.md",
     "universidad/Proyecto/Diagnostico participativo.md",
     "universidad/Proyecto/Reseña del municipio.md",
     "universidad/Proyecto/Reseña de la escuela.md",
