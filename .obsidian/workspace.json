@@ -11,10 +11,14 @@
             "id": "2ee12d108e855559",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "universidad/Proyecto/Reseña del municipio.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Reseña del municipio"
             }
           }
         ]
@@ -167,8 +171,10 @@
   },
   "active": "2ee12d108e855559",
   "lastOpenFiles": [
-    "universidad/Proyecto/Reseña de la escuela.md",
     "universidad/Proyecto/0. Indice.md",
+    "universidad/Proyecto/Reseña del municipio.md",
+    "programación/prompts de IA/Clase participativa.md",
+    "universidad/Proyecto/Reseña de la escuela.md",
     "universidad/Proyecto",
     "preguntas para la entrevista.md",
     "nuevos conocimientos/La ilusion de control.md",
@@ -193,8 +199,6 @@
     "universidad/autores/Paulo Freire.md",
     "universidad/autores/Orlando Fals Borda.md",
     "universidad/autores/1. IAPT (definición).md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/3. Creación de Personajes y Diálogos.md",
-    "RRSS/GitSummarize.md",
     "universidad/ángulos y números radicales",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA",
     "_fit/programación/prompts de IA",
