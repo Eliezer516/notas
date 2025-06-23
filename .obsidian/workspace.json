@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3dbec5c9e1535a",
+        "id": "427f89bd8117339a",
         "type": "tabs",
         "children": [
           {
-            "id": "79b1d2b84d248758",
+            "id": "a5ea5a304880e487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/autores/Sandra Harding.md",
+                "file": "programación/prompts de IA/clase tipo ERCA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sandra Harding"
+              "title": "clase tipo ERCA"
             }
           }
         ]
@@ -169,36 +169,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "79b1d2b84d248758",
+  "active": "a5ea5a304880e487",
   "lastOpenFiles": [
+    "universidad/autores/2. IAP (autores).md",
+    "substack/0. general.md",
+    "programación/prompts de IA/criterios de evaluación.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/4. Presentación de Dramatizaciones.md",
+    "universidad/autores/Sandra Harding.md",
+    "universidad/Plano cartesiano/planificación.md",
+    "universidad/Plano cartesiano/General.md",
+    "universidad/Plano cartesiano/ERCA.md",
+    "universidad/Plano cartesiano/Desarrollo.md",
+    "universidad/Plano cartesiano",
     "universidad/autores/1. IAPT (autores).md",
     "universidad/autores/Linda Tuhiwai Smith.md",
     "universidad/autores/Fernando Hernández.md",
     "universidad/autores/Kurt Lewin.md",
     "universidad/autores/Paulo Freire.md",
     "universidad/autores/Orlando Fals Borda.md",
-    "universidad/autores/2. IAP (autores).md",
     "universidad/autores/1. IAPT (definición).md",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/3. Creación de Personajes y Diálogos.md",
     "RRSS/GitSummarize.md",
     "RRSS/Fontgenerator.md",
     "RRSS/CriticalCSS.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
     "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/cuaderno/2. Estructura del Sistema Sexagesimal.md",
     "RRSS/estructura de guion.md",
     "universidad/ángulos y números radicales/Planificación.md",
     "universidad/ángulos y números radicales/General.md",
     "universidad/ángulos y números radicales/ERCA.md",
     "universidad/ángulos y números radicales",
-    "programación/prompts de IA/estructura de guion.md",
-    "clases/2do año/Arte y patrimonio/3er lapso/3. Artes gráficas editoriales, periódicos, revistas, libros,impresos, publicidad/ERCA/2. Diseño y Composición Gráfica.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA/2. Técnicas de Narración Oral.md",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA",
-    "alabanzas.md",
-    "clases/1er año/Matemática/3er lapso/3. Sistema sexagesimal/ERCA/1. Introducción al Sistema Sexagesimal.md",
-    "_fit/clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/3. El Proceso Creativo del Artesano y la Artesana.md",
-    "_fit/clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/0. General.md",
-    "_fit/clases/1er año/Arte y patrimonio/3er lapso/2. El artesano y la artesana en los procesos de creaciónartesanal/1. Introducción a la Artesanía.md",
     "_fit/programación/prompts de IA",
     "_fit/copy",
     "_fit/universidad/autores",
@@ -206,7 +207,6 @@
     "_fit/RRSS",
     "_fit/substack",
     "_fit/programación",
-    "_fit/universidad",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
