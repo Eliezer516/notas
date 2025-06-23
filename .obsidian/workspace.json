@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/Proyecto/0. Indice.md",
+                "file": "universidad/Presentacion sobre la robotica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Indice"
+              "title": "Presentacion sobre la robotica"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "2ee12d108e855559",
   "lastOpenFiles": [
-    "universidad/Proyecto/Diagnostico participativo.md",
     "universidad/Proyecto/0. Indice.md",
+    "universidad/Presentacion sobre la robotica.md",
+    "universidad/Proyecto/Diagnostico participativo.md",
     "universidad/Proyecto/Reseña del municipio.md",
     "universidad/Proyecto/Reseña de la escuela.md",
     "programación/prompts de IA/Clase participativa.md",
@@ -198,7 +199,6 @@
     "universidad/autores/Fernando Hernández.md",
     "universidad/autores/Kurt Lewin.md",
     "universidad/autores/Paulo Freire.md",
-    "universidad/autores/Orlando Fals Borda.md",
     "universidad/ángulos y números radicales",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA",
     "_fit/programación/prompts de IA",
