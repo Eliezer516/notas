@@ -27,5 +27,5 @@ Llamada a la acción: sígueme, deja tu like para no perderte vídeos como este
 
 Genera un título, una descripción, una lista de palabras clave y una lista de etiquetas en minúsculas una al lado de otra. Todo debe de ser orgánico para conectar con el espectador.
 
-Ahórrate saludos y bienvenidas, entra directo al tema y no utilices lenguaje técnico, el video debe de ser entendible hasta para desarrolladores junior, no quiero voz en off y sugiéreme en que momentos puedo mostrar clips o capturas de este recurso.
+Ahórrate saludos y bienvenidas, entra directo al tema y no utilices lenguaje técnico, el video debe de ser entendible hasta para un niño, no quiero voz en off ya que voy a hablar a cama todo el Tiempo.
 ```

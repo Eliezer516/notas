@@ -1,7 +1,7 @@
 ---
 note_type: task
 ---
-- [ ] 1) rubiana
+- [x] 1) rubiana
 - [x] 2) adrianny
 - [x] 3) williany
 - [x] 4) sorianny
@@ -13,5 +13,5 @@ note_type: task
 - [x] 10) luque
 - [x] 11) Jhon Alex g9mez
 - [x] 12) leonardo
-- [ ] 13) Jonathan 
+- [x] 13) Jonathan 
 - [x] 14) Pernía 
