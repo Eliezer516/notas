@@ -17,6 +17,7 @@ draft: false
 #### 2: Propenso al desanimo
 1 Reyes 19:1
 [1]Acab dio a Jezabel la nueva de todo lo que Elías había hecho, y de cómo había matado a espada a todos los profetas.
+
 #### 3: La debilidad frente al pecado
 Romanos 8:1
 [1]Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu.
