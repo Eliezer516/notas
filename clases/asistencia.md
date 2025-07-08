@@ -12,6 +12,6 @@ note_type: task
 - [x] 9) balbuena
 - [x] 10) luque
 - [x] 11) Jhon Alex g9mez
-- [x] 12) leonardo
-- [x] 13) Jonathan 
-- [x] 14) Pernía 
+- [ ] 12) leonardo
+- [ ] 13) Jonathan 
+- [ ] 14) Pernía 
