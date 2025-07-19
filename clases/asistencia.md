@@ -1,17 +1,17 @@
 ---
 note_type: task
 ---
-- [x] 1) rubiana
-- [x] 2) adrianny
-- [x] 3) williany
-- [x] 4) sorianny
-- [x] 5) Camila ruzza
-- [x] 6) euzel
-- [x] 7) roxibel
-- [x] 8) shanttal 
-- [x] 9) balbuena
-- [x] 10) luque
-- [x] 11) Jhon Alex g9mez
+- [ ] 1) rubiana
+- [ ] 2) adrianny
+- [ ] 3) williany
+- [ ] 4) sorianny
+- [ ] 5) Camila ruzza
+- [ ] 6) euzel
+- [ ] 7) roxibel
+- [ ] 8) shanttal 
+- [ ] 9) balbuena
+- [ ] 10) luque
+- [ ] 11) Jhon Alex g9mez
 - [ ] 12) leonardo
 - [ ] 13) Jonathan 
-- [ ] 14) Pernía 
+- [x] 14) Pernía 
