@@ -5,8 +5,8 @@ draft: false
 note_type: task
 ---
 
-- [ ] Gimnasio 
+- [x] Gimnasio 
 - [ ] hotel
 - [ ] catálogo online 
-- [ ] clínica dental
+- [x] clínica dental
 - [ ] servicio de mudanza 
