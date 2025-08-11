@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/Presentacion sobre la robotica.md",
+                "file": "programación/prompts de IA/planificador de clases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentacion sobre la robotica"
+              "title": "planificador de clases"
             }
           }
         ]
@@ -171,8 +171,24 @@
   },
   "active": "2ee12d108e855559",
   "lastOpenFiles": [
-    "universidad/Proyecto/0. Indice.md",
+    "programación/prompts de IA/redactor de indicadores.md",
+    "programación/prompts de IA/criterios de evaluación.md",
+    "programación/prompts de IA/clase tipo ERCA.md",
+    "programación/prompts de IA/planificación Diaria.md",
+    "programación/prompts de IA/unidad de aprendizaje.md",
+    "universidad/Proyecto/diagnóstico participativo de la comunidad.md",
+    "nuevos conocimientos/sesgo de anclaje.md",
+    "guión vasos.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA/03-07-2025.md",
+    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA",
+    "clases/18-07-2025.md",
+    "Los 3 desafíos de nuestra vida.md",
+    "Campaña publicitaria.md",
+    "25-07-2025.md",
+    "07-07-2025.md",
+    "01-08-2025.md",
     "universidad/Presentacion sobre la robotica.md",
+    "universidad/Proyecto/0. Indice.md",
     "universidad/Proyecto/Diagnostico participativo.md",
     "universidad/Proyecto/Reseña del municipio.md",
     "universidad/Proyecto/Reseña de la escuela.md",
@@ -182,23 +198,8 @@
     "nuevos conocimientos/La ilusion de control.md",
     "RRSS/DevKitHub.md",
     "21-06-2025.md",
-    "programación/prompts de IA/clase tipo ERCA.md",
     "universidad/autores/2. IAP (autores).md",
-    "substack/0. general.md",
-    "programación/prompts de IA/criterios de evaluación.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/0. General.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/4. Presentación de Dramatizaciones.md",
-    "universidad/autores/Sandra Harding.md",
-    "universidad/Plano cartesiano/planificación.md",
-    "universidad/Plano cartesiano/General.md",
-    "universidad/Plano cartesiano/ERCA.md",
-    "universidad/Plano cartesiano/Desarrollo.md",
     "universidad/Plano cartesiano",
-    "universidad/autores/1. IAPT (autores).md",
-    "universidad/autores/Linda Tuhiwai Smith.md",
-    "universidad/autores/Fernando Hernández.md",
-    "universidad/autores/Kurt Lewin.md",
-    "universidad/autores/Paulo Freire.md",
     "universidad/ángulos y números radicales",
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA",
     "_fit/programación/prompts de IA",
@@ -206,7 +207,6 @@
     "_fit/universidad/autores",
     "_fit/nuevos conocimientos",
     "_fit/RRSS",
-    "_fit/substack",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
