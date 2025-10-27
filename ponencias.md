@@ -71,5 +71,16 @@ La unem tiene la responsabilidad de garantizar la formación gratuita y permanen
 
 Videos sobre los proyectos de cierre de las demás áreas trimestrales (química, biologia, física, 
 
-## 4. Obra de teatro: la ciencia con sabor venezolano 
+## 4. Obra de teatro: la ciencia con sabor venezolano
 
+## 5. Más videos
+ 
+Videos sobre los proyectos de cierre de las demás áreas trimestrales (química, biologia, física, 
+
+## 6. Break recreativo por parte de los estudiantes de la carrera de educación física
+
+## 7. Presentación: La almohadilla anti estres contra el dolor (compresas de arroz)
+
+## 8. La identidad en el fortalecimiento de nuestra venezolanidad
+
+## 9. Beneficios del aceite a base de orégano (área: química)
