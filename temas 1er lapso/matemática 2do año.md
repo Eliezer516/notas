@@ -3,17 +3,8 @@ title: matemática 2do año
 date: 01-11-2025
 draft: false
 ---
-
-## Diagnóstico  
-- A través de preguntas participativas y la aplicación de un cuestionario estructurado junto con ejercicios de exploración que permitan identificar los conocimientos previos y las posibles dificultades en matemáticas, los estudiantes resolverán problemas matemáticos básicos y responderán preguntas sobre diferentes temas del área. La finalidad de la clase es diagnosticar el nivel de comprensión y sus habilidades matemáticas para adaptar las futuras planificaciones a sus necesidades. El docente empleará el pizarrón para escribir instrucciones y ejemplos. Para finalizar se les darán los pasos para que elaboren un análisis de sus propias respuestas.  
-- **Técnica:** Cuestionario estructurado  
-- **Indicador:** -  
-
-## Plan de evaluación (discusión)  
-- A través de una sesión explicativa y participativa donde se analicen colectivamente los referentes teórico-prácticos, los criterios e instrumentos de evaluación, los estudiantes revisarán los objetivos de aprendizaje y plantearán dudas y sugerencias sobre el proceso. La finalidad de la clase es que los estudiantes comprendan claramente cómo serán evaluados, se apropien de los criterios de calidad y desarrollen autonomía en la gestión de su aprendizaje. Para finalizar se les pedirá que firmen el acta de conformidad donde se consolidará que los estudiantes estuvieron de acuerdo con lo establecido en el plan.  
-- **Técnica:** -  
-- **Indicador:** Identifica y traza correctamente los ejes de simetría en polígonos regulares usando regla y compás en su cuaderno.  
-
+[TOC]
+# Primer RTP 
 ## Concepto de funciones  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se explicará el concepto de funciones, incluyendo su definición como relación entre conjuntos y su representación mediante diferentes notaciones, y reforzará el tema mediante preguntas guiadas que exploren la comprensión de los estudiantes sobre las funciones como correspondencias entre variables.  
 - **Técnica:** Preguntas guiadas  
@@ -38,7 +29,7 @@ draft: false
 - Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Recursos Matemáticos, se integrarán todos los conceptos vistos sobre funciones mediante una evaluación práctica que consolide el aprendizaje, y reforzará el tema mediante una prueba práctica individual que abarque todos los temas estudiados. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.  
 - **Técnica:** Prueba práctica individual  
 - **Indicador:** Resuelve problemas complejos que integren múltiples conceptos de funciones en la prueba práctica individual. (5 pts)  
-
+# Segundo RTP 
 ## Introducción a los conjuntos numéricos Z y Q  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se introducirán los conjuntos numéricos Z (enteros) y Q (racionales), explicando sus características, elementos y diferencias, y reforzará el tema mediante la clasificación de números en estos conjuntos.  
 - **Técnica:** Ejercicios prácticos  
@@ -58,7 +49,7 @@ draft: false
 - A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de Matemáticas Simplificadas, se abordarán problemas aplicados en los conjuntos Z y Q, incluyendo situaciones que requieran el uso de operaciones con números enteros y racionales, y reforzará el tema mediante la resolución de una prueba escrita. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.  
 - **Técnica:** Prueba escrita  
 - **Indicador:** Resuelve problemas cotidianos que involucren operaciones con números enteros y racionales en una prueba escrita. (5 pts)  
-
+# Tercer RTP 
 ## Representación de puntos en un sistema de coordenadas rectangulares  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de GeoGebra.org, se explicará la representación de puntos en un sistema de coordenadas rectangulares, incluyendo la identificación de los ejes, cuadrantes y la ubicación precisa de puntos en el plano cartesiano, y reforzará el tema mediante la ubicación de puntos en el plano cartesiano.  
 - **Técnica:** Ubicación de puntos  
@@ -88,7 +79,7 @@ draft: false
 - Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Recursos Matemáticos, se abordarán las propiedades de la adición de vectores al ejecutar gráficamente operaciones, incluyendo la conmutatividad, asociatividad y existencia de elemento neutro, y reforzará el tema mediante la ejecución gráfica de operaciones con vectores. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.  
 - **Técnica:** Actividad práctica  
 - **Indicador:** Demuestra gráficamente la conmutatividad de la adición de vectores en una actividad práctica. (3 pts)  
-
+# Cuarto RTP 
 ## Aplicación de traslación a figuras planas  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de GeoGebra.org, se explicará la aplicación de traslación a figuras planas, incluyendo la definición, propiedades y métodos de traslación, y reforzará el tema mediante la realización de traslaciones en figuras geométricas.  
 - **Técnica:** Ejercicios prácticos  

@@ -3,22 +3,8 @@ title: matemática 1er año
 date: 01-11-2025
 draft: false
 ---
-
-## Diagnóstico  
-- A través de preguntas participativas y la aplicación de un cuestionario estructurado junto con ejercicios de exploración que permitan identificar los conocimientos previos y las posibles dificultades en matemáticas, los estudiantes resolverán problemas matemáticos básicos y responderán preguntas sobre diferentes temas del área. La finalidad de la clase es diagnosticar el nivel de comprensión y sus habilidades matemáticas para adaptar las futuras planificaciones a sus necesidades. El docente empleará el pizarrón para escribir instrucciones y ejemplos. Para finalizar se les darán los pasos para que elaboren un análisis de sus propias respuestas.  
-- **Técnica:** -  
-- **Indicador:** -  
-
-## Continuación del diagnóstico  
-- Seguidamente, con la ayuda de ejercicios progresivos y problemas contextualizados que profundicen en la identificación de habilidades matemáticas específicas, utilizando cuadernos de trabajo, material geométrico y recursos gráficos como carteles con fórmulas y tablas de datos, los y las estudiantes aplicarán diferentes estrategias de resolución, demostrarán procedimientos y explicarán sus razonamientos matemáticos. La finalidad de la clase es complementar el diagnóstico inicial mediante la evaluación de competencias más avanzadas y el análisis de la capacidad de transferencia de conocimientos a situaciones reales.  
-- **Técnica:** -  
-- **Indicador:** -  
-
-## Plan de evaluación (discusión)  
-- A través de una sesión explicativa y participativa donde se analicen colectivamente los referentes teórico-prácticos, los criterios e instrumentos de evaluación, los estudiantes revisarán los objetivos de aprendizaje y plantearán dudas y sugerencias sobre el proceso. La finalidad de la clase es que los estudiantes comprendan claramente cómo serán evaluados, se apropien de los criterios de calidad y desarrollen autonomía en la gestión de su aprendizaje. Para finalizar se les pedirá que firmen el acta de conformidad donde se consolidará que los estudiantes estuvieron de acuerdo con lo establecido en el plan.  
-- **Técnica:** -  
-- **Indicador:** -  
-
+[TOC]
+# Primer RTP
 ## Dibujo de polígonos con regla y compás  
 - Mediante preguntas guiadas y una serie de ejemplos sencillos, con el apoyo de un texto extraído de GeoGebra.org, se abordará el dibujo de polígonos con regla y compás, incluyendo técnicas básicas de construcción y precisión en el trazado, y reforzará el tema resolviendo cuatro ejercicios de construcción.  
 - **Técnica:** Ejercicios de construcción  
@@ -38,7 +24,7 @@ draft: false
 - Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Purplemath, se explicará la importancia de la prueba escrita sobre ángulos y medidas, regla y compás, enfatizando la aplicación de conceptos matemáticos en contextos geométricos, y se reforzará el tema mediante la respuesta a siete preguntas que evalúen la comprensión y aplicación de estos conceptos en diferentes escenarios. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.  
 - **Técnica:** Prueba escrita  
 - **Indicador:** Resuelve preguntas que requieren la aplicación de conocimientos sobre ángulos, regla y compás en una prueba escrita. (5 pts)  
-
+# Segundo RTP
 ## Definición y clasificación de polígonos  
 - Mediante preguntas guiadas y una serie de ejemplos, con el apoyo de textos extraídos de GeoGebra.org, se introducirá la definición y clasificación de polígonos, incluyendo sus nociones básicas (lados, vértices, ángulos) y criterios de clasificación (regulares/irregulares, cóncavos/convexos), y se reforzará el tema resolviendo cinco ejercicios de identificación y clasificación.  
 - **Técnica:** Ejercicios de identificación  
@@ -58,7 +44,7 @@ draft: false
 - Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Purplemath, se presentará el cálculo de perímetro y área de polígonos, incluyendo fórmulas para triángulos, cuadriláteros y polígonos regulares, y reforzará el tema resolviendo cinco ejercicios prácticos. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje del referente.  
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Calcula el perímetro de diversos polígonos a partir de las longitudes de sus lados en una hoja de ejercicios. (5 pts)  
-
+# Tercer RTP 
 ## Perímetro de polígonos, conceptos básicos  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se explicará el concepto de perímetro de polígonos, incluyendo la idea de sumar las longitudes de los lados y la clasificación básica de polígonos, reforzándose mediante la resolución de cuatro ejercicios con figuras y medidas proporcionadas.  
 - **Técnica:** Ejercicios prácticos  
@@ -78,7 +64,7 @@ draft: false
 - A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de STMath.org, se aplicarán los conceptos de perímetro y área en situaciones cotidianas, como diseño arquitectónico o medición de espacios, reforzando el tema mediante la creación de un tríptico grupal. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.  
 - **Técnica:** Tríptico  
 - **Indicador:** -  
-
+# Cuarto RTP
 ## Introducción al sistema de coordenadas  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de Purplemath, se introducirá el concepto de sistema de coordenadas, explicando su importancia en la representación gráfica de puntos y figuras geométricas en el plano cartesiano, y se reforzará el tema resolviendo ejercicios que involucran la ubicación de puntos en el sistema de coordenadas.  
 - **Técnica:** Ejercicios prácticos  
