@@ -3,7 +3,31 @@ title: matemática 1er año
 date: 01-11-2025
 draft: false
 ---
-[TOC]
+<!-- Table of Contents -->
+# Table of Contents
+1. [[matemática 1er año# Primer RTP|Primer RTP]]
+	1. [[matemática 1er año## Dibujo de polígonos con regla y compás  |Dibujo de polígonos con regla y compás  ]]
+	2. [[matemática 1er año## Construcción de ángulos y bisectrices  |Construcción de ángulos y bisectrices  ]]
+	3. [[matemática 1er año## Medición de ángulos con instrumentos y construcciones  |Medición de ángulos con instrumentos y construcciones  ]]
+	4. [[matemática 1er año## Prueba escrita sobre ángulos y medidas, regla y compás  |Prueba escrita sobre ángulos y medidas, regla y compás  ]]
+2. [[matemática 1er año# Segundo RTP|Segundo RTP]]
+	1. [[matemática 1er año## Definición y clasificación de polígonos  |Definición y clasificación de polígonos  ]]
+	2. [[matemática 1er año## Propiedades angulares  |Propiedades angulares  ]]
+	3. [[matemática 1er año## Elementos y simetría  |Elementos y simetría  ]]
+	4. [[matemática 1er año## Perímetro y área  |Perímetro y área  ]]
+3. [[matemática 1er año# Tercer RTP |Tercer RTP ]]
+	1. [[matemática 1er año## Perímetro de polígonos, conceptos básicos  |Perímetro de polígonos, conceptos básicos  ]]
+	2. [[matemática 1er año## Área de polígonos regulares, fórmulas clave  |Área de polígonos regulares, fórmulas clave  ]]
+	3. [[matemática 1er año## Área de polígonos irregulares  |Área de polígonos irregulares  ]]
+	4. [[matemática 1er año## Aplicación y resolución de problemas reales  |Aplicación y resolución de problemas reales  ]]
+4. [[matemática 1er año# Cuarto RTP|Cuarto RTP]]
+	1. [[matemática 1er año## Introducción al sistema de coordenadas  |Introducción al sistema de coordenadas  ]]
+	2. [[matemática 1er año## Distancia y punto medio entre 2 puntos  |Distancia y punto medio entre 2 puntos  ]]
+	3. [[matemática 1er año## Ecuaciones lineales y pendiente  |Ecuaciones lineales y pendiente  ]]
+	4. [[matemática 1er año## Aplicaciones en contextos reales y resolución integrada  |Aplicaciones en contextos reales y resolución integrada  ]]
+
+<!-- End of TOC -->
+
 # Primer RTP
 ## Dibujo de polígonos con regla y compás  
 - Mediante preguntas guiadas y una serie de ejemplos sencillos, con el apoyo de un texto extraído de GeoGebra.org, se abordará el dibujo de polígonos con regla y compás, incluyendo técnicas básicas de construcción y precisión en el trazado, y reforzará el tema resolviendo cuatro ejercicios de construcción.  

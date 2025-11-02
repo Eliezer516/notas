@@ -3,7 +3,35 @@ title: matemática 2do año
 date: 01-11-2025
 draft: false
 ---
-[TOC]
+<!-- Table of Contents -->
+# Table of Contents
+1. [[matemática 2do año# Primer RTP |Primer RTP ]]
+	1. [[matemática 2do año## Concepto de funciones  |Concepto de funciones  ]]
+	2. [[matemática 2do año## Dominio, rango y tipos de funciones  |Dominio, rango y tipos de funciones  ]]
+	3. [[matemática 2do año## Tipos de funciones: inyectiva, sobreyectiva y biyectiva  |Tipos de funciones: inyectiva, sobreyectiva y biyectiva  ]]
+	4. [[matemática 2do año## Función Afín  |Función Afín  ]]
+	5. [[matemática 2do año## Evaluación final sobre los temas vistos  |Evaluación final sobre los temas vistos  ]]
+2. [[matemática 2do año# Segundo RTP |Segundo RTP ]]
+	1. [[matemática 2do año## Introducción a los conjuntos numéricos Z y Q  |Introducción a los conjuntos numéricos Z y Q  ]]
+	2. [[matemática 2do año## Operaciones en Z  |Operaciones en Z  ]]
+	3. [[matemática 2do año## Operaciones en Q  |Operaciones en Q  ]]
+	4. [[matemática 2do año## Problemas aplicados en Z y Q  |Problemas aplicados en Z y Q  ]]
+3. [[matemática 2do año# Tercer RTP |Tercer RTP ]]
+	1. [[matemática 2do año## Representación de puntos en un sistema de coordenadas rectangulares  |Representación de puntos en un sistema de coordenadas rectangulares  ]]
+	2. [[matemática 2do año## Proyecciones ortogonales de puntos y segmentos sobre una recta  |Proyecciones ortogonales de puntos y segmentos sobre una recta  ]]
+	3. [[matemática 2do año## Representación de vectores en el plano  |Representación de vectores en el plano  ]]
+	4. [[matemática 2do año## Representación de vectores equipolentes  |Representación de vectores equipolentes  ]]
+	5. [[matemática 2do año## Suma de vectores  |Suma de vectores  ]]
+	6. [[matemática 2do año## Propiedades de la adición de vectores al ejecutar gráficamente operaciones  |Propiedades de la adición de vectores al ejecutar gráficamente operaciones  ]]
+4. [[matemática 2do año# Cuarto RTP |Cuarto RTP ]]
+	1. [[matemática 2do año## Aplicación de traslación a figuras planas  |Aplicación de traslación a figuras planas  ]]
+	2. [[matemática 2do año## Aplicación de rotación a figuras planas  |Aplicación de rotación a figuras planas  ]]
+	3. [[matemática 2do año## Figuras congruentes  |Figuras congruentes  ]]
+	4. [[matemática 2do año## Criterios de congruencia de triángulos  |Criterios de congruencia de triángulos  ]]
+	5. [[matemática 2do año## Problemas donde se utilicen criterios de congruencia de triángulos  |Problemas donde se utilicen criterios de congruencia de triángulos  ]]
+
+<!-- End of TOC -->
+
 # Primer RTP 
 ## Concepto de funciones  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se explicará el concepto de funciones, incluyendo su definición como relación entre conjuntos y su representación mediante diferentes notaciones, y reforzará el tema mediante preguntas guiadas que exploren la comprensión de los estudiantes sobre las funciones como correspondencias entre variables.  

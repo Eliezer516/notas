@@ -1,5 +1,7 @@
 [
   "github-sync",
   "longform",
-  "docxer"
+  "docxer",
+  "obsidian-plugin-toc",
+  "table-of-contents-automatic-but-compatible-with-publish"
 ]

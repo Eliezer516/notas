@@ -3,7 +3,25 @@ title: orientación y convivencia
 date: 01-11-2025
 draft: false
 ---
-[TOC]
+<!-- Table of Contents -->
+# Table of Contents
+1. [[orientación y convivencia# Primer RTP|Primer RTP]]
+	1. [[orientación y convivencia## Bienvenida al nuevo año escolar  |Bienvenida al nuevo año escolar  ]]
+	2. [[orientación y convivencia## Plan de evaluación (discusión)  |Plan de evaluación (discusión)  ]]
+	3. [[orientación y convivencia## Comunicar sin palabras – Introducción a la comunicación no verbal  |Comunicar sin palabras – Introducción a la comunicación no verbal  ]]
+	4. [[orientación y convivencia## Sistemas específicos y su interpretación  |Sistemas específicos y su interpretación  ]]
+	5. [[orientación y convivencia## Aplicación práctica y comunicación eficaz  |Aplicación práctica y comunicación eficaz  ]]
+2. [[orientación y convivencia# Segundo RTP|Segundo RTP]]
+	1. [[orientación y convivencia## Conocernos a nosotros mismos – ¿Quién soy? Explorando la identidad  |Conocernos a nosotros mismos – ¿Quién soy? Explorando la identidad  ]]
+	2. [[orientación y convivencia## El mundo de las emociones  |El mundo de las emociones  ]]
+	3. [[orientación y convivencia## Fortalezas, metas y autoconcepto  |Fortalezas, metas y autoconcepto  ]]
+3. [[orientación y convivencia# Tercer RTP|Tercer RTP]]
+	1. [[orientación y convivencia## Nosotros por dentro y por fuera – Nuestro exterior: características físicas y percepciones  |Nosotros por dentro y por fuera – Nuestro exterior: características físicas y percepciones  ]]
+	2. [[orientación y convivencia## Nuestro interior: emociones, pensamientos y personalidad  |Nuestro interior: emociones, pensamientos y personalidad  ]]
+	3. [[orientación y convivencia## Integrando el interior y el exterior: autoconocimiento y empatía  |Integrando el interior y el exterior: autoconocimiento y empatía  ]]
+
+<!-- End of TOC -->
+
 # Primer RTP
 ## Bienvenida al nuevo año escolar  
 - Mediante la participación activa de los estudiantes con preguntas acerca de sus vacaciones se abordará la bienvenida al nuevo año escolar, incluyendo expectativas, normas de convivencia y objetivos generales del curso, se aprovechará para iniciar con el diagnóstico pertinente y se reforzará el tema mediante la elaboración de un acuerdo de aula colaborativo.  

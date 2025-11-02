@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f70fe5ade54f486",
+        "id": "efb1edfbd8b9885a",
         "type": "tabs",
         "children": [
           {
-            "id": "e2932be085aff428",
+            "id": "a39ea962ccd4f082",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -156,17 +156,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b741bdeb592d922f",
+  "active": "a39ea962ccd4f082",
   "lastOpenFiles": [
+    "temas 1er lapso/matemática 1er año.md",
+    "temas 1er lapso/matemática 2do año.md",
+    "temas 1er lapso/orientación y convivencia.md",
     "polígonos.md",
     "plan dibujo artístico.md",
     "funciones.md",
@@ -191,9 +195,6 @@
     "25-07-2025.md",
     "07-07-2025.md",
     "01-08-2025.md",
-    "universidad/Presentacion sobre la robotica.md",
-    "universidad/Proyecto/0. Indice.md",
-    "universidad/Proyecto/Diagnostico participativo.md",
     "universidad/Proyecto",
     "universidad/Plano cartesiano",
     "universidad/ángulos y números radicales",
