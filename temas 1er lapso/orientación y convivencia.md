@@ -3,36 +3,8 @@ title: orientación y convivencia
 date: 01-11-2025
 draft: false
 ---
-<!-- Table of Contents -->
-# Table of Contents
-1. [[orientación y convivencia# Primer RTP|Primer RTP]]
-	1. [[orientación y convivencia## Bienvenida al nuevo año escolar  |Bienvenida al nuevo año escolar  ]]
-	2. [[orientación y convivencia## Plan de evaluación (discusión)  |Plan de evaluación (discusión)  ]]
-	3. [[orientación y convivencia## Comunicar sin palabras – Introducción a la comunicación no verbal  |Comunicar sin palabras – Introducción a la comunicación no verbal  ]]
-	4. [[orientación y convivencia## Sistemas específicos y su interpretación  |Sistemas específicos y su interpretación  ]]
-	5. [[orientación y convivencia## Aplicación práctica y comunicación eficaz  |Aplicación práctica y comunicación eficaz  ]]
-2. [[orientación y convivencia# Segundo RTP|Segundo RTP]]
-	1. [[orientación y convivencia## Conocernos a nosotros mismos – ¿Quién soy? Explorando la identidad  |Conocernos a nosotros mismos – ¿Quién soy? Explorando la identidad  ]]
-	2. [[orientación y convivencia## El mundo de las emociones  |El mundo de las emociones  ]]
-	3. [[orientación y convivencia## Fortalezas, metas y autoconcepto  |Fortalezas, metas y autoconcepto  ]]
-3. [[orientación y convivencia# Tercer RTP|Tercer RTP]]
-	1. [[orientación y convivencia## Nosotros por dentro y por fuera – Nuestro exterior: características físicas y percepciones  |Nosotros por dentro y por fuera – Nuestro exterior: características físicas y percepciones  ]]
-	2. [[orientación y convivencia## Nuestro interior: emociones, pensamientos y personalidad  |Nuestro interior: emociones, pensamientos y personalidad  ]]
-	3. [[orientación y convivencia## Integrando el interior y el exterior: autoconocimiento y empatía  |Integrando el interior y el exterior: autoconocimiento y empatía  ]]
-
-<!-- End of TOC -->
-
+[TOC]
 # Primer RTP
-## Bienvenida al nuevo año escolar  
-- Mediante la participación activa de los estudiantes con preguntas acerca de sus vacaciones se abordará la bienvenida al nuevo año escolar, incluyendo expectativas, normas de convivencia y objetivos generales del curso, se aprovechará para iniciar con el diagnóstico pertinente y se reforzará el tema mediante la elaboración de un acuerdo de aula colaborativo.  
-- **Técnica:** La cadena de los acuerdos  
-- **Indicador:** -  
-
-## Plan de evaluación (discusión)  
-- Seguidamente se presentará el plan de evaluación del momento pedagógico mediante una discusión participativa, incluyendo criterios, instrumentos y porcentajes de evaluación, y reforzará el tema mediante la resolución de dudas y preguntas sobre el sistema de calificación.  
-- **Técnica:** Clase participativa  
-- **Indicador:** -  
-
 ## Comunicar sin palabras – Introducción a la comunicación no verbal  
 - Mediante la participación activa de los estudiantes con preguntas abiertas, textos extraídos de PsicologiaYmente.com y otras fuentes de internet, se introducirá el concepto de comunicación no verbal, incluyendo sus elementos fundamentales y diferencias con la comunicación verbal, y reforzará el tema mediante la observación y análisis de tres escenas cotidianas grabadas.  
 - **Técnica:** Ejemplos visuales  
@@ -49,7 +21,7 @@ draft: false
 - **Indicador:** Aplica conscientemente al menos dos técnicas de mejora de comunicación no verbal en una simulación grabada. (5 pts)  
 # Segundo RTP
 ## Conocernos a nosotros mismos – ¿Quién soy? Explorando la identidad  
-- Mediante la participación activa de los estudiantes con preguntas abiertas, textos extraídos de PsicologiaYmente.com y otras fuentes de internet, se abordará la exploración de la identidad personal "¿Quién soy?", incluyendo sus dimensiones física, social y psicológica, y reforzará el tema mediante la elaboración de un autorretrato reflexivo.  
+Mediante la participación activa de los estudiantes con preguntas abiertas, textos extraídos de PsicologiaYmente.com y otras fuentes de internet, se abordará la exploración de la identidad personal "¿Quién soy?", incluyendo sus dimensiones física, social y psicológica, y reforzará el tema mediante la elaboración de un autorretrato reflexivo.  
 - **Técnica:** Autorretrato reflexivo  
 - **Indicador:** Describe de manera clara tres aspectos fundamentales de su identidad en un ejercicio escrito guiado. (5 pts)  
 
