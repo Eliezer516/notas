@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "efb1edfbd8b9885a",
+        "id": "c2b2accce8440fe6",
         "type": "tabs",
         "children": [
           {
-            "id": "a39ea962ccd4f082",
+            "id": "1abd3a8c93d8594f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clases/cálculo del área de polígonos irregulares.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "cálculo del área de polígonos irregulares"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/autores/0. General.md",
+                "file": "temas 1er lapso/matemática 2do año.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. General"
+              "title": "Enlaces entrantes de matemática 2do año"
             }
           },
           {
@@ -138,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases/1er año/Arte y patrimonio/Diversidad Cultural e Interculturalidad/0. General.md",
+                "file": "clases/cálculo del área de polígonos irregulares.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. General"
+              "title": "Esquema de cálculo del área de polígonos irregulares"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,13 +170,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a39ea962ccd4f082",
+  "active": "1abd3a8c93d8594f",
   "lastOpenFiles": [
-    "clases/quien soy, explorando la identidad.md",
-    "clases/03-11-2025.md",
     "temas 1er lapso/matemática 1er año.md",
+    "clases/cálculo del área de polígonos irregulares.md",
+    "clases/representación de vectores en el plano.md",
     "temas 1er lapso/matemática 2do año.md",
     "temas 1er lapso/orientación y convivencia.md",
+    "clases/quien soy, explorando la identidad.md",
+    "clases/03-11-2025.md",
     "polígonos.md",
     "plan dibujo artístico.md",
     "funciones.md",
@@ -193,8 +199,6 @@
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA",
     "clases/18-07-2025.md",
     "Los 3 desafíos de nuestra vida.md",
-    "Campaña publicitaria.md",
-    "25-07-2025.md",
     "universidad/Proyecto",
     "universidad/Plano cartesiano",
     "universidad/ángulos y números radicales",
