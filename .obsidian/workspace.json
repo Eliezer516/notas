@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c2b2accce8440fe6",
+        "id": "ea7be9af95277d08",
         "type": "tabs",
         "children": [
           {
-            "id": "1abd3a8c93d8594f",
+            "id": "450d9a8bb87f84d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/cálculo del área de polígonos irregulares.md",
+                "file": "clases/dibujo/plan dibujo artístico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cálculo del área de polígonos irregulares"
+              "title": "plan dibujo artístico"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases/cálculo del área de polígonos irregulares.md",
+                "file": "clases/dibujo/plan dibujo artístico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de cálculo del área de polígonos irregulares"
+              "title": "Esquema de plan dibujo artístico"
             }
           }
         ],
@@ -170,17 +170,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1abd3a8c93d8594f",
+  "active": "450d9a8bb87f84d2",
   "lastOpenFiles": [
-    "temas 1er lapso/matemática 1er año.md",
     "clases/cálculo del área de polígonos irregulares.md",
+    "clases/dibujo",
+    "clases/temas 1er lapso/orientación y convivencia.md",
+    "clases/temas 1er lapso/matemática 2do año.md",
+    "clases/temas 1er lapso/matemática 1er año.md",
+    "clases/temas 1er lapso",
+    "temas 1er lapso/matemática 1er año.md",
     "clases/representación de vectores en el plano.md",
     "temas 1er lapso/matemática 2do año.md",
     "temas 1er lapso/orientación y convivencia.md",
     "clases/quien soy, explorando la identidad.md",
     "clases/03-11-2025.md",
     "polígonos.md",
-    "plan dibujo artístico.md",
+    "clases/dibujo/plan dibujo artístico.md",
     "funciones.md",
     "ejercicios de evaluación de funciones.md",
     "07-10-2025.md",
@@ -194,11 +199,7 @@
     "programación/prompts de IA/unidad de aprendizaje.md",
     "universidad/Proyecto/diagnóstico participativo de la comunidad.md",
     "nuevos conocimientos/sesgo de anclaje.md",
-    "guión vasos.md",
-    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA/03-07-2025.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA",
-    "clases/18-07-2025.md",
-    "Los 3 desafíos de nuestra vida.md",
     "universidad/Proyecto",
     "universidad/Plano cartesiano",
     "universidad/ángulos y números radicales",
@@ -206,8 +207,6 @@
     "_fit/programación/prompts de IA",
     "_fit/copy",
     "_fit/universidad/autores",
-    "_fit/nuevos conocimientos",
-    "_fit/RRSS",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
