@@ -37,7 +37,7 @@ draft: false
     *   *Definición Adaptada:* "Un vector es equipolente a otro si tiene la misma **dirección** (la línea imaginaria por donde va), el mismo **sentido** (hacia dónde apunta en esa línea) y el mismo **módulo** (la longitud de la flecha)."
 *   **Ejemplo Visual en la Pizarra:**
     *   Dibujar un plano cartesiano (los ejes X e Y).
-    *   Dibujar un vector $\vec{u}$ que empiece en $(1, 2)$ y termine en $(4, 5)$. Explicar cómo se calcula su "recorrido": "Avanzó 3 pasos en horizontal (de 1 a 4) y 3 pasos en vertical (de 2 a 5)". Escribir esto: $\vec{u} = (+3, +3)$.
+    *   Dibujar un vector $\vec{u}$ que empiece en $(1, 2)$ y termine en $$(4, 5)$$. Explicar cómo se calcula su "recorrido": "Avanzó 3 pasos en horizontal (de 1 a 4) y 3 pasos en vertical (de 2 a 5)". Escribir esto: $\vec{u} = (+3, +3)$.
     *   Dibujar otro vector $\vec{v}$ que empiece en $(-2, -1)$ y termine en $(1, 2)$. Calcular su recorrido: "Avanzó 3 pasos en horizontal (de -2 a 1) y 3 pasos en vertical (de -1 a 2)". Escribir: $\vec{v} = (+3, +3)$.
     *   "¡Miren! Ambos avanzaron lo mismo horizontalmente (+3) y lo mismo verticalmente (+3). ¡Son vectores equipolentes!"
     *   Mostrar un tercer vector $\vec{w}$ que empiece en $(0, 0)$ y termine en $(3, 3)$. "Este también avanza (+3, +3). ¡Es equipolente a los otros dos!"
