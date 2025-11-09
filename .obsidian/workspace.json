@@ -11,14 +11,10 @@
             "id": "450d9a8bb87f84d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/dibujo/plan dibujo artístico.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "plan dibujo artístico"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases/dibujo/plan dibujo artístico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de plan dibujo artístico"
+              "title": "Esquema"
             }
           }
         ],
@@ -170,8 +165,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "450d9a8bb87f84d2",
+  "active": "b741bdeb592d922f",
   "lastOpenFiles": [
+    "clases/dibujo/plan dibujo artístico.md",
+    "clases/Representación de vectores equipolentes.md",
     "clases/cálculo del área de polígonos irregulares.md",
     "clases/dibujo",
     "clases/temas 1er lapso/orientación y convivencia.md",
@@ -185,7 +182,6 @@
     "clases/quien soy, explorando la identidad.md",
     "clases/03-11-2025.md",
     "polígonos.md",
-    "clases/dibujo/plan dibujo artístico.md",
     "funciones.md",
     "ejercicios de evaluación de funciones.md",
     "07-10-2025.md",
