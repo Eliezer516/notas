@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7be9af95277d08",
+        "id": "f19c6862fe4d78f4",
         "type": "tabs",
         "children": [
           {
-            "id": "450d9a8bb87f84d2",
+            "id": "c040d7fa74f26bcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clases/temas 1er lapso/orientación y convivencia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "orientación y convivencia"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "clases/temas 1er lapso/orientación y convivencia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de orientación y convivencia"
             }
           }
         ],
@@ -165,13 +170,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b741bdeb592d922f",
+  "active": "c040d7fa74f26bcc",
   "lastOpenFiles": [
+    "clases/El mundo de las emociones.md",
+    "clases/temas 1er lapso/orientación y convivencia.md",
     "clases/dibujo/plan dibujo artístico.md",
     "clases/Representación de vectores equipolentes.md",
     "clases/cálculo del área de polígonos irregulares.md",
     "clases/dibujo",
-    "clases/temas 1er lapso/orientación y convivencia.md",
     "clases/temas 1er lapso/matemática 2do año.md",
     "clases/temas 1er lapso/matemática 1er año.md",
     "clases/temas 1er lapso",
@@ -194,7 +200,6 @@
     "programación/prompts de IA/planificación Diaria.md",
     "programación/prompts de IA/unidad de aprendizaje.md",
     "universidad/Proyecto/diagnóstico participativo de la comunidad.md",
-    "nuevos conocimientos/sesgo de anclaje.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA",
     "universidad/Proyecto",
     "universidad/Plano cartesiano",
