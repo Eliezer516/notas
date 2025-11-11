@@ -65,7 +65,8 @@ draft: false
 - **Técnica:** Tríptico  
 - **Indicador:** -  
 # Cuarto RTP
-## Introducción al sistema de coordenadas  
+## Introducción al sistema de coordenadas 
+[[introducción al sistema de coordenadas|Desarrollo]]
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de Purplemath, se introducirá el concepto de sistema de coordenadas, explicando su importancia en la representación gráfica de puntos y figuras geométricas en el plano cartesiano, y se reforzará el tema resolviendo ejercicios que involucran la ubicación de puntos en el sistema de coordenadas.  
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Ubica correctamente puntos en el plano cartesiano utilizando pares ordenados en los ejercicios dados. (5 pts)  

@@ -65,13 +65,14 @@ draft: false
 - **Técnica:** Actividad interactiva  
 - **Indicador:** Representa gráficamente vectores en el plano cartesiano identificando su punto inicial y final en una actividad interactiva. (2 pts)  
 
-## [[Representación de vectores equipolentes]]  
+## Representación de vectores equipolentes 
+ [[Representación de vectores equipolentes|Desarrollo]]
 - A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de Matemáticas Simplificadas, se abordará el concepto de vectores equipolentes, incluyendo su definición y propiedades, y reforzará el tema mediante la identificación y representación de vectores equipolentes en el plano.  
 - **Técnica:** Actividad práctica  
 - **Indicador:** Identifica vectores equipolentes en un conjunto de vectores dados en una actividad práctica. (5 pts)  
 
 ## Suma de vectores  
-Desarrollo: [suma de vectores](suma%20de%20vectores.md)
+[[suma de vectores|Desarrollo]]
 - Con la ayuda de los apuntes de la clase anterior y el texto extraído de GeoGebra.org, se explicará la suma de vectores, incluyendo los métodos gráficos y algebraicos, y reforzará el tema mediante la resolución de ejercicios que involucren la suma de vectores.  
 - **Técnica:** Actividad interactiva  
 - **Indicador:** Suma vectores gráficamente utilizando la regla del polígono en una actividad interactiva. (3 pts)  

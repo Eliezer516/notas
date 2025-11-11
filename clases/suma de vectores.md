@@ -30,7 +30,7 @@ Este método es eficiente cuando los vectores están expresados en coordenadas.
 
 **Propiedades fundamentales de la suma de vectores:**
 - **Conmutativa:** $\mathbf{u} + \mathbf{v} = \mathbf{v} + \mathbf{u}$
-- **Asociativa:** $(\mathbf{u} + \mathbf{v}) + \mathbf{w} = \mathbf{u} + (\mathbf{v} + \mathbf{w})$
+- **Asociativa:** ($\mathbf{u} + \mathbf{v}) + \mathbf{w} = \mathbf{u} + (\mathbf{v} + \mathbf{w}$)
 - **Existencia del vector nulo:** $\mathbf{v} + \mathbf{0} = \mathbf{v}$
 - **Existencia del opuesto:** $\mathbf{v} + (-\mathbf{v}) = \mathbf{0}$
 
