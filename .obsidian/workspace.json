@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f19c6862fe4d78f4",
+        "id": "e3d3f8770e9348ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c040d7fa74f26bcc",
+            "id": "ab429196cd7da66d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/temas 1er lapso/orientación y convivencia.md",
+                "file": "clases/El mundo de las emociones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "orientación y convivencia"
+              "title": "El mundo de las emociones"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases/temas 1er lapso/orientación y convivencia.md",
+                "file": "clases/El mundo de las emociones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de orientación y convivencia"
+              "title": "Esquema de El mundo de las emociones"
             }
           }
         ],
@@ -167,12 +167,16 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c040d7fa74f26bcc",
+  "active": "ab429196cd7da66d",
   "lastOpenFiles": [
+    "Sin título.md",
+    "clases/new.md",
     "clases/El mundo de las emociones.md",
+    "plantillas",
     "clases/temas 1er lapso/orientación y convivencia.md",
     "clases/dibujo/plan dibujo artístico.md",
     "clases/Representación de vectores equipolentes.md",
@@ -198,8 +202,6 @@
     "programación/prompts de IA/criterios de evaluación.md",
     "programación/prompts de IA/clase tipo ERCA.md",
     "programación/prompts de IA/planificación Diaria.md",
-    "programación/prompts de IA/unidad de aprendizaje.md",
-    "universidad/Proyecto/diagnóstico participativo de la comunidad.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA",
     "universidad/Proyecto",
     "universidad/Plano cartesiano",
@@ -207,7 +209,6 @@
     "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA",
     "_fit/programación/prompts de IA",
     "_fit/copy",
-    "_fit/universidad/autores",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]

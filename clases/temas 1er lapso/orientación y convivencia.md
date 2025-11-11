@@ -25,7 +25,7 @@ Mediante la participación activa de los estudiantes con preguntas abiertas, tex
 - **Técnica:** Autorretrato reflexivo  
 - **Indicador:** Describe de manera clara tres aspectos fundamentales de su identidad en un ejercicio escrito guiado. (5 pts)  
 
-## [El mundo de las emociones](El%20mundo%20de%20las%20emociones.md)  
+## [[El mundo de las emociones]]
 - Seguidamente, se introducirá el “mundo de las emociones”, incluyendo su identificación, clasificación y funciones adaptativas, y reforzará el tema mediante el registro de respuestas emocionales en situaciones cotidianas.  
 - **Técnica:** Representación de escenarios cotidianos  
 - **Indicador:** Identifica correctamente emociones básicas y complejas en diferentes escenarios presentados en clase. (5 pts)  
