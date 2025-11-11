@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/El mundo de las emociones.md",
-                "mode": "source",
+                "file": "clases/temas 1er lapso/matemática 2do año.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El mundo de las emociones"
+              "title": "matemática 2do año"
+            }
+          },
+          {
+            "id": "a3ab9bd6d41cff35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clases/temas 1er lapso/matemática 1er año.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "matemática 1er año"
             }
           }
         ]
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases/El mundo de las emociones.md",
+                "file": "clases/temas 1er lapso/matemática 2do año.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de El mundo de las emociones"
+              "title": "Esquema de matemática 2do año"
             }
           }
         ],
@@ -173,17 +187,18 @@
   },
   "active": "ab429196cd7da66d",
   "lastOpenFiles": [
+    "clases/suma de vectores.md",
+    "clases/temas 1er lapso/matemática 2do año.md",
+    "clases/temas 1er lapso/matemática 1er año.md",
+    "clases/El mundo de las emociones.md",
+    "clases/temas 1er lapso/orientación y convivencia.md",
     "Sin título.md",
     "clases/new.md",
-    "clases/El mundo de las emociones.md",
     "plantillas",
-    "clases/temas 1er lapso/orientación y convivencia.md",
     "clases/dibujo/plan dibujo artístico.md",
     "clases/Representación de vectores equipolentes.md",
     "clases/cálculo del área de polígonos irregulares.md",
     "clases/dibujo",
-    "clases/temas 1er lapso/matemática 2do año.md",
-    "clases/temas 1er lapso/matemática 1er año.md",
     "clases/temas 1er lapso",
     "temas 1er lapso/matemática 1er año.md",
     "clases/representación de vectores en el plano.md",
@@ -201,7 +216,6 @@
     "programación/prompts de IA/redactor de indicadores.md",
     "programación/prompts de IA/criterios de evaluación.md",
     "programación/prompts de IA/clase tipo ERCA.md",
-    "programación/prompts de IA/planificación Diaria.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA",
     "universidad/Proyecto",
     "universidad/Plano cartesiano",

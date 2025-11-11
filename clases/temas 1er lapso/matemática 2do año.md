@@ -71,6 +71,7 @@ draft: false
 - **Indicador:** Identifica vectores equipolentes en un conjunto de vectores dados en una actividad práctica. (5 pts)  
 
 ## Suma de vectores  
+Desarrollo: [suma de vectores](suma%20de%20vectores.md)
 - Con la ayuda de los apuntes de la clase anterior y el texto extraído de GeoGebra.org, se explicará la suma de vectores, incluyendo los métodos gráficos y algebraicos, y reforzará el tema mediante la resolución de ejercicios que involucren la suma de vectores.  
 - **Técnica:** Actividad interactiva  
 - **Indicador:** Suma vectores gráficamente utilizando la regla del polígono en una actividad interactiva. (3 pts)  
