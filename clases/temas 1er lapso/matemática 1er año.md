@@ -63,7 +63,11 @@ draft: false
 ## Aplicación y resolución de problemas reales  
 - A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de STMath.org, se aplicarán los conceptos de perímetro y área en situaciones cotidianas, como diseño arquitectónico o medición de espacios, reforzando el tema mediante la creación de un tríptico grupal. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.  
 - **Técnica:** Tríptico  
-- **Indicador:** -  
+- **Indicador:** Organizan información de manera lógica y visualmente atractiva en las caras del tríptico asegurando la coherencia y claridad del mensaje (5pts)
+
+| **Excelente (5 puntos)** | **Bien (4 puntos)** | **Regular (3 puntos)** | **Por Mejorar (1 punto)** |
+|---|---|---|---|
+| La información está organizada de manera lógica y coherente en todas las caras del tríptico. El diseño es visualmente atractivo, facilita la lectura y la comprensión del mensaje. La disposición de textos e imágenes es impecable. | La información está organizada de manera mayormente lógica y coherente. El diseño es atractivo y permite una buena lectura del mensaje, aunque podría tener alguna mejora en la disposición de elementos. | La organización de la información presenta algunas inconsistencias lógicas o de coherencia. El diseño es funcional pero no destaca por su atractivo visual, dificultando en ocasiones la lectura o comprensión del mensaje. | La información está desorganizada, ilógica o incoherente. El diseño es poco atractivo, dificulta la lectura y la comprensión del mensaje principal del tríptico. |
 # Cuarto RTP
 ## Introducción al sistema de coordenadas 
 [[introducción al sistema de coordenadas|Desarrollo]]
