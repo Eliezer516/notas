@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3d3f8770e9348ce",
+        "id": "c1e7c10a189f2ebd",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ab9bd6d41cff35",
+            "id": "6481fba25b485061",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/temas 1er lapso/matemática 1er año.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "matemática 1er año"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases/temas 1er lapso/matemática 1er año.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of matemática 1er año"
+              "title": "Outline"
             }
           }
         ],
@@ -171,12 +166,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a3ab9bd6d41cff35",
+  "active": "6481fba25b485061",
   "lastOpenFiles": [
+    "programación/prompts de IA/Untitled.base",
+    "programación/prompts de IA/estructura de guion.md",
+    "programación/prompts de IA/criterios de evaluación.md",
+    "07-10-2025.md",
+    "03-10-2025.md",
+    "15-10-2025.md",
+    "23-10-2025.md",
+    "27-10-2025.md",
+    "01-10-2025.md",
+    "01-04-2025.md",
+    "plantillas/nuevo.md",
+    "clases/cierre de proyecto/0. desglose principal.md",
+    "plantillas",
+    "clases/temas 1er lapso/matemática 1er año.md",
+    "clases/cierre de proyecto",
     "Attachment-2025-10-25.jpg",
     "clases/temas 1er lapso/matemática 2do año.md",
     "clases/suma de vectores.md",
-    "clases/temas 1er lapso/matemática 1er año.md",
     "clases/El mundo de las emociones.md",
     "clases/temas 1er lapso/orientación y convivencia.md",
     "Sin título.md",
@@ -191,24 +200,10 @@
     "clases/representación de vectores en el plano.md",
     "temas 1er lapso/matemática 2do año.md",
     "temas 1er lapso/orientación y convivencia.md",
-    "clases/quien soy, explorando la identidad.md",
-    "clases/03-11-2025.md",
-    "polígonos.md",
-    "funciones.md",
-    "ejercicios de evaluación de funciones.md",
-    "07-10-2025.md",
-    "03-10-2025.md",
-    "01-10-2025.md",
-    "programación/prompts de IA/planificador de clases.md",
-    "programación/prompts de IA/redactor de indicadores.md",
-    "programación/prompts de IA/criterios de evaluación.md",
     "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA",
     "universidad/Proyecto",
     "universidad/Plano cartesiano",
     "universidad/ángulos y números radicales",
-    "clases/1er año/Arte y patrimonio/3er lapso/3. La dramatización, narraciones orales/ERCA",
-    "_fit/programación/prompts de IA",
-    "_fit/copy",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]
