@@ -78,7 +78,11 @@ draft: false
 ## Distancia y punto medio entre 2 puntos  
 - Con la ayuda de los apuntes de la clase anterior y el texto extraído de Khan Academy, se abordará la fórmula para calcular la distancia entre dos puntos y el punto medio de un segmento, destacando su importancia en geometría analítica y se reforzará el tema mediante la resolución de cinco problemas que involucran el cálculo de distancias y puntos medios.  
 - **Técnica:** Ejercicios prácticos  
-- **Indicador:** Calcula con precisión la distancia entre dos puntos dados en un ejercicio práctico. (5 pts)  
+- **Indicador:** Calcula con precisión la distancia entre dos puntos dados en un ejercicio práctico. (5 pts)
+
+| Excelente (5 puntos)                                                                                                                                            | Bien (3 puntos)                                                                                                                                     | Por Mejorar (1 punto)                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Calcula la distancia entre dos puntos de forma precisa, mostrando correctamente todos los pasos del procedimiento y utilizando la fórmula matemática apropiada. | Calcula la distancia entre dos puntos con mínima imprecisión o con algún paso faltante en el procedimiento, aunque la fórmula general sea correcta. | No calcula la distancia entre los puntos o comete errores sustanciales en el procedimiento y en la aplicación de la fórmula. |
 
 ## Ecuaciones lineales y pendiente  
 - A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de GeoGebra.org, se explicarán las ecuaciones lineales y el concepto de pendiente, incluyendo su interpretación gráfica y su importancia en el análisis de relaciones lineales, y se reforzará el tema mediante la resolución de ejercicios que involucran la identificación y graficación de ecuaciones lineales.  
