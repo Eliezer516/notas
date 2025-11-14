@@ -1,0 +1,36 @@
+---
+title: Lista de representantes 
+date: 2025-11-14
+draft: false
+note_type: task
+---
+- [ ] Sandra del valle González Briceño  (Orlismar Valentina cañizalez González )
+- [ ] José Alfredo Castellanos Terán  (Anyelber Yosue Castellanos Valecillos)
+- [ ] María Isabel Núñez Godoy (Hurtado Núñez Ángel Gabriel )
+- [ ] Silvana Lorena Canelones Terán  (Saray Paola Fernández Canelones )
+- [ ] Edixon Alexander frías Araujo  (Arianny Sofia farias Morales )
+- [ ] Yannesy Margarita Silva Usechis  (Graterol Silva Yailuismar Susej )
+- [ ] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
+- [ ] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
+- [ ] Jenny Carolina La Cruz Delgado  (Albarran La Cruz Isabel Sharayd )
+- [ ] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
+- [ ] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
+- [ ] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
+- [ ] Víctor Manuel Aguilar Olivar (Leonardo Andreyver Aguilar Quevedo)
+- [ ] Delimar Pernia  (Santiago Alejandro zambrano)
+- [ ] Karlin Ariana Manzanilla Viloria  (Arianna Sofia Materano Manzanilla )
+- [ ] Yasmin Aurora Vieras de Mijares  ( Camila mijares vieras)
+- [ ] Milangela del Carmen Fernández rosario  (Victoria Valentina Sánchez Fernández )
+- [ ] Yillys Coromoto Durán Fernández  (Daboin Duran Ángel Gabriel )
+- [ ] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
+- [ ] Joiris Inés Quintana García  (Angel David Valera Quintana)
+- [ ] Yely Esmeralda Muchacho Zambrano  (Valera Muchacho khamila Leonela )
+- [ ] Maryuli Del Carmen Daboin Pernia  (Danielys Victoria Paolini Daboin )
+- [ ] Yamna Patricia Albesiano Roman (Villegas Albesiano Sebastián José )
+- [ ] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
+- [ ] MARÍA GABRIELA SAEZ PEÑA (JUAN PABLO CARRILLO SAEZ )
+- [ ] María Jesús Bravo de Morón  (Erick Yadier Morón Bravo )
+- [ ] Yessica Andreina Suárez Godoy  (Fabián Andrés Moreno Suárez )
+- [ ] Maria Ramona Rojas Artigas (Rojas Artigas Isaac David)
+- [ ] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
+- [ ] Mirtha Alejandra Pineda Villegas (Arias Pineda Alejandro José )
