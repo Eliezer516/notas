@@ -81,6 +81,10 @@ draft: false
 - Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Recursos Matemáticos, se abordarán las propiedades de la adición de vectores al ejecutar gráficamente operaciones, incluyendo la conmutatividad, asociatividad y existencia de elemento neutro, y reforzará el tema mediante la ejecución gráfica de operaciones con vectores. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.  
 - **Técnica:** Actividad práctica  
 - **Indicador:** Demuestra gráficamente la conmutatividad de la adición de vectores en una actividad práctica. (3 pts)  
+
+| Excelente (3 puntos) | Bien (2 puntos) | Por Mejorar (1 punto) |
+|---|---|---|
+| Representa gráficamente de forma clara y precisa la conmutatividad de la adición de vectores, mostrando ambos órdenes de suma (u+v y v+u) y demostrando visualmente que el resultado es el mismo. | Representa gráficamente la conmutatividad de la adición de vectores con alguna imprecisión en el dibujo o en la claridad de la demostración visual, aunque se observe el concepto general. | No representa gráficamente la conmutatividad de la adición de vectores, o la representación es incorrecta y no demuestra el concepto. |
 # Cuarto RTP 
 ## Aplicación de traslación a figuras planas  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de GeoGebra.org, se explicará la aplicación de traslación a figuras planas, incluyendo la definición, propiedades y métodos de traslación, y reforzará el tema mediante la realización de traslaciones en figuras geométricas.  
