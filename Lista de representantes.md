@@ -8,7 +8,7 @@ note_type: task
 - [ ] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
 - [ ] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
-- [ ] Delimar Pernia  (Santiago Alejandro zambrano)
+- [x] Delimar Pernia  (Santiago Alejandro zambrano)
 - [ ] Edixon Alexander frías Araujo  (Arianny Sofia farias Morales )
 - [x] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
 - [ ] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
