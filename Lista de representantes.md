@@ -12,7 +12,7 @@ note_type: task
 - [ ] Edixon Alexander frías Araujo  (Arianny Sofia farias Morales )
 - [x] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
 - [ ] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
-- [ ] Jenny Carolina La Cruz Delgado  (Albarran La Cruz Isabel Sharayd )
+- [x] Jenny Carolina La Cruz Delgado  (Albarran La Cruz Isabel Sharayd )
 - [ ] Joiris Inés Quintana García  (Angel David Valera Quintana)
 - [ ] José Alfredo Castellanos Terán  (Anyelber Yosue Castellanos Valecillos)
 - [ ] Karlin Ariana Manzanilla Viloria  (Arianna Sofia Materano Manzanilla )
