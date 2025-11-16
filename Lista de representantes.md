@@ -33,4 +33,4 @@ note_type: task
 - [x] Yely Esmeralda Muchacho Zambrano  (Valera Muchacho khamila Leonela )
 - [x] Yessica Andreina Suárez Godoy  (Fabián Andrés Moreno Suárez )
 - [ ] Yillys Coromoto Durán Fernández  (Daboin Duran Ángel Gabriel )
-- [ ] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
+- [x] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
