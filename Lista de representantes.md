@@ -17,7 +17,7 @@ note_type: task
 - [ ] José Alfredo Castellanos Terán  (Anyelber Yosue Castellanos Valecillos)
 - [ ] Karlin Ariana Manzanilla Viloria  (Arianna Sofia Materano Manzanilla )
 - [x] MARÍA GABRIELA SAEZ PEÑA (JUAN PABLO CARRILLO SAEZ )
-- [ ] María Isabel Núñez Godoy (Hurtado Núñez Ángel Gabriel )
+- [x] María Isabel Núñez Godoy (Hurtado Núñez Ángel Gabriel )
 - [ ] María Jesús Bravo de Morón  (Erick Yadier Morón Bravo )
 - [ ] Maria Ramona Rojas Artigas (Rojas Artigas Isaac David)
 - [ ] Maryuli Del Carmen Daboin Pernia  (Danielys Victoria Paolini Daboin )
