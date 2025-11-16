@@ -9,7 +9,7 @@ note_type: task
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
 - [ ] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
 - [x] Delimar Pernia  (Santiago Alejandro zambrano)
-- [ ] Edixon Alexander frías Araujo  (Arianny Sofia farias Morales )
+- [x] Edixon Alexander frías Araujo  (Arianny Sofia farias Morales )
 - [x] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
 - [ ] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
 - [ ] Jenny Carolina La Cruz Delgado  (Albarran La Cruz Isabel Sharayd )
