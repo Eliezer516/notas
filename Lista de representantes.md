@@ -28,7 +28,7 @@ note_type: task
 - [x] Silvana Lorena Canelones Terán  (Saray Paola Fernández Canelones )
 - [ ] Víctor Manuel Aguilar Olivar (Leonardo Andreyver Aguilar Quevedo)
 - [x] Yamna Patricia Albesiano Roman (Villegas Albesiano Sebastián José )
-- [ ] Yamna Patricia Albesiano Roman (Villegas Albesiano Rofrank )
+- [x] Yamna Patricia Albesiano Roman (Villegas Albesiano Rofrank )
 - [x] Yannesy Margarita Silva Usechis  (Graterol Silva Yailuismar Susej )
 - [x] Yasmin Aurora Vieras de Mijares  ( Camila mijares vieras)
 - [x] Yely Esmeralda Muchacho Zambrano  (Valera Muchacho khamila Leonela )

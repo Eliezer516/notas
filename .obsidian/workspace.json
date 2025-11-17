@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lista de representantes.md",
+                "file": "clases/cierre de proyecto/0. desglose principal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista de representantes"
+              "title": "0. desglose principal"
             }
           }
         ],
@@ -201,10 +201,10 @@
   },
   "active": "2a6a47573a84a297",
   "lastOpenFiles": [
+    "Lista de representantes.md",
     "Grafica de una funcion cuadratica y exponencial.md",
     "clases/temas 1er lapso/matemática 2do año.md",
     "polígonos.md",
-    "Lista de representantes.md",
     "01-04-2025.md",
     "clases/cálculo del área de polígonos irregulares_1.md",
     "clases/temas 1er lapso/matemática 1er año.md",
