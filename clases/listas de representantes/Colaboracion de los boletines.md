@@ -5,7 +5,7 @@ draft: false
 note_type: task
 ---
 - [ ] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
-- [ ] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
+- [x] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
 - [x] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
 - [x] Delimar Pernia  (Santiago Alejandro zambrano)
@@ -13,7 +13,7 @@ note_type: task
 - [x] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
 - [ ] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
 - [ ] Jenny Carolina La Cruz Delgado  (Albarran La Cruz Isabel Sharayd )
-- [ ] Joiris Inés Quintana García  (Angel David Valera Quintana)
+- [x] Joiris Inés Quintana García  (Angel David Valera Quintana)
 - [ ] José Alfredo Castellanos Terán  (Anyelber Yosue Castellanos Valecillos)
 - [x] Karlin Ariana Manzanilla Viloria  (Arianna Sofia Materano Manzanilla )
 - [x] MARÍA GABRIELA SAEZ PEÑA (JUAN PABLO CARRILLO SAEZ )
