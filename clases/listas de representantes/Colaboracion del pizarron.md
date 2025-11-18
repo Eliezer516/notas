@@ -20,7 +20,7 @@ note_type: task
 - [x] María Isabel Núñez Godoy (Hurtado Núñez Ángel Gabriel )
 - [ ] María Jesús Bravo de Morón  (Erick Yadier Morón Bravo )
 - [ ] Maria Ramona Rojas Artigas (Rojas Artigas Isaac David)
-- [ ] Maryuli Del Carmen Daboin Pernia  (Danielys Victoria Paolini Daboin )
+- [x] Maryuli Del Carmen Daboin Pernia  (Danielys Victoria Paolini Daboin )
 - [x] Milangela del Carmen Fernández rosario  (Victoria Valentina Sánchez Fernández )
 - [x] Mirtha Alejandra Pineda Villegas (Arias Pineda Alejandro José )
 - [x] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
