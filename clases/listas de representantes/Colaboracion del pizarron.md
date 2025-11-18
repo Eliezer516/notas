@@ -1,5 +1,5 @@
 ---
-title: Lista de representantes 
+title: Colaboracion del pizarron
 date: 2025-11-14
 draft: false
 note_type: task
