@@ -24,7 +24,7 @@ note_type: task
 - [x] Milangela del Carmen Fernández rosario  (Victoria Valentina Sánchez Fernández )
 - [x] Mirtha Alejandra Pineda Villegas (Arias Pineda Alejandro José )
 - [x] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
-- [ ] Sandra del valle González Briceño  (Orlismar Valentina cañizalez González )
+- [x] Sandra del valle González Briceño  (Orlismar Valentina cañizalez González )
 - [x] Silvana Lorena Canelones Terán  (Saray Paola Fernández Canelones )
 - [ ] Víctor Manuel Aguilar Olivar (Leonardo Andreyver Aguilar Quevedo)
 - [x] Yamna Patricia Albesiano Roman (Villegas Albesiano Sebastián José )
