@@ -4,7 +4,7 @@ date: 2025-11-14
 draft: false
 note_type: task
 ---
-- [ ] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
+- [x] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
 - [x] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
 - [x] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
@@ -26,7 +26,7 @@ note_type: task
 - [ ] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
 - [x] Sandra del valle González Briceño  (Orlismar Valentina cañizalez González )
 - [x] Silvana Lorena Canelones Terán  (Saray Paola Fernández Canelones )
-- [ ] Víctor Manuel Aguilar Olivar (Leonardo Andreyver Aguilar Quevedo)
+- [x] Víctor Manuel Aguilar Olivar (Leonardo Andreyver Aguilar Quevedo)
 - [x] Yamna Patricia Albesiano Roman (Villegas Albesiano Sebastián José )
 - [x] Yamna Patricia Albesiano Roman (Villegas Albesiano Rofrank )
 - [x] Yannesy Margarita Silva Usechis  (Graterol Silva Yailuismar Susej )
