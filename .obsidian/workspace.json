@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f040b14a136b1970",
+        "id": "b29111fda228e9e5",
         "type": "tabs",
         "children": [
           {
-            "id": "9c3cc65c7aca6315",
+            "id": "510421c272fbdb6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/listas de representantes/Colaboracion de los boletines.md",
+                "file": "clases/Resolución de los ejercicios de vectores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colaboracion de los boletines"
+              "title": "Resolución de los ejercicios de vectores"
             }
           }
         ]
@@ -170,12 +170,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9c3cc65c7aca6315",
+  "active": "510421c272fbdb6a",
   "lastOpenFiles": [
+    "clases/representación de vectores en el plano.md",
+    "clases/Resolución de los ejercicios de vectores.md",
+    "clases/listas de representantes/Colaboracion de los boletines.md",
+    "clases/Aplicaciones en contextos reales y resolución integrada.md",
     "adjuntos/Attachment-2025-11-18.jpg",
     "adjuntos",
     "clases/cierre de proyecto/0. desglose principal.md",
-    "clases/listas de representantes/Colaboracion de los boletines.md",
     "clases/listas de representantes/Colaboracion del pizarron.md",
     "clases/listas de representantes",
     "clases/plan de desarrollo personal.md",
@@ -202,8 +205,6 @@
     "clases/cierre de proyecto",
     "Attachment-2025-10-25.jpg",
     "clases/suma de vectores.md",
-    "clases/El mundo de las emociones.md",
-    "clases/temas 1er lapso/orientación y convivencia.md",
     "plantillas",
     "clases/dibujo",
     "clases/temas 1er lapso",
