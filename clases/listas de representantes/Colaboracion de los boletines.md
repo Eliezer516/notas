@@ -22,7 +22,7 @@ note_type: task
 - [ ] Maria Ramona Rojas Artigas (Rojas Artigas Isaac David)
 - [x] Maryuli Del Carmen Daboin Pernia  (Danielys Victoria Paolini Daboin )
 - [x] Milangela del Carmen Fernández rosario  (Victoria Valentina Sánchez Fernández )
-- [ ] Mirtha Alejandra Pineda Villegas (Arias Pineda Alejandro José )
+- [x] Mirtha Alejandra Pineda Villegas (Arias Pineda Alejandro José )
 - [ ] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
 - [x] Sandra del valle González Briceño  (Orlismar Valentina cañizalez González )
 - [x] Silvana Lorena Canelones Terán  (Saray Paola Fernández Canelones )
