@@ -90,7 +90,8 @@ draft: false
 - **Técnica:** Graficación  
 - **Indicador:** Grafica ecuaciones lineales en el plano cartesiano e identifica su pendiente en la actividad interactiva. (5 pts)  
 
-## Aplicaciones en contextos reales y resolución integrada  
+## Aplicaciones en contextos reales y resolución integrada
+[[Aplicaciones en contextos reales y resolución integrada|Desarrollo]]
 - Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Matemáticas simplificadas, se abordarán aplicaciones del sistema de coordenadas, distancia, punto medio, ecuaciones lineales y pendiente en contextos reales, promoviendo la resolución integrada de problemas que involucran estos conceptos, y se reforzará el tema mediante un proyecto que requiere la aplicación de estos conceptos en un escenario real. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.  
 - **Técnica:** Exposición  
 - **Indicador:** Aplica el sistema de coordenadas y las ecuaciones lineales para modelar situaciones del mundo real en una exposición. (5 pts)
