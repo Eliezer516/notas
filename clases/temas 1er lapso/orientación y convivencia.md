@@ -36,7 +36,8 @@ Mediante la participación activa de los estudiantes con preguntas abiertas, tex
 - **Técnica:** Plan de desarrollo personal  
 - **Indicador:** Enumera al menos cinco fortalezas personales identificadas mediante una herramienta de autoconocimiento. (5 pts)  
 # Tercer RTP
-## Nosotros por dentro y por fuera – Nuestro exterior: características físicas y percepciones  
+## Nosotros por dentro y por fuera – Nuestro exterior: características físicas y percepciones
+
 - Mediante la participación activa de los estudiantes con preguntas abiertas, textos extraídos de PsicologiaYmente.com y otras fuentes de internet, se abordará el tema de nuestro exterior: características físicas y percepciones, incluyendo la distinción entre características observables y percepciones subjetivas, y reforzará el tema mediante la creación de un autorretrato descriptivo.  
 - **Técnica:** Autorretrato descriptivo  
 - **Indicador:** Identifica correctamente al menos tres características físicas propias y cómo son percibidas por otros en una actividad de reflexión guiada. (5 pts)  
