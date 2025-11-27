@@ -1,3 +1,8 @@
+---
+title: Reseña del municipio
+date: 2025-11-07
+draft: false
+---
 ## Reseña Histórica de Pampanito
 
 Pampanito es el municipio de menor superficie en el estado Trujillo, con **83 km²**. Su punto más alto se encuentra en el **cerro El Zamuro, a 1806 m s. n. m.**, el cual lo separa del municipio Pampán por el Monte Libre.

@@ -1,3 +1,8 @@
+---
+title: Reseña de la escuela
+date: 2025-11-07
+draft: false
+---
 Sinopsis Histórico Geográfica de la Institución
 
 La Unidad Educativa “Santo Domingo”, geográficamente se encuentra ubicada en el Municipio Pampanito, Estado Trujillo -  Venezuela, emplazada a 354mts de altitud en los márgenes del río Mocoy, cercana a su confluencia con el río Castán, con una altura de 350mts sobre el nivel del mar y una temperatura que oscila entre los 27º y 37º grados centígrados, se comunica por carretera con las ciudades de Trujillo y Valera.  Fue fundada en el año 1958.  En el año 1974, gestionaron ante los organismos competentes la construcción de una sede propia. En el año 1984, se creó el preescolar con una matrícula de 25 niños y niñas en edades comprendidas entre 3 y 4 años. En el año 1985, pasa a ser Escuela Graduada. 
