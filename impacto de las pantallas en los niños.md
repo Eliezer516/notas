@@ -3,12 +3,6 @@ title: impacto de las pantallas en los niños
 date: 2025-11-28
 draft: false
 ---
-El archivo proporcionado no es una diapositiva única, sino un documento que parece compilar contenido de varias diapositivas o secciones de una presentación titulada **“El Impacto de las Pantallas: Riesgos físicos, mentales y sociales en la niñez y adolescencia”**.
-
-A continuación, extraigo y organizo el contenido principal por secciones temáticas, tal como aparece en el texto:
-
----
-
 ### **Una Realidad Ineludible / La “Niñera” Digital**
 - En la última década, el tiempo frente a pantallas ha aumentado exponencialmente.
 - Los dispositivos móviles son ahora herramientas omnipresentes para la educación, entretenimiento y socialización.
@@ -79,12 +73,3 @@ A continuación, extraigo y organizo el contenido principal por secciones temát
 - **Higiene del sueño**: apagar pantallas al menos **1 hora antes de dormir**.
 - **Ejemplo parental**: los niños imitan el uso que ven en adultos.
 - **Alternativas reales**: juego al aire libre, lectura física, juegos de mesa.
-
----
-
-### **Contacto**
-- **Email**: contacto@educaciondigital.com
-
----
-
-Este resumen refleja fielmente el contenido del documento proporcionado. Si necesitas una sección específica en formato de diapositiva (por ejemplo, en PowerPoint o texto listo para presentar), indícalo.
