@@ -30,12 +30,12 @@ draft: false
 
 ### **Parte B: Práctica**
 
-16. Traslada el punto $ A(-2, 5) $ usando el vector $ \vec{v} = (4, -1) $. Escribe las coordenadas del punto imagen.  
+16. Traslada el punto $A(-2, 5)$ usando el vector $\vec{v} = (4, -1)$. Escribe las coordenadas del punto imagen.  
 17. Traslada el triángulo ABC 5 unidades a la derecha y 3 unidades hacia abajo.  
-   Coordenadas: $ A(1,2) $, $ B(3,2) $, $ C(2,4) $.  
+   Coordenadas: $A(1,2)$, $B(3,2)$, $C(2,4)$.  
 18. Dibuja un segmento de 4 cm y aplícale una traslación vertical de 2 cm hacia arriba.  
-19. Rota el punto $ P(2, 1) $ 90° en sentido antihorario respecto al origen. ¿Cuáles son las coordenadas del punto resultante?  
-20. Rota el punto $ Q(-3, -1) $ 180° respecto al origen.  
+19. Rota el punto $P(2, 1)$ 90° en sentido antihorario respecto al origen. ¿Cuáles son las coordenadas del punto resultante?  
+20. Rota el punto $Q(-3, -1)$ 180° respecto al origen.  
 21. Dibuja un triángulo rectángulo y rótalo 90° en sentido horario alrededor del origen.  
 22. Observa los siguientes triángulos. ¿Son congruentes? Justifica usando un criterio de congruencia.  
    - Triángulo 1: lados de 5 cm y 7 cm, con ángulo de 60° entre ellos.  
