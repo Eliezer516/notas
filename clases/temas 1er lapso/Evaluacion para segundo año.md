@@ -1,3 +1,8 @@
+---
+title: Evaluacion para segundo año
+date: 2025-12-01
+draft: false
+---
 **Prueba Escrita – Transformaciones Isométricas y Congruencia de Triángulos**  
 **Nombre:** 
 **C.I.**:
