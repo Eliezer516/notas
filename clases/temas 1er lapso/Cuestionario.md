@@ -56,10 +56,6 @@ draft: false
 ---
 
 **Recursos útiles:**  
-- Para rotaciones respecto al origen:  
-  - 90° antihorario: $(x, y) \rightarrow (-y, x)$  
-  - 180°: $(x, y) \rightarrow (-x, -y)$  
-  - 270° antihorario: $(x, y) \rightarrow (y, -x)$  
 - Usa papel cuadriculado para visualizar traslaciones y rotaciones.  
 - Al aplicar criterios de congruencia, asegúrate de que los lados y ángulos correspondan en orden y posición.
 
