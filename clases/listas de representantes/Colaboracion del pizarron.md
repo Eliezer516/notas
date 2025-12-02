@@ -11,7 +11,7 @@ note_type: task
 - [x] Delimar Pernia  (Santiago Alejandro zambrano)
 - [x] Edixon Alexander frías Araujo  (Arianny Sofia farias Morales )
 - [ ] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
-- [ ] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
+- [x] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
 - [ ] Jenny Carolina La Cruz Delgado  (Albarran La Cruz Isabel Sharayd )
 - [x] Joiris Inés Quintana García  (Angel David Valera Quintana)
 - [ ] José Alfredo Castellanos Terán  (Anyelber Yosue Castellanos Valecillos)
