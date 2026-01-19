@@ -33,5 +33,5 @@ note_type: task
 - [x] Yasmin Aurora Vieras de Mijares  ( Camila mijares vieras)
 - [x] Yely Esmeralda Muchacho Zambrano  (Valera Muchacho khamila Leonela )
 - [x] Yessica Andreina Suárez Godoy  (Fabián Andrés Moreno Suárez )
-- [ ] Yillys Coromoto Durán Fernández  (Daboin Duran Ángel Gabriel )
+- [x] Yillys Coromoto Durán Fernández  (Daboin Duran Ángel Gabriel )
 - [x] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
