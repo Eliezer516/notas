@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c245e3b8c4fb2b9",
+        "id": "f7b56cbb50cb634e",
         "type": "tabs",
         "children": [
           {
-            "id": "c8b052013bdbdaa3",
+            "id": "09178979de009a0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "matemática primer año"
             }
-          },
-          {
-            "id": "bf54901a13919ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/temas 1er lapso/matemática 2do año.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "matemática 2do año"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,16 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "clases/temas segundo lapso/matemática primer año.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of matemática primer año"
+            }
+          },
+          {
+            "id": "9d2de9d42a5aa7e9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,40 +178,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bf54901a13919ef1",
+  "active": "09178979de009a0b",
   "lastOpenFiles": [
+    "universidad/Proyecto/Reseña de la escuela.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "universidad/Proyecto/Reseña del municipio.md",
+    "universidad/Proyecto/diagnóstico participativo de la comunidad.md",
+    "universidad/Proyecto/Diagnostico participativo.md",
     "clases/temas segundo lapso/matemática primer año.md",
-    "clases/27-01-2026_1.md",
     "clases/temas 1er lapso/matemática 2do año.md",
+    "copilot/copilot-custom-prompts/Desarrollador de clases.md",
+    "copilot/copilot-custom-prompts/Planificacion diaria.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "clases/27-01-2026_1.md",
     "clases/temas 1er lapso/Cuestionario.md",
     "adjuntos/Attachment-2025-11-18.jpg",
     "clases/temas 1er lapso/Evaluacion para segundo año.md",
-    "clases/temas 1er lapso/Temas extra para 1er año.md",
-    "clases/temas 1er lapso/orientación y convivencia.md",
-    "impacto de las pantallas en los niños.md",
-    "clases/Equivalencia de fracciones.md",
-    "plantillas/new.md",
-    "copy/Untitled.md",
-    "clases/Nuestro exterior.md",
-    "22-11-2025.md",
-    "clases/Resolución de los ejercicios de vectores.md",
-    "clases/representación de vectores en el plano.md",
-    "clases/listas de representantes/Colaboracion de los boletines.md",
-    "clases/Aplicaciones en contextos reales y resolución integrada.md",
     "adjuntos",
-    "clases/cierre de proyecto/0. desglose principal.md",
-    "clases/listas de representantes/Colaboracion del pizarron.md",
     "clases/listas de representantes",
-    "clases/plan de desarrollo personal.md",
-    "Grafica de una funcion cuadratica y exponencial.md",
-    "polígonos.md",
-    "01-04-2025.md",
-    "clases/cálculo del área de polígonos irregulares_1.md",
-    "clases/temas 1er lapso/matemática 1er año.md",
-    "clases/13-11-2025.md",
     "programación/prompts de IA/Untitled.base",
     "plantillas",
     "clases/cierre de proyecto",
@@ -223,8 +224,6 @@
     "plantillas",
     "clases/dibujo",
     "clases/temas 1er lapso",
-    "clases/1er año/Arte y patrimonio/3er lapso/4. La danza, el baile y la cultura/ERCA",
-    "universidad/Proyecto",
     "Pasted image 20250314102906.png",
     "Pasted image 20250314102123.png"
   ]

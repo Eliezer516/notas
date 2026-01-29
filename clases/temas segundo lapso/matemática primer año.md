@@ -34,12 +34,25 @@ draft: false
 ### Unidades de medida y conversión  
 
 #### Introducción al Sistema Internacional  
-- Mediante una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se presentarán las bases del SI, incluyendo sus siete unidades fundamentales y su importancia en la ciencia, reforzando el tema resolviendo cuatro ejercicios prácticos de conversión básica.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *FisicaModernaySimple.org*, los estudiantes aprenderán las bases del Sistema Internacional de Unidades (SI), abordando sus siete unidades fundamentales, la coherencia del sistema y su relevancia en la comunicación científica, con la finalidad de que comprendan la estandarización de las mediciones físicas. Para finalizar, aplicarán lo aprendido mediante la resolución de ejercicios que refuercen la comprensión de las unidades fundamentales y sus conversiones.
+
+**Ejercicios:**
+1. "Expresa $5 \text{ km}$ en metros ($m$)."
+2. "Convierte $360 \text{ minutos}$ a segundos ($s$)."
+3. "Si un objeto tiene una masa de $2.5 \text{ kg}$, ¿cuál es su masa en gramos ($g$)?"
+4. "Un circuito tiene una corriente de $0.015 \text{ A}$. Expresa este valor en miliamperios ($mA$)."
+
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Convierte unidades métricas simples (m, kg, s) en problemas cotidianos usando reglas básicas. (5 pts)  
 
 #### Unidades derivadas y prefijos métricos  
-- A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de Purplemath, se abordarán las unidades derivadas (ej.: N, J, W) y los prefijos métricos (kilo-, centi-, milli-), reforzando el tema mediante la resolución de tres problemas de conversión compleja.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *FisicaModernaySimple.org*, los estudiantes aprenderán las unidades derivadas y los prefijos métricos, abordando la definición de unidades fundamentales y derivadas, la aplicación de prefijos como kilo-, centi- y mili-, y su uso en la notación científica, con la finalidad de que puedan realizar conversiones precisas entre diferentes unidades de medida. Para finalizar, aplicarán lo aprendido mediante la resolución de problemas que involucren la conversión de unidades derivadas y el uso de prefijos métricos.
+
+**Ejercicios:**
+1. "Convierte $5.2 \text{ kJ}$ a julios $(\text{J})$."
+2. "Expresa $750 \text{ mW}$ en vatios $(\text{W})$."
+3. "Un objeto tiene una masa de $0.025 \text{ kg}$. ¿Cuántos gramos $(\text{g})$ son?"
+
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Aplica prefijos métricos para redondear cantidades en contextos científicos. (5 pts)  
 
