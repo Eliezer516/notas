@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/temas segundo lapso/matemática primer año.md",
+                "file": "clases/Introducción al Sistema Internacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "matemática primer año"
+              "title": "Introducción al Sistema Internacional"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases/temas segundo lapso/matemática primer año.md",
+                "file": "clases/Introducción al Sistema Internacional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of matemática primer año"
+              "title": "Outline of Introducción al Sistema Internacional"
             }
           },
           {
@@ -186,13 +186,15 @@
   },
   "active": "09178979de009a0b",
   "lastOpenFiles": [
+    "clases/temas segundo lapso/matemática primer año.md",
+    "clases/Introducción al Sistema Internacional.md",
+    "clases/sistema internacional.md",
     "universidad/Proyecto/Reseña de la escuela.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "universidad/Proyecto/Reseña del municipio.md",
     "universidad/Proyecto/diagnóstico participativo de la comunidad.md",
     "universidad/Proyecto/Diagnostico participativo.md",
-    "clases/temas segundo lapso/matemática primer año.md",
     "clases/temas 1er lapso/matemática 2do año.md",
     "copilot/copilot-custom-prompts/Desarrollador de clases.md",
     "copilot/copilot-custom-prompts/Planificacion diaria.md",
@@ -212,9 +214,7 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "clases/27-01-2026_1.md",
-    "clases/temas 1er lapso/Cuestionario.md",
     "adjuntos/Attachment-2025-11-18.jpg",
-    "clases/temas 1er lapso/Evaluacion para segundo año.md",
     "adjuntos",
     "clases/listas de representantes",
     "programación/prompts de IA/Untitled.base",
