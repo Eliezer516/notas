@@ -4,26 +4,6 @@ date: 2026-01-24
 draft: false
 ---
 [TOC]
-- [[#Segundo Momento Pedagógico|Segundo Momento Pedagógico]]
-	- [[#Segundo Momento Pedagógico#Números enteros, operaciones en Z, MCM y MCD|Números enteros, operaciones en Z, MCM y MCD]]
-		- [[#Números enteros, operaciones en Z, MCM y MCD#Introducción a los números enteros|Introducción a los números enteros]]
-		- [[#Números enteros, operaciones en Z, MCM y MCD#Operaciones básicas en Z (suma y resta)|Operaciones básicas en Z (suma y resta)]]
-		- [[#Números enteros, operaciones en Z, MCM y MCD#Operaciones básicas en Z (multiplicación y división)|Operaciones básicas en Z (multiplicación y división)]]
-		- [[#Números enteros, operaciones en Z, MCM y MCD#MCM y MCD|MCM y MCD]]
-	- [[#Segundo Momento Pedagógico#Unidades de medida y conversión|Unidades de medida y conversión]]
-		- [[#Unidades de medida y conversión#Introducción al Sistema Internacional|Introducción al Sistema Internacional]]
-		- [[#Unidades de medida y conversión#Unidades derivadas y prefijos métricos|Unidades derivadas y prefijos métricos]]
-		- [[#Unidades de medida y conversión#Técnicas de conversión básicas|Técnicas de conversión básicas]]
-		- [[#Unidades de medida y conversión#Aplicaciones y conversiones complejas|Aplicaciones y conversiones complejas]]
-	- [[#Segundo Momento Pedagógico#Potencia de diez|Potencia de diez]]
-		- [[#Potencia de diez#Fundamentos de la potencia de diez|Fundamentos de la potencia de diez]]
-		- [[#Potencia de diez#Notación científica|Notación científica]]
-		- [[#Potencia de diez#Operaciones con notación científica|Operaciones con notación científica]]
-		- [[#Potencia de diez#Aplicaciones y contexto real|Aplicaciones y contexto real]]
-	- [[#Segundo Momento Pedagógico#Sistema sexagesimal|Sistema sexagesimal]]
-		- [[#Sistema sexagesimal#Introducción al sistema sexagesimal|Introducción al sistema sexagesimal]]
-		- [[#Sistema sexagesimal#Operaciones básicas|Operaciones básicas]]
-		- [[#Sistema sexagesimal#Aplicaciones y contextos reales|Aplicaciones y contextos reales]]
 
 # Matemática – 1er Año  
 ## Segundo Momento Pedagógico  
