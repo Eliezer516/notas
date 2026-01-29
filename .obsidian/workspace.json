@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/temas 1er lapso/Cuestionario.md",
+                "file": "clases/temas segundo lapso/matemática primer año.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cuestionario"
+              "title": "matemática primer año"
             }
           },
           {
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "clases/temas 1er lapso/matemática 2do año.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -174,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-composer:Open smart composer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,9 +186,11 @@
   },
   "active": "c8b052013bdbdaa3",
   "lastOpenFiles": [
-    "clases/temas 1er lapso/Evaluacion para segundo año.md",
-    "clases/temas 1er lapso/Cuestionario.md",
     "clases/temas 1er lapso/matemática 2do año.md",
+    "clases/temas segundo lapso/matemática primer año.md",
+    "clases/temas 1er lapso/Cuestionario.md",
+    "adjuntos/Attachment-2025-11-18.jpg",
+    "clases/temas 1er lapso/Evaluacion para segundo año.md",
     "clases/temas 1er lapso/Temas extra para 1er año.md",
     "clases/temas 1er lapso/orientación y convivencia.md",
     "impacto de las pantallas en los niños.md",
@@ -202,7 +203,6 @@
     "clases/representación de vectores en el plano.md",
     "clases/listas de representantes/Colaboracion de los boletines.md",
     "clases/Aplicaciones en contextos reales y resolución integrada.md",
-    "adjuntos/Attachment-2025-11-18.jpg",
     "adjuntos",
     "clases/cierre de proyecto/0. desglose principal.md",
     "clases/listas de representantes/Colaboracion del pizarron.md",
@@ -215,7 +215,6 @@
     "clases/temas 1er lapso/matemática 1er año.md",
     "clases/13-11-2025.md",
     "13-11-2025.md",
-    "clases/Distancia y punto medio entre dos punto.md",
     "programación/prompts de IA/Untitled.base",
     "plantillas",
     "clases/cierre de proyecto",
