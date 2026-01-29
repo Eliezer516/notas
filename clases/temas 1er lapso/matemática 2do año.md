@@ -4,27 +4,6 @@ date: 01-11-2025
 draft: false
 ---
 [TOC]
-- [[#Concepto de funciones|Concepto de funciones]]
-- [[#Dominio, rango y tipos de funciones|Dominio, rango y tipos de funciones]]
-- [[#Tipos de funciones: inyectiva, sobreyectiva y biyectiva|Tipos de funciones: inyectiva, sobreyectiva y biyectiva]]
-- [[#Función Afín|Función Afín]]
-- [[#Evaluación final sobre los temas vistos|Evaluación final sobre los temas vistos]]
-- [[#Introducción a los conjuntos numéricos Z y Q|Introducción a los conjuntos numéricos Z y Q]]
-- [[#Operaciones en Z|Operaciones en Z]]
-- [[#Operaciones en Q|Operaciones en Q]]
-- [[#Problemas aplicados en Z y Q|Problemas aplicados en Z y Q]]
-- [[#Representación de puntos en un sistema de coordenadas rectangulares|Representación de puntos en un sistema de coordenadas rectangulares]]
-- [[#Proyecciones ortogonales de puntos y segmentos sobre una recta|Proyecciones ortogonales de puntos y segmentos sobre una recta]]
-- [[#Representación de vectores en el plano|Representación de vectores en el plano]]
-- [[#Representación de vectores equipolentes|Representación de vectores equipolentes]]
-- [[#Suma de vectores|Suma de vectores]]
-- [[#Propiedades de la adición de vectores al ejecutar gráficamente operaciones|Propiedades de la adición de vectores al ejecutar gráficamente operaciones]]
-- [[#Aplicación de traslación a figuras planas|Aplicación de traslación a figuras planas]]
-- [[#Aplicación de rotación a figuras planas|Aplicación de rotación a figuras planas]]
-- [[#Figuras congruentes|Figuras congruentes]]
-- [[#Criterios de congruencia de triángulos|Criterios de congruencia de triángulos]]
-- [[#Problemas donde se utilicen criterios de congruencia de triángulos|Problemas donde se utilicen criterios de congruencia de triángulos]]
-
 # Primer RTP 
 ## Concepto de funciones  
 - A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se explicará el concepto de funciones, incluyendo su definición como relación entre conjuntos y su representación mediante diferentes notaciones, y reforzará el tema mediante preguntas guiadas que exploren la comprensión de los estudiantes sobre las funciones como correspondencias entre variables.  

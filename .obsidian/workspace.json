@@ -35,7 +35,8 @@
               "title": "matemática 2do año"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +185,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c8b052013bdbdaa3",
+  "active": "bf54901a13919ef1",
   "lastOpenFiles": [
-    "clases/temas 1er lapso/matemática 2do año.md",
     "clases/temas segundo lapso/matemática primer año.md",
+    "clases/27-01-2026_1.md",
+    "clases/temas 1er lapso/matemática 2do año.md",
     "clases/temas 1er lapso/Cuestionario.md",
     "adjuntos/Attachment-2025-11-18.jpg",
     "clases/temas 1er lapso/Evaluacion para segundo año.md",
@@ -214,7 +216,6 @@
     "clases/cálculo del área de polígonos irregulares_1.md",
     "clases/temas 1er lapso/matemática 1er año.md",
     "clases/13-11-2025.md",
-    "13-11-2025.md",
     "programación/prompts de IA/Untitled.base",
     "plantillas",
     "clases/cierre de proyecto",
