@@ -3,7 +3,7 @@ title: guión de matemáticas (funciones)
 date: 2026-02-02
 draft: false
 ---
-# Modelado de la Realidad: Curvas y Crecimientos
+## Modelado de la Realidad: Curvas y Crecimientos
 
 "Para entender el mundo moderno, no basta con observar; hay que medir. Hoy analizaremos dos de los pilares del modelado matemático: las funciones cuadráticas y las exponenciales, y cómo estas dictan el ritmo de nuestra sociedad."
 
