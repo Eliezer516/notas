@@ -83,7 +83,13 @@ draft: false
 - **Indicador:** Identifica correctamente las potencias de diez en expresiones numéricas en diferentes ejercicios. (5 pts)  
 
 #### Notación científica  
-- Con la ayuda de los apuntes de la clase anterior y el texto extraído de PurpleMath, se abordará la notación científica, incluyendo su estructura y conversión entre notación estándar y científica, y reforzará el tema mediante la resolución de cuatro ejercicios interactivos.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *PurpleMath.org*, los estudiantes aprenderán notación científica, abordando su estructura, la conversión entre notación estándar y científica, y el uso del coeficiente normalizado, con la finalidad de que comprendan cómo expresar números muy grandes o muy pequeños de forma compacta y realicen conversiones entre ambas representaciones. Para finalizar, aplicarán lo aprendido mediante la resolución de cuatro ejercicios que refuercen la comprensión del concepto.  
+
+**Ejercicios:**  
+1. "Escribe $4,500,000$ en notación científica."  
+2. "Convierte $3.2 \times 10^{-4}$ a notación estándar."  
+3. "Expresa $0.000057$ en notación científica."  
+4. "Realiza la conversión de $7.89 \times 10^{5}$ a notación estándar."
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Convierte números en notación científica a notación estándar y viceversa en una ficha de ejercicios. (5 pts)  
 
