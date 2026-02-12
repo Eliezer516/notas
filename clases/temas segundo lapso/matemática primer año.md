@@ -71,7 +71,14 @@ draft: false
 ### Potencia de diez  
 
 #### Fundamentos de la potencia de diez  
-- A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se presentarán las potencias de diez, incluyendo sus notaciones y propiedades básicas, y reforzará el tema resolviendo cinco ejercicios sencillos.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán las potencias de diez, abordando su notación exponencial, el concepto de base y exponente, y sus propiedades fundamentales, con la finalidad de que puedan simplificar expresiones numéricas y científicas. Para finalizar, aplicarán lo aprendido mediante la resolución de ejercicios que refuercen la comprensión del concepto.
+
+**Ejercicios:**
+1. "Expresa el número $100000$ como una potencia de diez."
+2. "Calcula el valor de $10^4$."
+3. "Simplifica la expresión $10^5 \times 10^2$."
+4. "Simplifica la expresión $\frac{10^7}{10^3}$."
+5. "Escribe el número $0.001$ como una potencia de diez."
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Identifica correctamente las potencias de diez en expresiones numéricas en diferentes ejercicios. (5 pts)  
 

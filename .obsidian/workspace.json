@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,8 +201,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "436cfd8e5e8bcdec",
+  "active": "4194da7b83fa90dd",
   "lastOpenFiles": [
+    "clases/temas segundo lapso/matemática segundo año.md",
     "clases/temas segundo lapso/matemática primer año.md",
     "clases/Introducción al Sistema Internacional.md",
     "clases/sistema internacional.md",
@@ -230,7 +231,6 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "clases/27-01-2026_1.md",
     "adjuntos/Attachment-2025-11-18.jpg",
     "adjuntos",
     "clases/listas de representantes",
