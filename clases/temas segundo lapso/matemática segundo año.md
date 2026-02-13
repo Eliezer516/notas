@@ -62,7 +62,14 @@ draft: false
 ### Cocientes notables
 
 #### Fundamentos y casos básicos de cocientes notables  
-- A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se explicarán los fundamentos y los casos básicos de los cocientes notables, incluyendo sus definiciones esenciales, propiedades principales y ejemplos típicos, y se reforzará el tema mediante la resolución de ejercicios prácticos.  
+- mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán qué son los cocientes notables, abordando su definición formal, las propiedades fundamentales que los caracterizan y los casos básicos en que aparecen, con la finalidad de que comprendan cómo se calculan y aplican en la resolución de problemas de derivación. Para finalizar, aplicarán el concepto mediante la resolución de ejercicios que refuerzen la comprensión y la manipulación de estos elementos.  
+
+**Ejercicios:**  
+1. "Calcula el cociente notable de la función $f(x) = \frac{x^2 - 1}{x - 1}$ en $x = 1$."  
+2. "Determina si la función $g(x) = \frac{\sin x}{x}$ tiene un cociente notable en $x = 0$ y explica por qué."  
+3. "Resuelve para $x$ en la ecuación: $\frac{x^2 - 4}{x - 2} = 5$."  
+4. "Evalúa el límite: $\lim_{x \to 3} \frac{x^2 - 9}{x - 3}$ usando el cociente notable."  
+5. "Explica cómo se relaciona el cociente notable con la derivada en el caso de funciones racionales."  
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Identifica correctamente la forma algebraica de cada cociente notable en una hoja de trabajo. (7 pts)
 
