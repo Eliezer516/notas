@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b56cbb50cb634e",
+        "id": "3ffc3b8d9903f046",
         "type": "tabs",
         "children": [
           {
-            "id": "09178979de009a0b",
+            "id": "51f2c5cb9e0d8740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases/Introducción al Sistema Internacional.md",
-                "mode": "source",
+                "file": "clases/listas de representantes/Colaboracion la torta.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción al Sistema Internacional"
-            }
-          },
-          {
-            "id": "4194da7b83fa90dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/temas segundo lapso/matemática primer año.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "matemática primer año"
-            }
-          },
-          {
-            "id": "be460dacf2291677",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
-            "id": "436cfd8e5e8bcdec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/temas segundo lapso/matemática segundo año.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "matemática segundo año"
+              "title": "Colaboracion la torta"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50260543823242
+    "width": 271.5
   },
   "right": {
     "id": "5179ea190926c5ec",
@@ -213,8 +172,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "be460dacf2291677",
+  "active": "51f2c5cb9e0d8740",
   "lastOpenFiles": [
+    "clases/listas de representantes/Colaboracion la torta.md",
     "clases/temas segundo lapso/matemática segundo año.md",
     "clases/temas segundo lapso/matemática primer año.md",
     "clases/Introducción al Sistema Internacional.md",
@@ -240,7 +200,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "adjuntos/Attachment-2025-11-18.jpg",
