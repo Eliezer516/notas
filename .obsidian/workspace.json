@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "be460dacf2291677",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "436cfd8e5e8bcdec",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4194da7b83fa90dd",
+  "active": "be460dacf2291677",
   "lastOpenFiles": [
     "clases/temas segundo lapso/matemática segundo año.md",
     "clases/temas segundo lapso/matemática primer año.md",
