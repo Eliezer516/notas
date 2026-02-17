@@ -1,11 +1,11 @@
 ---
-title: Colaboracion del pizarron
+title: Colaboracion de la torta
 date: 2025-11-14
 draft: false
 note_type: task
 ---
 - [ ] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
-- [ ] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
+- [x] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
 - [ ] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
 - [ ] Delimar Pernia  (Santiago Alejandro zambrano)
@@ -34,4 +34,4 @@ note_type: task
 - [x] Yely Esmeralda Muchacho Zambrano  (Valera Muchacho khamila Leonela )
 - [x] Yessica Andreina Suárez Godoy  (Fabián Andrés Moreno Suárez )
 - [x] Yillys Coromoto Durán Fernández  (Daboin Duran Ángel Gabriel )
-- [ ] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
+- [x] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
