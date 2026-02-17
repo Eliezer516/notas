@@ -1,19 +1,19 @@
 ---
-title: Colaboracion del pizarron
+title: Colaboracion de los boletines
 date: 2025-11-14
 draft: false
 note_type: task
 ---
-- [ ] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
+- [x] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
 - [x] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
-- [ ] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
-- [ ] Delimar Pernia  (Santiago Alejandro zambrano)
+- [x] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
+- [x] Delimar Pernia  (Santiago Alejandro zambrano)
 - [x] Edixon Alexander frías Araujo  (Arianny Sofia farias Morales )
 - [x] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
 - [x] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
 - [x] Jenny Carolina La Cruz Delgado  (Albarran La Cruz Isabel Sharayd )
-- [x] Joiris Inés Quintana García  (Angel David Valera Quintana)
+- [ ] Joiris Inés Quintana García  (Angel David Valera Quintana)
 - [ ] José Alfredo Castellanos Terán  (Anyelber Yosue Castellanos Valecillos)
 - [x] Karlin Ariana Manzanilla Viloria  (Arianna Sofia Materano Manzanilla )
 - [x] MARÍA GABRIELA SAEZ PEÑA (JUAN PABLO CARRILLO SAEZ )
@@ -26,12 +26,12 @@ note_type: task
 - [x] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
 - [x] Sandra del valle González Briceño  (Orlismar Valentina cañizalez González )
 - [x] Silvana Lorena Canelones Terán  (Saray Paola Fernández Canelones )
-- [ ] Víctor Manuel Aguilar Olivar (Leonardo Andreyver Aguilar Quevedo)
-- [ ] Yamna Patricia Albesiano Roman (Villegas Albesiano Sebastián José )
-- [ ] Yamna Patricia Albesiano Roman (Villegas Albesiano Rofrank )
+- [x] Víctor Manuel Aguilar Olivar (Leonardo Andreyver Aguilar Quevedo)
+- [x] Yamna Patricia Albesiano Roman (Villegas Albesiano Sebastián José )
+- [x] Yamna Patricia Albesiano Roman (Villegas Albesiano Rofrank )
 - [x] Yannesy Margarita Silva Usechis  (Graterol Silva Yailuismar Susej )
 - [x] Yasmin Aurora Vieras de Mijares  ( Camila mijares vieras)
 - [x] Yely Esmeralda Muchacho Zambrano  (Valera Muchacho khamila Leonela )
 - [x] Yessica Andreina Suárez Godoy  (Fabián Andrés Moreno Suárez )
 - [x] Yillys Coromoto Durán Fernández  (Daboin Duran Ángel Gabriel )
-- [ ] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
+- [x] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
