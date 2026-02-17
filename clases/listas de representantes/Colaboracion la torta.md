@@ -5,7 +5,7 @@ draft: false
 note_type: task
 ---
 - [ ] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
-- [ ] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
+- [x] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
 - [ ] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
 - [ ] Delimar Pernia  (Santiago Alejandro zambrano)
