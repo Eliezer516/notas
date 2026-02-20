@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 0
 copilot-command-model-key: ""
-copilot-command-last-used: 1770916160627
+copilot-command-last-used: 1771593661522
 ---
 Dado un concepto académico de nivel de bachillerato como INPUT, genera un único objetivo de aprendizaje seguido —**solo si corresponde a una materia STEM** (matemáticas, física, química, biología u otras ciencias)— de una sección de ejercicios, respetando **exactamente esta estructura**:
 

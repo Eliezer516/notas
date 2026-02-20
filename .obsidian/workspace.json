@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41cfa36e451d17cd",
+        "id": "6fe48fd064381c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "acac1ca6655e75d7",
+            "id": "8b2f6ac834300ac7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clases/temas segundo lapso/matemática segundo año.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "matemática segundo año"
             }
           }
         ]
@@ -168,13 +172,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "acac1ca6655e75d7",
+  "active": "8b2f6ac834300ac7",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/Desarrolla_la_clase_notación_científica_incluyendo_conceptos_teóricos_y_ejempl@20260218_164229.md",
+    "clases/temas segundo lapso/matemática segundo año.md",
     "clases/temas segundo lapso/Clases/ejercicios de productos notables.md",
+    "copilot/copilot-conversations/Desarrolla_la_clase_notación_científica_incluyendo_conceptos_teóricos_y_ejempl@20260218_164229.md",
     "clases/temas segundo lapso/Clases",
     "clases/listas de representantes/Colaboracion la torta.md",
-    "clases/temas segundo lapso/matemática segundo año.md",
     "clases/temas segundo lapso/matemática primer año.md",
     "clases/Introducción al Sistema Internacional.md",
     "clases/sistema internacional.md",

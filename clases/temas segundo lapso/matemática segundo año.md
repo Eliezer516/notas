@@ -74,7 +74,14 @@ draft: false
 - **Indicador:** Identifica correctamente la forma algebraica de cada cociente notable en una hoja de trabajo. (7 pts)
 
 #### Casos avanzados y aplicaciones  
-- Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Purplemath, se abordarán los casos avanzados de cocientes notables y sus aplicaciones en problemas de álgebra, presentando principios clave, estrategias de factorización y ejemplos de uso en ecuaciones, y se consolidará el aprendizaje mediante ejercicios prácticos.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Purplemath*, los estudiantes aprenderán sobre los cocientes notables y sus aplicaciones avanzadas en álgebra, abordando los principios de factorización, las estrategias para simplificar expresiones algebraicas y los ejemplos de uso en ecuaciones, con la finalidad de que puedan aplicar estos conocimientos para resolver problemas algebraicos complejos. Para finalizar, aplicarán lo aprendido mediante la resolución de ejercicios que refuercen la comprensión de los cocientes notables en contextos algebraicos.
+
+**Ejercicios:**
+1. "Simplifica el cociente notable $\frac{x^2 - 4}{x + 2}$."
+2. "Resuelve la ecuación $\frac{x^2 + 5x + 6}{x + 3} = 2$ utilizando cocientes notables."
+3. "Factoriza y simplifica la expresión $\frac{x^2 - 9}{x - 3}$."
+4. "Encuentra el valor de $x$ en la ecuación $\frac{2x^2 + 5x - 3}{x + 3} = 0$ aplicando cocientes notables."
+5. "Simplifica la expresión $\frac{x^2 + 2x - 3}{x - 1}$ y resuelve para $x$ en la ecuación resultante."
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Resuelve con precisión tres problemas que requieran la aplicación de cocientes notables avanzados en una hoja de ejercicios. (7 pts)
 
