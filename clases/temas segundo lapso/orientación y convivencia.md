@@ -43,7 +43,15 @@ draft: false
 - **Indicador:** Elabora un cuadro comparativo que enumere al menos tres beneficios del respeto en relaciones interpersonales.  
 
 #### Aplicar la empatía en la resolución de conflictos  
-- A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de *Psychology Today*, se presentará la aplicación de la empatía en la resolución de conflictos, describiendo estrategias y pasos concretos; se practicará con **ejercicios prácticos**.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Psychology Today*, los estudiantes aprenderán la aplicación de la empatía en la resolución de conflictos, abordando estrategias activas de escucha, la identificación de emociones y necesidades subyacentes, y el enfoque en la búsqueda de soluciones mutuamente beneficiosas, con la finalidad de que puedan aplicar la empatía de manera efectiva en situaciones de conflicto. Para finalizar, aplicarán lo aprendido mediante la resolución de escenarios de conflicto simulados que refuercen la comprensión de la empatía en la resolución de problemas interpersonales.
+
+**Ejercicios:**  
+1. "Describa una situación en la que la empatía fue crucial para resolver un conflicto y explique cómo se aplicó."  
+2. "Un colega se siente injustamente tratado por un comentario hecho en una reunión. ¿Cómo aplicaría la empatía para abordar la situación?"  
+3. "En un conflicto entre dos amigos, ¿cómo podrías utilizar la escucha activa para entender mejor sus perspectivas y encontrar una solución?"  
+4. "Imagina que un miembro de tu equipo está pasando por un momento difícil personalmente y su desempeño en el trabajo se ha visto afectado. ¿Cómo podrías mostrar empatía y apoyo?"  
+5. "Desarrolla un plan de acción para incorporar la empatía en la resolución de conflictos en un entorno laboral o educativo."
+
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Resuelve un caso hipotético de conflicto aplicando al menos dos estrategias empáticas indicadas en el ejercicio.  
 ---
