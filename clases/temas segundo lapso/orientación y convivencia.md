@@ -46,12 +46,6 @@ draft: false
 - A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de *Psychology Today*, se presentará la aplicación de la empatía en la resolución de conflictos, describiendo estrategias y pasos concretos; se practicará con **ejercicios prácticos**.  
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Resuelve un caso hipotético de conflicto aplicando al menos dos estrategias empáticas indicadas en el ejercicio.  
-
-#### Construyendo entornos de respeto  
-- Con la ayuda de los apuntes de la clase anterior y el texto extraído de *BBC Bitesize*, se construirá un entorno de respeto mediante la creación de un **mapa conceptual**, integrando principios y acciones clave.  
-- **Técnica:** Mapa conceptual  
-- **Indicador:** Diseña un mapa conceptual que incluya al menos cinco principios del respeto y sus correspondientes acciones en su cuaderno.  
-
 ---
 
 ### Pensamiento crítico y toma de decisiones  
@@ -70,8 +64,3 @@ draft: false
 - A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de *Purplemath*, se introducirá la aplicación de la lógica en situaciones cotidianas, resaltando principios de razonamiento deductivo e inductivo; se reforzará el tema mediante **ejercicios prácticos**.  
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Resuelve problemas cotidianos aplicando razonamiento deductivo en los ejercicios propuestos en su cuaderno.  
-
-#### Reflexión y mejora continua  
-- Con la ayuda de los apuntes de la clase anterior y el texto extraído de *Edutopia.org*, se presentará la reflexión y la mejora continua, destacando ciclos de retroalimentación y autoevaluación; se fomentará la creación de un **mapa mental**.  
-- **Técnica:** Mapa mental  
-- **Indicador:** Elabora un mapa mental que sintetice los pasos de la reflexión y mejora continua en una hoja de papel.
