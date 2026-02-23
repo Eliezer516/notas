@@ -43,7 +43,7 @@ draft: false
 - **Indicador:** Elabora un cuadro comparativo que enumere al menos tres beneficios del respeto en relaciones interpersonales.  
 
 #### Aplicar la empatía en la resolución de conflictos  
-- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Psychology Today*, los estudiantes aprenderán la aplicación de la empatía en la resolución de conflictos, abordando estrategias activas de escucha, la identificación de emociones y necesidades subyacentes, y el enfoque en la búsqueda de soluciones mutuamente beneficiosas, con la finalidad de que puedan aplicar la empatía de manera efectiva en situaciones de conflicto. Para finalizar, aplicarán lo aprendido mediante la resolución de escenarios de conflicto simulados que refuercen la comprensión de la empatía en la resolución de problemas interpersonales.
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Psychology Today*, los estudiantes aprenderán la , con la finalidad de que puedan aplicar la empatía de manera efectiva en situaciones de conflicto. Para finalizar, aplicarán lo aprendido mediante la resolución de escenarios de conflicto simulados que refuercen la comprensión de la empatía en la resolución de problemas interpersonales.
 
 **Ejercicios:**  
 1. "Describa una situación en la que la empatía fue crucial para resolver un conflicto y explique cómo se aplicó."  
