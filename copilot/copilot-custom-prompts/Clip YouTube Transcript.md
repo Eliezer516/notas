@@ -1,11 +1,10 @@
 ---
 copilot-command-context-menu-enabled: false
 copilot-command-slash-enabled: true
-copilot-command-context-menu-order: 140
+copilot-command-context-menu-order: 150
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
-
 Based on the YouTube video information and transcript provided in the context, generate a complete Obsidian note in the following format.
 
 IMPORTANT: If no YouTube video context is found, remind the user to:

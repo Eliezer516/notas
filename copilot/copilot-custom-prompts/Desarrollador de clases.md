@@ -1,7 +1,7 @@
 ---
 copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
-copilot-command-context-menu-order: 1150
+copilot-command-context-menu-order: 10
 copilot-command-model-key: openai/gpt-oss-120b:free|openrouterai
 copilot-command-last-used: 1770902747694
 ---

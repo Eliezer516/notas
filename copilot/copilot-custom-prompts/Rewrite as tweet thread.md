@@ -1,7 +1,7 @@
 ---
 copilot-command-context-menu-enabled: false
 copilot-command-slash-enabled: false
-copilot-command-context-menu-order: 130
+copilot-command-context-menu-order: 140
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---

@@ -81,7 +81,14 @@
 - **Indicador:** Resuelve con precisión tres problemas que requieran la aplicación de cocientes notables avanzados en una hoja de ejercicios. (7 pts)
 
 #### Resolución integrada y problemas  
-- Con la ayuda de los apuntes de la clase anterior y el texto extraído de GeoGebra.org, se integrarán los conocimientos de cocientes notables para resolver problemas complejos, analizando procedimientos, verificando resultados y combinando distintas identidades en contextos aplicados, y se practicará mediante la ejecución de ejercicios prácticos.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *GeoGebra.org*, los estudiantes aprenderán a interpretar y aplicar los conceptos de cocientes notables, abordando sus aplicaciones en cálculos matemáticos y su relevancia en situaciones prácticas, con el objetivo de que puedan resolver problemas complejos mediante el análisis de relaciones proporcionales. Para finalizar, resolverán ejercicios que refuercen la comprensión de este tema a través de situaciones contextualizadas.  
+
+**Ejercicios:**  
+1. "Calcule la cociente de dos números dados en un ejercicio de práctica."  
+2. "Determine el valor de la cociente cuando se intercambian los numeradores y denominadores."  
+3. "Aplique la regla de la cociente en una expresión algebraica simplificada."  
+4. "Compare dos cocientes y explique la diferencia en sus valores utilizando la tabla de comparación."  
+5. "Resuelva un problema que requiera el uso de la definición de cociente en un contexto geométrico."
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Diseña y resuelve al menos dos problemas integradores que combinen varios cocientes notables en su cuaderno, explicando cada paso. (6 pts)
 
@@ -89,7 +96,12 @@
 
 ### Descomposición factorial
 #### Introduccion a la factorización de polinomios
-- A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se explicará la introducción a la factorización de polinomios, abordando la noción de descomposición en factores y su importancia algebraica, y reforzará el tema mediante una investigación guiada.
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán la factorización de polinomios, abordando la noción de descomposición en factores, métodos básicos como el factor común y la diferencia de cuadrados, y su aplicación en simplificación de expresiones algebraicas, con la finalidad de que comprendan y apliquen estos procedimientos para resolver ecuaciones cuadráticas y simplificar fracciones algebraicas. Para finalizar, aplicarán lo aprendido mediante la resolución de ejercicios que refuercen la comprensión y práctica de los métodos mencionados.  
+
+**Ejercicios:**  
+1. "Factoriza la expresión $6x^2 + 9x$ usando el método del factor común."  
+2. "Resuelve la ecuación cuadrática $x^2 - 5x + 6 = 0$ mediante factorización."  
+3. "Simplifica la fracción algebraica $\frac{x^2 - 4}{x^2 - 5x + 4}$ usando factorización."
 - investigacion
 - Define con precisión el concepto de factor en una expresión algebraica dentro de un glosario de términos. (3pts)
 
