@@ -94,7 +94,13 @@ draft: false
 - **Indicador:** Convierte números en notación científica a notación estándar y viceversa en una ficha de ejercicios. (5 pts)  
 
 #### Operaciones con notación científica  
-- Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de GeoGebra.org, se explicarán las operaciones (suma, resta, multiplicación y división) con números en notación científica, incluyendo su aplicación en problemas prácticos, y reforzará el tema resolviendo tres problemas de análisis.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *GeoGebra.org*, los estudiantes aprenderán las operaciones (suma, resta, multiplicación y división) con números en notación científica, abordando su definición, reglas de cálculo, aplicación en problemas prácticos y la importancia de la precisión en contextos científicos, con la finalidad de que puedan aplicar estos conceptos en situaciones reales. Para finalizar, aplicarán lo aprendido resolviendo problemas que integren operaciones en notación científica con escenarios cotidianos.  
+
+**Ejercicios:**  
+1. "Calcula la suma de $3.2 \times 10^4$ y $4.5 \times 10^3$."  
+2. "Determina el producto de $6.0 \times 10^2$ y $2.5 \times 10^{-1}$."  
+3. "Un satélite orbita a una velocidad de $7.5 \times 10^3$ km/h. ¿Cuántos kilómetros recorre en $2.0 \times 10^2$ horas?"
+
 - **Técnica:** Guía de ejercicios  
 - **Indicador:** Realiza operaciones aritméticas con números en notación científica en una guía de ejercicios. (5 pts)  
 
