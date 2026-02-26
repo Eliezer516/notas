@@ -35,3 +35,4 @@ note_type: task
 - [x] Yessica Andreina Suárez Godoy  (Fabián Andrés Moreno Suárez )
 - [x] Yillys Coromoto Durán Fernández  (Daboin Duran Ángel Gabriel )
 - [x] Yormaris Andreina Linares Mejias (Rosario Linares Mariangel Valentina)
+- [x] Yesberlin 
