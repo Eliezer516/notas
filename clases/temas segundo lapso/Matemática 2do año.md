@@ -111,7 +111,13 @@
 - Identifica correctamente el factor común de los coeficientes y variables en diversos polinomios en su cuaderno. (3pts)
 
 #### Diferencia de cuadrados
-- A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de "Purplemath", se introducirá la diferencia de cuadrados, detallando el reconocimiento de cuadrados perfectos y el uso de binomios conjugados, y reforzará el tema mediante ejercicios prácticos.
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Purplemath*, los estudiantes aprenderán la diferencia de cuadrados, abordando el reconocimiento de cuadrados perfectos, la aplicación de binomios conjugados y la factorización de expresiones algebraicas, con la finalidad de que comprendan cómo simplificar y factorizar polinomios mediante la diferencia de cuadrados. Para finalizar, aplicarán lo aprendido mediante la resolución de ejercicios que refuercen la comprensión del concepto.  
+
+**Ejercicios:**  
+1. "Factoriza la expresión $x^2 - 9$."  
+2. "Simplifica la expresión $\frac{x^2 - 16}{x-4}$."  
+3. "Expresa $a^2 - b^2$ como producto de binomios conjugados."  
+4. "Factoriza $25y^2 - 49$."
 - Ejercicios practicos
 - Reconoce binomios que representan una diferencia de cuadrados de forma inmediata en una actividad de clasificación.(3pts)
 
