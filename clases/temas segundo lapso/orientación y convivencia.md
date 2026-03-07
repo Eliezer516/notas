@@ -64,7 +64,7 @@ draft: false
 - **Indicador:** Identifica correctamente los componentes del pensamiento crítico y ejemplos de sesgos cognitivos en una hoja de trabajo.  
 
 #### Fases del proceso de toma de decisiones  
-- Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de *MindTools.com*, se abordarán las fases del proceso de toma de decisiones, describiendo cada etapa y sus funciones; se consolidará el aprendizaje mediante la elaboración de un **cuadro comparativo** en grupo.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *MindTools.com*, los estudiantes aprenderán las fases del proceso de toma de decisiones, abordando su secuencia lógica, las funciones de cada etapa (identificación del problema, generación de alternativas, evaluación de riesgos y selección de la mejor opción), y su aplicación en contextos reales, con la finalidad de que comprendan cómo estructurar decisiones informadas y éticas. Para finalizar, analizarán casos prácticos en grupos para diseñar un cuadro comparativo que identifique las ventajas y desventajas de cada fase en situaciones concretas.  
 - **Técnica:** Cuadro comparativo  
 - **Indicador:** Aplica el modelo de toma de decisiones a un problema real elaborando un cuadro comparativo en grupo.  
 
