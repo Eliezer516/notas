@@ -127,7 +127,12 @@
 - Determina los dos números enteros que cumplen con las condiciones de suma y producto de forma mental en su cuaderno.(3pts)
 
 #### Profundización en Trinomios y el Trinomio Cuadrado Perfecto
-- Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de "Superprof", se explicará la profundización en trinomios y el trinomio cuadrado perfecto, revisando las características de los términos extremos y el doble producto, y reforzará el tema mediante ejercicios prácticos.
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Superprof*, los estudiantes aprenderán qué es un trinomio cuadrado perfecto, abordando su forma algebraica $(a+b)^2 = a^2 + 2ab + b^2$, las características de sus términos extremos (cuadrados perfectos) y el doble producto de sus raíces, con la finalidad de que puedan identificar y factorizar expresiones cuadráticas perfectas. Para finalizar, aplicarán el conocimiento mediante la resolución de ejercicios que refuerzen la comprensión de estos conceptos.  
+
+**Ejercicios:**  
+1. "Determina si la expresión $4x^2 + 12x + 9$ es un trinomio cuadrado perfecto y, en caso afirmativo, escribe su factorización."  
+2. "Expande el trinomio cuadrado perfecto $(3x - 5)^2$."  
+3. "Resuelve la ecuación $x^2 + 6x + 9 = 0$ usando el método de factorización de trinomios cuadrados perfectos."
 - Ejercicios practicos
 - Comprueba si un trinomio cumple con las condiciones de un cuadrado perfecto mediante el cálculo del doble producto de forma individual. (4pts)
 
