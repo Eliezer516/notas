@@ -124,6 +124,13 @@ draft: false
 - **Indicador:** Realiza sumas y restas de números en base 60 con precisión en un ejercicio de práctica. (7 pts)  
 
 #### Aplicaciones y contextos reales  
-- Con la ayuda de los apuntes de la clase anterior y el texto extraído de GeoGebra.org, se explorarán aplicaciones del sistema sexagesimal en la hora (minutos/segundos), la geografía (grados) y la astronomía, y reforzará el tema mediante la elaboración de un tríptico visual con tres paneles: cronometraje, coordenadas y historia.  
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *GeoGebra.org*, los estudiantes aprenderán el sistema sexagesimal, abordando sus aplicaciones en medición del tiempo (minutos/segundos), su uso en geografía (grados), sus aplicaciones en astronomía y su historia, con la finalidad de que reconozcan la importancia y aplicaciones prácticas de este sistema en diferentes disciplinas. Para finalizar, los estudiantes crearán un tríptico visual que integre las aplicaciones del sistema sexagesimal en cronometraje, coordenadas geográficas y su historia.
+
+**Ejercicios:**  
+1. "Convierte el tiempo de 2 horas, 35 minutos y 42 segundos a segundos utilizando el sistema sexagesimal."  
+2. "Explica por qué el sistema sexagesimal sigue siendo utilizado en la medición de ángulos y coordenadas geográficas."  
+3. "Dado un ángulo de $75°30'45''$, convierte este valor a grados decimales."  
+4. "Investiga y describe una aplicación histórica del sistema sexagesimal en la astronomía babilónica."  
+5. "Compara las ventajas y desventajas del sistema sexagesimal frente al sistema decimal para medir tiempo."  
 - **Técnica:** Tríptico  
 - **Indicador:** Diseña un tríptico que muestre tres contextos reales del sistema sexagesimal con explicaciones concisas. (6 pts)
