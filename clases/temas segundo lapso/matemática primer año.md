@@ -134,3 +134,25 @@ draft: false
 5. "Compara las ventajas y desventajas del sistema sexagesimal frente al sistema decimal para medir tiempo."  
 - **Técnica:** Tríptico  
 - **Indicador:** Diseña un tríptico que muestre tres contextos reales del sistema sexagesimal con explicaciones concisas. (6 pts)
+
+### Criterios de divisibilidad
+#### Introducción a los criterios de divisibilidad
+- A través de una ronda de preguntas abiertas participativas y el texto extraído de Khan Academy, se explicará la noción general de criterios de divisibilidad, sus definiciones esenciales y ejemplos ilustrativos, y se reforzará el tema mediante la resolución de cinco ejercicios prácticos.
+- **Tecnica**: Ejercicios practicos
+- **Indicador**: Clasifica, en su cuaderno, números que cumplen o no cumplen un criterio dado bajo observación directa.(5pts)
+
+#### Reglas de divisibilidad para 4, 8 y 10
+- Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Math is Fun, se abordarán las reglas de divisibilidad para 4, 8 y 10, describiendo las condiciones numéricas que deben verificarse y proporcionando ejemplos cotidianos, y se consolidará el aprendizaje resolviendo cuatro problemas aplicados.
+- **Tecnica**: Ejercicios practicos
+- **Indicador**: Determina, en una tabla, si cada número presentado es divisible por 4, 8 o 10 según las reglas estudiadas.(5pts)
+
+#### Criterios de divisibilidad para 9, 11 y 12
+- A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de Purplemath, se presentarán los criterios de divisibilidad para 9, 11 y 12, explicando los algoritmos de suma de cifras y de alternancia, y se practicará mediante la ejecución de seis ejercicios de verificación.
+- **Tecnica**: Ejercicios practicos
+- **Indicador**: Calcula, en su cuaderno, la suma de cifras de cada número y decide su divisibilidad por 9.(5pts)
+
+#### Aplicaciones avanzadas y estrategias de verificación
+- Con la ayuda de los apuntes de la clase anterior y el texto extraído de Khan Academy, se explorarán aplicaciones avanzadas de los criterios de divisibilidad y estrategias de verificación en problemas de factorización y múltiplos, y se reforzará mediante la solución de ocho retos prácticos. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.
+- **Tecnica**: Ejercicios practicos
+- **Indicador**: Resuelve, en su cuaderno, problemas de factorización que requieran usar criterios de divisibilidad para simplificar los cálculos.(5pts)
+

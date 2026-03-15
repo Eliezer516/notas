@@ -72,3 +72,19 @@ draft: false
 - A través de la retroalimentación con los apuntes de la clase anterior y el texto extraído de *Purplemath*, se introducirá la aplicación de la lógica en situaciones cotidianas, resaltando principios de razonamiento deductivo e inductivo; se reforzará el tema mediante **ejercicios prácticos**.  
 - **Técnica:** Ejercicios prácticos  
 - **Indicador:** Resuelve problemas cotidianos aplicando razonamiento deductivo en los ejercicios propuestos en su cuaderno.  
+
+### Conectar con la historia de vida de la comunidad
+#### Introducción a la historia de vida de la comunidad
+- A través de una ronda de preguntas abiertas participativas y el texto extraído de Historia Nacional, se explicará la introducción a la historia de vida de la comunidad, abordando sus conceptos esenciales, la relevancia de los relatos personales y los métodos para recopilarlos, y se reforzará mediante preguntas guiadas.
+- **Tecnica**: Preguntas guiadas
+- **Indicador**: Describe de forma clara los elementos esenciales de la historia de vida de la comunidad en su cuaderno.
+
+#### El rol de los adultos mayores como biblioteca viva
+- Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Biblioteca Viva (bibliotecaviva.org), se abordará el rol de los adultos mayores como biblioteca viva, incluyendo sus funciones, beneficios y ejemplos locales, y se reforzará mediante la elaboración de un cuadro comparativo.
+- **Tecnica**: Cuadro comparativo
+- **Indicador**: Elabora un cuadro comparativo que contraste funciones y beneficios de los adultos mayores como biblioteca viva en su cuaderno.
+
+#### Diseño e implementación de proyectos de biblioteca viva
+- Con la ayuda de los apuntes de la clase anterior y el texto extraído de Khan Academy, se presentará el diseño e implementación de proyectos de biblioteca viva, describiendo sus fases, recursos y criterios de evaluación, y se reforzará mediante la construcción de un mapa conceptual. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.
+- **Tecnica**: Mapa conceptual
+- **Indicador**: Diseña un esquema de proyecto de biblioteca viva en un mapa conceptual que incluya fases, recursos y evaluación, en su cuaderno.
