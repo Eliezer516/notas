@@ -80,7 +80,7 @@ draft: false
 - **Indicador**: Describe de forma clara los elementos esenciales de la historia de vida de la comunidad en su cuaderno.
 
 #### El rol de los adultos mayores como biblioteca viva
-- Mediante retroalimentación con los apuntes de la clase anterior y el texto extraído de Biblioteca Viva (bibliotecaviva.org), se abordará el rol de los adultos mayores como biblioteca viva, incluyendo sus funciones, beneficios y ejemplos locales, y se reforzará mediante la elaboración de un cuadro comparativo.
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Biblioteca Viva (bibliotecaviva.org)*, los estudiantes aprenderán el concepto de la biblioteca viva de los adultos mayores, abordando sus funciones, los beneficios que aportan a la comunidad y ejemplos locales, con la finalidad de que comprendan la importancia de su participación como recurso cultural y social. Para finalizar, aplicarán lo aprendido mediante la elaboración de un cuadro comparativo que refuerce la comprensión del rol de los adultos mayores como biblioteca viva.
 - **Tecnica**: Cuadro comparativo
 - **Indicador**: Elabora un cuadro comparativo que contraste funciones y beneficios de los adultos mayores como biblioteca viva en su cuaderno.
 
