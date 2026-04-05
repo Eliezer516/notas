@@ -85,6 +85,6 @@ draft: false
 - **Indicador**: Elabora un cuadro comparativo que contraste funciones y beneficios de los adultos mayores como biblioteca viva en su cuaderno.
 
 #### Diseño e implementación de proyectos de biblioteca viva
-- Con la ayuda de los apuntes de la clase anterior y el texto extraído de Khan Academy, se presentará el diseño e implementación de proyectos de biblioteca viva, describiendo sus fases, recursos y criterios de evaluación, y se reforzará mediante la construcción de un mapa conceptual. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.
+- Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de Khan Academy, los estudiantes aprenderán diseño e implementación de proyectos de biblioteca viva, abordando fases del proyecto, recursos necesarios, criterios de evaluación y metodología participativa con la finalidad de que puedan diseñar y ejecutar proyectos de biblioteca viva de manera colaborativa. Para finalizar, elaborarán un esquema visual que sintetice los pasos y recursos clave del proyecto. Se emplearán una escala de estimación y diferentes potencialidades para medir si los estudiantes han alcanzado el aprendizaje de los referentes.
 - **Tecnica**: Mapa conceptual
 - **Indicador**: Diseña un esquema de proyecto de biblioteca viva en un mapa conceptual que incluya fases, recursos y evaluación, en su cuaderno.
