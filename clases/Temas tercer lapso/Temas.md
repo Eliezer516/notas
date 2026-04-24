@@ -93,3 +93,53 @@
 ---
 
 ## Matemáticas 2do
+**BLOQUE 1: RECOLECCIÓN, PROCESAMIENTO Y ORGANIZACIÓN DE DATOS (7 sesiones)**
+
+| Sesión | Tema                                                |
+| ------ | --------------------------------------------------- |
+| 1      | [[Qué son datos y para qué nos sirven]]             |
+| 2      | Formas de recolectar información en nuestro entorno |
+| 3      | Organizamos datos en tablas simples                 |
+| 4      | Diferencia entre datos cualitativos y cuantitativos |
+| 5      | Introducción al procesamiento básico                |
+| 6      | Presentación visual de datos organizados            |
+| 7      | Análisis inicial de lo recopilado                   |
+
+---
+
+**BLOQUE 2: PRESENTACIÓN Y ANÁLISIS DE DATOS (6 sesiones)**
+
+| Sesión | Tema |
+|--------|------|
+| 8 | Construcción de gráficos de barras |
+| 9 | Gráficos circulares y su interpretación |
+| 10 | Gráficos de líneas para series temporales |
+| 11 | Lectura e interpretación de cualquier gráfico |
+| 12 | Preguntas que podemos responder con los datos |
+| 13 | Proyecto breve de recolección aplicada |
+
+---
+
+**BLOQUE 3: MEDIDA DE TENDENCIA CENTRAL (6 sesiones)**
+
+| Sesión | Tema |
+|--------|------|
+| 14 | Promedio aritmético: concepto y cálculo |
+| 15 | Aplicación del promedio en situaciones reales |
+| 16 | La mediana: encontrar el valor central |
+| 17 | La moda: el dato más frecuente |
+| 18 | Comparación entre promedio, mediana y moda |
+| 19 | Cuándo usar cada medida según el contexto |
+
+---
+
+**BLOQUE 4: NOCIONES DE PERMUTACIÓN (6 sesiones)**
+
+| Sesión | Tema |
+|--------|------|
+| 20 | ¿Qué significa ordenar o acomodar cosas? |
+| 21 | Permutaciones con elementos distinguibles |
+| 22 | Cálculo de permutaciones simples |
+| 23 | Ejercicios prácticos con nombres y objetos |
+| 24 | Permutaciones en contextos cotidianos |
+| 25 | Evaluación final integradora |
