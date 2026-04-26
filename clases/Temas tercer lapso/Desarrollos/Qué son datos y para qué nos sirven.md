@@ -101,4 +101,11 @@ Implica estructurar la información de manera lógica para facilitar su consulta
 
 Los datos son el **activo más valioso** en la era digital. Sin embargo, su valor real solo se desbloquea cuando pasan por un proceso riguroso de **recolección, procesamiento y organización**. Como bien lo describe el ciclo de vida de los datos: la recolección de calidad garantiza que la información que ingresa al sistema sea precisa y confiable; el procesamiento la convierte en datos utilizables; y la organización permite extraer insights significativos que impulsan la toma de decisiones estratégicas .
 
-> *"Los datos son el nuevo petróleo, pero al igual que el petróleo crudo, deben refinarse para ser útiles."*
+> *"Los datos son el nuevo petróleo, pero al igual que el petróleo crudo, deben refinarse para ser útiles
+
+William 
+Javier 
+Yetnali
+Gabriel 
+Eumary
+Euzel
