@@ -1,3 +1,8 @@
+---
+title: "Temas"
+date: "2026-04-27"
+draft: false
+---
 ## orientación y convivencia.
 **BLOQUE 1: LIDERAZGO E INFLUENCIA PERSONAL (3 clases)**
 
