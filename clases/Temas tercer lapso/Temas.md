@@ -8,7 +8,7 @@ draft: false
 
 | Lunes | Fecha  | Tema                                             | Integración neurodiversidad                              |
 | ----- | ------ | ------------------------------------------------ | -------------------------------------------------------- |
-| 1     | 20 abr | Liderazgo e influencia - autoconocimiento        | Identificar fortalezas según perfil cognitivo individual |
+| 1     | 20 abr | [[Liderazgo e influencia, autoconocimiento]]     | Identificar fortalezas según perfil cognitivo individual |
 | 2     | 27 abr | Neurodiversidad y neurodivergencia - fundamentos | Definición inclusiva sin etiquetas ni estigmas           |
 | 3     | 4 may  | Liderazgo y comunicación efectiva                | Adaptar mensajes según formatos receptivos preferidos    |
 
