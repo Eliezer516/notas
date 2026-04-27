@@ -28,49 +28,50 @@ El proyecto se fundamenta en el paradigma de la **Neurodiversidad**, que entiend
 
 ### IV. Actividad Central: "El Panel de Expertos"
 
-En lugar de una exposición convencional sugiero organizar un panel donde los estudiantes actúen como "especialistas".
+En lugar de una exposición convencional sugiero como docente organizar un panel donde los estudiantes actúen como "especialistas".
 
-Para ampliar la actividad central del proyecto podemos diversificar las funciones del "Panel de Expertos". Al dividir la clase en 5 grupos.
-### 1. Neurocientíficos (Investigadores de la Biología)
+Para ampliar la actividad central del proyecto podemos diversificar las funciones del "Panel de Expertos". Al dividir la clase en 5 grupos. Se pueden organizar los 5 grupos de modo que cada uno se especialice en una condición o en el marco general de apoyo.
 
-Su enfoque es explicar el funcionamiento interno del cerebro.
+#### 1. Especialistas en TDAH (El Motor de la Dopamina)
 
-- **Misión:** Explicar conceptos como la **neuroplasticidad** y la función de los neurotransmisores (como la dopamina en el TDAH).
+Este grupo explicará la base biológica del comportamiento de su compañero para eliminar prejuicios.
+
+- **Misión:** Explicar que en el TDAH existe una regulación distinta de la **dopamina** (químico de la motivación y el "freno").
     
-- **Argumento clave:** Deben demostrar que el movimiento o la distracción no son "falta de voluntad", sino respuestas a una configuración neurológica específica que busca estímulos.
-    
-
-### 2. Arquitectos de Entornos Inclusivos (Analistas de Barreras)
-
-Este grupo analiza el espacio físico y sensorial del aula.
-
-- **Misión:** Identificar elementos que dificultan la concentración o el aprendizaje, como ruidos excesivos, iluminación o falta de apoyos visuales.
-    
-- **Argumento clave:** Explicar cómo un entorno "saturado" afecta desproporcionadamente a compañeros con TDAH o ritmos de aprendizaje distintos.
+- **Argumento clave:** El movimiento constante o la distracción no son falta de voluntad o indisciplina, sino una respuesta biológica de un cerebro que busca estímulos para mantenerse alerta.
     
 
-### 3. Diseñadores de Herramientas (Soluciones Prácticas)
+#### 2. Especialistas en Autismo (El Espectro Sensorial y Social)
 
-Se encargan de proponer los "ajustes razonables".
+Este grupo ayudará a entender cómo algunas personas procesan la comunicación y el entorno de forma única.
 
-- **Misión:** Presentar herramientas concretas como cronómetros visuales, agendas segmentadas, pelotas antiestrés o el uso de "pausas activas" para todo el grupo.
+- **Misión:** Explicar que el autismo puede implicar una **mayor sensibilidad sensorial** (ruidos, luces) y una forma diferente de procesar la interacción social.
     
-- **Argumento clave:** Probar que estas herramientas benefician a toda la clase, no solo a los compañeros neurodivergentes.
-    
-
-### 4. Biógrafos del Talento (Especialistas en Fortalezas)
-
-Su labor es cambiar la narrativa de la "discapacidad" hacia el "talento".
-
-- **Misión:** Investigar y presentar casos de figuras exitosas con neurodivergencias (ej. Michael Phelps o Simone Biles).
-    
-- **Argumento clave:** Resaltar cualidades como el pensamiento lateral, la creatividad y la persistencia que suelen acompañar a estos perfiles.
+- **Argumento clave:** Lo que para algunos es un ruido normal, para un cerebro autista puede ser una sobrecarga; por ello, necesitan herramientas como "zonas de calma" o apoyos visuales.
     
 
-### 5. Comunicadores Éticos (Especialistas en Lenguaje y Empatía)
+#### 3. Especialistas en Ritmos de Aprendizaje (La Ruta de la Neuroplasticidad)
 
-Este grupo vela por la cultura de respeto y el uso correcto del lenguaje.
+Este grupo abordará el retraso en el aprendizaje desde una perspectiva de capacidades, no de límites.
 
-- **Misión:** Enseñar a la clase el uso de términos adecuados (evitando "retraso" o "enfermedad") y promover la comunicación asertiva.
+- **Misión:** Explicar la **neuroplasticidad**, aclarando que todos los cerebros pueden aprender, aunque algunos necesiten más tiempo o rutas alternativas para consolidar la información.
     
-- **Argumento clave:** Explicar que la inteligencia es multidimensional y que cada persona tiene un "manual de usuario" diferente para su cerebro.
+- **Argumento clave:** Un ritmo pausado es una diferencia de velocidad, no de capacidad; estos compañeros suelen desarrollar una persistencia y resiliencia admirables.
+    
+
+#### 4. Arquitectos de Accesibilidad (Diseñadores de Soluciones)
+
+En lugar de centrarse en una condición, este grupo propone mejoras para que todos aprendan mejor, siguiendo el **Diseño Universal para el Aprendizaje (DUA)**.
+
+- **Misión:** Presentar herramientas como cronómetros visuales, agendas segmentadas y "pausas activas" de movimiento para toda la clase.
+    
+- **Argumento clave:** Estos ajustes no son solo para los compañeros neurodivergentes, sino que benefician la organización y concentración de todo el grupo.
+    
+
+#### 5. Comunicadores Éticos (Guardianes del Lenguaje y Empatía)
+
+Este grupo vela por el respeto y la eliminación de etiquetas negativas en la convivencia diaria.
+
+- **Misión:** Promover el uso de términos adecuados, sustituyendo palabras como "retrasado" o "enfermo" por **"ritmos de aprendizaje diversos"** o "condición de vida".
+    
+- **Argumento clave:** Ser un buen compañero significa entender que cada persona tiene su propio "manual de usuario" cerebral y que la inteligencia tiene muchas dimensiones.
