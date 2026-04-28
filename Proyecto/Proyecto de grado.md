@@ -1,12 +1,11 @@
-Voy a analizar el avance del proyecto proporcionado y reestructurarlo según tus indicaciones. Permíteme primero buscar información complementaria sobre investigación-acción participativa y diagnósticos situacionales para enriquecer la propuesta.
-Ahora tengo suficiente información para reestructurar el proyecto completo. Permíteme presentarte el avance reestructurado según tus indicaciones:
+# **PROYECTO**: *Diseño participativo de estrategias pedagógicas inclusivas para el aprendizaje de las matemáticas en estudiantes neurodivergentes: una investigación-acción en contextos escolares.*
 
 ---
+El Momento I: Reflexión Inicial sobre el Contexto constituye la fase fundacional del proceso investigativo y es esencial para enraizar el proyecto en la realidad concreta de la Unidad Educativa Santo Domingo de Guzmán, ubicada en la parroquia Santo Domingo. Su relevancia radica en facilitar una inmersión activa mediante el Diagnóstico Situacional Participativo (DSP), que va más allá de los datos cuantitativos para comprender las complejas interrelaciones entre las problemáticas educativas presentes.
 
-# **PROYECTO: DISEÑO PARTICIPATIVO DE ESTRATEGIAS PEDAGÓGICAS INCLUSIVAS PARA EL APRENDIZAJE DE LAS MATEMÁTICAS EN ESTUDIANTES NEURODIVERGENTES: UNA INVESTIGACIÓN-ACCIÓN EN CONTEXTOS ESCOLARES**
+Este momento asegura que la investigación no sea abstracta, sino que responda al sentir del colectivo educativo. Permite identificar y priorizar con precisión que una parte del estudiantado presenta diversidades neurológicas —como TDAH, autismo y retraso en el aprendizaje—, lo que en ocasiones afecta su desempeño académico, especialmente en áreas prácticas como matemática, física o química. Esta situación ha generado, en algunos casos, rechazo hacia dichas asignaturas.
 
----
-
+Por ello, abordar esta problemática resulta fundamental para elevar la calidad educativa, mediante un proyecto especializado que promueva estrategias, métodos y herramientas capaces de motivar a estos estudiantes a darle una oportunidad a estas áreas, evitando que se desanimen o cierren al aprendizaje.
 ## **I. DIAGNÓSTICO SITUACIONAL PARTICIPATIVO**
 
 ### **1.1. Breve Introducción de la Institución**
@@ -19,16 +18,12 @@ En el año escolar 2017-2018, la institución amplió su oferta académica al in
 
 ### **1.2. Plan de Acercamiento**
 
-| **Actividad** | **Estrategia** | **Técnica/Instrumento** | **Responsable** | **Lugar y Fecha** | **Observación** |
-|:---|:---|:---|:---|:---|:---|
-| Reconocimiento del territorio institucional | Visita guiada por las instalaciones escolares | Observación participante; registro fotográfico | Yonaiker Barreto | U.E. Santo Domingo de Guzmán; 1ra semana de septiembre 2024 | Identificar espacios físicos, recursos disponibles y condiciones de accesibilidad |
-| Contacto inicial con directivos y docentes | Reunión de presentación del proyecto | Entrevista semiestructurada; carta de intención | Yonaiker Barreto | Sala de dirección; 2da semana de septiembre 2024 | Establecer alianzas institucionales y obtener autorización para el desarrollo del diagnóstico |
-| Aplicación de diagnóstico pedagógico a docentes | Taller participativo de sensibilización | Cuestionario de prácticas pedagógicas; lluvia de ideas | Yonaiker Barreto | Salón de usos múltiples; 3ra-4ta semana de septiembre 2024 | Explorar conocimientos, actitudes y estrategias actuales frente a la neurodiversidad |
-| Aplicación de diagnóstico socioeconómico a familias | Visita domiciliaria y encuesta comunitaria | Encuesta estructurada; entrevista a padres/madres de familia | Yonaiker Barreto | Zona de influencia de la institución; octubre 2024 | Caracterizar condiciones socioeconómicas y nivel de involucramiento familiar |
-| Observación de estudiantes neurodivergentes en el aula | Seguimiento etnográfico en contexto natural | Ficha de observación sistemática; registro anecdótico | Yonaiker Barreto | Aulas de matemáticas; octubre-noviembre 2024 | Documentar comportamientos, dificultades y fortalezas en el aprendizaje matemático |
-| Aplicación de ejercicios diagnósticos matemáticos | Evaluación formativa adaptada | Prueba de comprensión y procedimiento matemático (adaptada) | Yonaiker Barreto | Aula de matemáticas; noviembre 2024 | Triangular datos con diagnóstico inicial del año escolar |
-| Taller participativo de cartografía socioeducativa | Mapeo colectivo con comunidad educativa | Técnica de cartografía social; grupo focal | Yonaiker Barreto | Instalaciones de la institución; noviembre 2024 | Construir representación gráfica participativa del entorno |
-| Análisis y sistematización de información | Sesión de triangulación de datos | Matriz de categorización; análisis de contenido | Yonaiker Barreto | Espacio de la UNEM; diciembre 2024 | Consolidar hallazgos del diagnóstico situacional participativo |
+| **Actividad**                                          | **Estrategia**                                | **Técnica/Instrumento**                                     | **Responsable**  | **Lugar y Fecha**                                           | **Observación**                                                                               |
+| :----------------------------------------------------- | :-------------------------------------------- | :---------------------------------------------------------- | :--------------- | :---------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| Reconocimiento del territorio institucional            | Visita guiada por las instalaciones escolares | Observación participante; registro fotográfico              | Yonaiker Barreto | U.E. Santo Domingo de Guzmán; 1ra semana de septiembre 2024 | Identificar espacios físicos, recursos disponibles y condiciones de accesibilidad             |
+| Contacto inicial con directivos y docentes             | Reunión de presentación del proyecto          | Entrevista semiestructurada; carta de intención             | Yonaiker Barreto | Sala de dirección; 2da semana de septiembre 2024            | Establecer alianzas institucionales y obtener autorización para el desarrollo del diagnóstico |
+| Observación de estudiantes neurodivergentes en el aula | Seguimiento etnográfico en contexto natural   | Ficha de observación sistemática; registro anecdótico       | Yonaiker Barreto | Aulas de matemáticas; octubre-noviembre 2024                | Documentar comportamientos, dificultades y fortalezas en el aprendizaje matemático            |
+| Aplicación de ejercicios diagnósticos matemáticos      | Evaluación formativa adaptada                 | Prueba de comprensión y procedimiento matemático (adaptada) | Yonaiker Barreto | Aula de matemáticas; noviembre 2024                         | Triangular datos con diagnóstico inicial del año escolar                                      |
 
 ---
 
@@ -44,7 +39,7 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 
 ---
 
-### **1.4. Diagnóstico Pedagógico Institucional Socioeconómico: Desglose de la Cartografía**
+### **1.4. Diagnóstico Pedagógico Institucional Socioeconómico**
 
 #### **a) Léxico Territorial (Entorno Físico)**
 
@@ -104,16 +99,7 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 
 ### **1.6. Técnicas e Instrumentos Utilizados**
 
-| **Técnica** | **Instrumento** | **Propósito** | **Participantes** |
-|:---|:---|:---|:---|
-| **Observación participante** | Ficha de observación sistemática; registro anecdótico | Documentar prácticas pedagógicas reales en el aula de matemáticas | Estudiantes neurodivergentes, docentes |
-| **Entrevista semiestructurada** | Guía de entrevista con preguntas abiertas y cerradas | Explorar percepciones, conocimientos y actitudes de docentes frente a la neurodiversidad | Docentes de matemáticas, especialista de Aula Integrada |
-| **Encuesta estructurada** | Cuestionario sobre condiciones socioeconómicas familiares | Caracterizar contexto socioeconómico de las familias de estudiantes neurodivergentes | Padres/madres de familia |
-| **Grupo focal** | Guía de discusión temática | Construir colectivamente la representación del territorio y sus recursos | Directivos, docentes, representantes estudiantiles |
-| **Prueba de rendimiento adaptada** | Ejercicios de comprensión y procedimiento matemático | Evaluar nivel de desempeño matemático actual de estudiantes neurodivergentes | 7 estudiantes con diagnóstico (TEA, TDAH, Discalculia) |
-| **Análisis documental** | Revisión de diagnósticos iniciales del año escolar; registros institucionales | Triangular información sobre historial académico y diagnósticos previos | Expedientes estudiantiles |
-| **Cartografía social** | Materiales para mapeo colectivo (papelógrafo, marcadores, fichas) | Visualizar participativamente las relaciones espaciales y sociales del entorno escolar | Comunidad educativa completa |
-| **Sociodrama/role-playing** | Guía de dramatización de situaciones de exclusión | Identificar vivencias de exclusión en matemáticas desde la perspectiva estudiantil | Estudiantes neurodivergentes |
+
 
 ---
 
@@ -121,26 +107,22 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 
 ### **2.1. Problemas Identificados en el Diagnóstico**
 
-Durante el diagnóstico situacional participativo se identificaron **múltiples problemáticas** que afectan el aprendizaje de las matemáticas en la institución:
+Durante el diagnóstico situacional participativo se identificaron **múltiples problemáticas**:
 
-| **N°** | **Problema Identificado** | **Descripción** |
-|:---|:---|:---|
-| **P1** | Prácticas pedagógicas homogeneizadoras en matemáticas | Enseñanza estandarizada que ignora los estilos de aprendizaje neurodivergentes |
-| **P2** | Escasa formación docente en neurodiversidad | Limitado conocimiento sobre TEA, TDAH y discalculia por parte del profesorado |
-| **P3** | Ausencia de materiales didácticos multisensoriales | Falta de recursos táctiles, visuales y manipulativos para enseñanza de conceptos matemáticos |
-| **P4** | Diseño curricular rígido sin adaptaciones | Currículo vertical que no flexibiliza contenidos, ritmos ni evaluaciones |
-| **P5** | Comunicación deficiente entre docentes y especialistas | Aislamiento del especialista de Aula Integrada; falta de trabajo colaborativo |
-| **P6** | Familias desinformadas sobre neurodiversidad | Bajo nivel de conciencia y acompañamiento pedagógico en el hogar |
-| **P7** | Infraestructura física inadecuada | Espacios ruidosos, poco estimulantes y sin áreas de regulación sensorial |
-| **P8** | Prejuicios y estigmas hacia la neurodiversidad | Cultura institucional que patologiza las diferencias neurológicas |
+1. Prácticas pedagógicas homogeneizadoras en matemáticas
+2. Escasa formación docente en neurodiversidad
+3. Ausencia de materiales didácticos multisensoriales
+4. Diseño curricular rígido sin adaptaciones
+5. Familias desinformadas sobre neurodiversidad
+6. Infraestructura física inadecuada
+7. Problemas de falta de agua
+8. Prejuicios y estigmas hacia la neurodiversidad
 
 ---
 
 ### **2.2. Mini Encuesta de Priorización**
 
-**Instrucciones:** Seleccione el problema que considera **más prioritario** atender para mejorar el aprendizaje de las matemáticas en estudiantes neurodivergentes. Puede elegir hasta 2 opciones.
-
-> **Contexto:** En la U.E. "Santo Domingo de Guzmán", 7 estudiantes tienen diagnósticos de neurodiversidad (TEA, TDAH, Discalculia). La enseñanza de matemáticas se realiza de manera tradicional, con bajos niveles de comprensión y motivación en estos estudiantes.
+**Contexto:** En la U.E. "Santo Domingo de Guzmán", 7 estudiantes tienen diagnósticos de neurodiversidad (TEA, TDAH, Discalculia). La enseñanza de matemáticas se realiza de manera tradicional, con bajos niveles de comprensión y motivación en estos estudiantes.
 
 | **Opción** | **Problema**                                           |  ☐  |
 | :--------- | :----------------------------------------------------- | :-: |
@@ -242,4 +224,55 @@ Durante el diagnóstico situacional participativo se identificaron **múltiples 
 
 | **Interrogante** | **Pregunta de investigación** |
 |:---|:---|
-| **¿Por qué?** | ¿Por qué las prácticas pedagógicas homogeneizadoras predominan en el área de mate
+| **¿Por qué?** | ¿Por qué las prácticas pedagógicas homogeneizadoras predominan en el área de matemáticas de la U.E. "Santo Domingo de Guzmán"? |
+| **Para qué?** | ¿Para qué diseñar estrategias pedagógicas inclusivas participativas para el aprendizaje matemático de estudiantes neurodivergentes? |
+| **Para quién?** | ¿Para quiénes serán pertinentes estas estrategias pedagógicas inclusivas en el contexto de la institución? |
+| **Con quién?** | ¿Con quiénes se construirán participativamente estas estrategias (docentes, especialistas, familias, estudiantes)? |
+| **Cómo?** | ¿Cómo incidirán las estrategias pedagógicas inclusivas en el mejoramiento del aprendizaje matemático de los estudiantes neurodivergentes? |
+| **Cuándo?** | ¿Cuándo será observable el impacto de las estrategias implementadas en el desempeño académico y emocional de los estudiantes? |
+| **Dónde?** | ¿Dónde se consolidará una cultura institucional de inclusión matemática sostenible en el tiempo? |
+
+---
+
+### **2.7. Propósito General**
+
+> **Diseñar, implementar y evaluar estrategias pedagógicas inclusivas participativas para el aprendizaje de las matemáticas en estudiantes neurodivergentes (TEA, TDAH y Discalculia) de la U.E. "Santo Domingo de Guzmán", que promuevan el reconocimiento de la neurodiversidad como riqueza cognitiva, fortalezcan las competencias matemáticas desde enfoques multisensoriales y visuales, y transformen la cultura docente hacia una pedagogía del reconocimiento y la adaptación curricular.**
+
+---
+
+### **2.8. Propósitos Específicos**
+
+| **N°** | **Propósito Específico**                                                                                                                                                                                           |
+| :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | Diagnosticar las necesidades de aprendizaje matemático de los estudiantes neurodivergentes de la institución mediante técnicas participativas (observación, entrevista, pruebas adaptadas).                        |
+| **2**  | Caracterizar los estilos de aprendizaje y los perfiles cognitivos de los estudiantes con TEA, TDAH y Discalculia para fundamentar el diseño de estrategias personalizadas.                                         |
+| **3**  | Diseñar conjuntamente con docentes, especialistas y familias un banco de estrategias pedagógicas inclusivas para la enseñanza de conceptos matemáticos (números, operaciones, geometría, resolución de problemas). |
+| **4**  | Implementar las estrategias diseñadas en el aula de matemáticas durante un período de intervención sistemática con registro de procesos.                                                                           |
+| **5**  | Evaluar el impacto de las estrategias en el rendimiento académico, la motivación intrínseca y el autoconcepto matemático de los estudiantes neurodivergentes.                                                      |
+| **6**  | Sistematizar las lecciones aprendidas y los saberes construidos durante el proceso de investigación-acción para su socialización y replicación.                                                                    |
+| **7**  | Fortalecer las capacidades del colectivo docente para la atención a la diversidad neurológica en el área de matemáticas mediante formación situada.                                                                |
+
+---
+
+### **2.9. Línea de Investigación**
+
+> **Enseñanza-Aprendizaje de la Matemática**
+> 
+> Esta investigación se enmarca en la línea de investigación sobre los procesos de enseñanza y aprendizaje de las matemáticas, específicamente en el subcampo de la **didáctica inclusiva y atención a la diversidad en contextos escolares**.
+
+---
+
+### **2.10. Alternativas de Solución**
+
+| **N°** | **Alternativa de Solución**                                                               |
+| :----: | :---------------------------------------------------------------------------------------- |
+| **A1** | Diseño de secuencias didácticas multisensoriales para la enseñanza de operaciones básicas |
+| **A2** | Creación de material manipulativo adaptado para comprensión de conceptos geométricos      |
+| **A3** | Implementación de rutinas visuales y estructuradas para estudiantes con TEA               |
+| **A4** | Desarrollo de juegos matemáticos con movimiento para estudiantes con TDAH                 |
+| **A5** | Construcción de representaciones concretas para estudiantes con Discalculia               |
+| **A6** | Formación docente en estrategias de diferenciación pedagógica                             |
+| **A7** | Establecimiento de alianzas con familias para continuidad del apoyo matemático            |
+
+---
+
