@@ -98,50 +98,7 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 
 ### **1.5. Cartografía Socioeducativa**
 
-La cartografía socioeducativa de la U.E. "Santo Domingo de Guzmán" revela una institución con **trayectoria de crecimiento constante** que, en la actualidad, busca trascender la enseñanza tradicional de las matemáticas para adaptarse a la neurodiversidad de su matrícula.
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    CARTOGRAFÍA SOCIOEDUCATIVA                           │
-│              U.E. "Santo Domingo de Guzmán"                             │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│   ┌─────────────────────────────────────────────────────────────┐      │
-│   │  ZONAS RESIDENCIALES (Densa población en torno al plantel)  │      │
-│   │                    🟨 🟨 🟨 🟨 🟨                          │      │
-│   └─────────────────────────────────────────────────────────────┘      │
-│                              │                                        │
-│   ┌──────────────────────────┼──────────────────────────┐              │
-│   │        VÍAS DE ACCESO    │    ÁREAS VERDES          │              │
-│   │           🔴🔴🔴         │       🌳🌳🌳            │              │
-│   └──────────────────────────┼──────────────────────────┘              │
-│                              │                                        │
-│                    ┌─────────┴─────────┐                              │
-│                    │   🏫 ESCUELA       │                              │
-│                    │  "Santo Domingo"    │                              │
-│                    │   Código: 006590390 │                              │
-│                    └─────────┬─────────┘                              │
-│                              │                                        │
-│                    ┌─────────┴─────────┐                              │
-│                    │    ⛪ IGLESIA      │                              │
-│                    │  (Núcleo socio-    │                              │
-│                    │   cultural)        │                              │
-│                    └───────────────────┘                              │
-│                                                                         │
-│   LEYENDA:  🟨 Zonas residenciales  │  🔴 Vías de acceso              │
-│             🌳 Áreas verdes         │  ⛪ Puntos de interés            │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-**Elementos clave identificados:**
-
-| **Dimensión** | **Hallazgo** | **Implicación para el proyecto** |
-|:---|:---|:---|
-| Densidad poblacional | Alta concentración residencial alrededor del plantel | Fácil acceso y potencial involucramiento comunitario |
-| Conectividad | Vías principales conectan con Trujillo y Valera | Posibilidad de articulación con servicios especializados |
-| Infraestructura institucional | Crecimiento progresivo desde 1958 hasta 2024 | Institución con capacidad de adaptación institucional |
-| Recursos de salud cercanos | Ambulatorio disponible para apoyo diagnóstico | Posibilidad de validación de diagnósticos de neurodiversidad |
+![[cartografia.png]]
 
 ---
 
@@ -185,16 +142,16 @@ Durante el diagnóstico situacional participativo se identificaron **múltiples 
 
 > **Contexto:** En la U.E. "Santo Domingo de Guzmán", 7 estudiantes tienen diagnósticos de neurodiversidad (TEA, TDAH, Discalculia). La enseñanza de matemáticas se realiza de manera tradicional, con bajos niveles de comprensión y motivación en estos estudiantes.
 
-| **Opción** | **Problema** | ☐ |
-|:---|:---|:---:|
-| A | Prácticas pedagógicas homogeneizadoras en matemáticas | ☐ |
-| B | Escasa formación docente en neurodiversidad | ☐ |
-| C | Ausencia de materiales didácticos multisensoriales | ☐ |
-| D | Diseño curricular rígido sin adaptaciones | ☐ |
-| E | Comunicación deficiente entre docentes y especialistas | ☐ |
-| F | Familias desinformadas sobre neurodiversidad | ☐ |
-| G | Infraestructura física inadecuada | ☐ |
-| H | Prejuicios y estigmas hacia la neurodiversidad | ☐ |
+| **Opción** | **Problema**                                           |  ☐  |
+| :--------- | :----------------------------------------------------- | :-: |
+| A          | Prácticas pedagógicas homogeneizadoras en matemáticas  |  ☐  |
+| B          | Escasa formación docente en neurodiversidad            |  ☐  |
+| C          | Ausencia de materiales didácticos multisensoriales     |  ☐  |
+| D          | Diseño curricular rígido sin adaptaciones              |  ☐  |
+| E          | Comunicación deficiente entre docentes y especialistas |  ☐  |
+| F          | Familias desinformadas sobre neurodiversidad           |  ☐  |
+| G          | Infraestructura física inadecuada                      |  ☐  |
+| H          | Prejuicios y estigmas hacia la neurodiversidad         |  ☐  |
 
 ---
 
