@@ -100,15 +100,15 @@ draft: false
 ## Matemáticas 2do
 **BLOQUE 1: RECOLECCIÓN, PROCESAMIENTO Y ORGANIZACIÓN DE DATOS (7 sesiones)**
 
-| Sesión | Tema                                                |
-| ------ | --------------------------------------------------- |
-| 1      | [[Qué son datos y para qué nos sirven]]             |
-| 2      | Formas de recolectar información en nuestro entorno |
-| 3      | Organizamos datos en tablas simples                 |
-| 4      | Diferencia entre datos cualitativos y cuantitativos |
-| 5      | Introducción al procesamiento básico                |
-| 6      | Presentación visual de datos organizados            |
-| 7      | Análisis inicial de lo recopilado                   |
+| Sesión | Tema                                                    |
+| ------ | ------------------------------------------------------- |
+| 1      | [[Qué son datos y para qué nos sirven]]                 |
+| 2      | [[Formas de recolectar información en nuestro entorno]] |
+| 3      | Organizamos datos en tablas simples                     |
+| 4      | Diferencia entre datos cualitativos y cuantitativos     |
+| 5      | Introducción al procesamiento básico                    |
+| 6      | Presentación visual de datos organizados                |
+| 7      | Análisis inicial de lo recopilado                       |
 
 ---
 
