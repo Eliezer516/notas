@@ -51,7 +51,6 @@ draft: false
 | ------ | ------------------------------------ |
 | 2      | [[Concepto de ecuación e incógnita]] |
 | 3      | Ecuaciones básicas con una incógnita |
-| 4      | Balanceo en las ecuaciones           |
 | 5      | Ecuaciones con paréntesis simples    |
 | 6      | Ecuaciones con fracciones enteras    |
 | 7      | Problemas aplicados tipo palabra     |

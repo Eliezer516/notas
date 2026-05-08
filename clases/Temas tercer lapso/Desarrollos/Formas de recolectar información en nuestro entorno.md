@@ -40,14 +40,14 @@ Producen datos **numéricos y medibles**, utilizados para identificar patrones, 
 ### **B) Métodos Cualitativos**
 Producen datos **descriptivos y no numéricos**, orientados a comprender significados, experiencias y contextos .
 
-| **Técnica** | **Características** | **Instrumentos** |
-|-------------|---------------------|------------------|
-| **Entrevista en profundidad** | Conversación abierta y flexible | Guías de entrevista semi-estructuradas |
-| **Grupos focales** | Interacción grupal para explorar opiniones | Guías de discusión, moderación |
-| **Observación participante** | Inmersión en el contexto del estudio | Diarios de campo, notas etnográficas |
-| **Historias de vida** | Recopilación de narrativas personales | Grabadoras, diarios personales |
-| **Análisis de contenido** | Interpretación de documentos y textos | Protocolos de análisis, categorización |
-| **Método etnográfico** | Estudio cultural en contextos naturales | Notas de campo, registros audiovisuales |
+| **Técnica**                   | **Características**                        | **Instrumentos**                        |
+| ----------------------------- | ------------------------------------------ | --------------------------------------- |
+| **Entrevista en profundidad** | Conversación abierta y flexible            | Guías de entrevista semi-estructuradas  |
+| **Grupos focales**            | Interacción grupal para explorar opiniones | Guías de discusión, moderación          |
+| **Observación participante**  | Inmersión en el contexto del estudio       | Diarios de campo, notas etnográficas    |
+| **Historias de vida**         | Recopilación de narrativas personales      | Grabadoras, diarios personales          |
+| **Análisis de contenido**     | Interpretación de documentos y textos      | Protocolos de análisis, categorización  |
+| **Método etnográfico**        | Estudio cultural en contextos naturales    | Notas de campo, registros audiovisuales |
 
 ---
 
