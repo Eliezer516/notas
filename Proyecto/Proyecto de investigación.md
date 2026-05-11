@@ -8,6 +8,8 @@ Este momento asegura que la investigación no sea abstracta, sino que responda a
 Por ello, abordar esta problemática resulta fundamental para elevar la calidad educativa, mediante un proyecto especializado que promueva estrategias, métodos y herramientas capaces de motivar a estos estudiantes a darle una oportunidad a estas áreas, evitando que se desanimen o cierren al aprendizaje.
 ## **I. DIAGNÓSTICO SITUACIONAL PARTICIPATIVO**
 
+
+
 ### **1.1. Breve Introducción de la Institución**
 
 La **Unidad Educativa "Santo Domingo de Guzmán"** es una institución pública venezolana ubicada en el Municipio Pampanito, Estado Trujillo, fundada en **1958** y con una trayectoria de más de 65 años de servicio educativo. La institución funciona en dos turnos (mañana y tarde), atendiendo niveles de educación inicial, primaria y media general, con una matrícula aproximada de **160 estudiantes** y un cuerpo docente de aproximadamente **60 profesionales**.
@@ -29,13 +31,7 @@ En el año escolar 2017-2018, la institución amplió su oferta académica al in
 
 ### **1.3. Propósito del Plan**
 
-El plan de acercamiento tiene como propósito fundamental **establecer una inmersión activa y ética en la realidad de la U.E. "Santo Domingo de Guzmán"**, garantizando que el proceso investigativo no sea abstracto, sino que responda al sentir y necesidades del colectivo educativo. Específicamente, busca:
-
-- **Generar confianza y vínculos** con los actores institucionales (directivos, docentes, estudiantes y familias).
-- **Recopilar información cualitativa y cuantitativa** sobre las condiciones pedagógicas, socioeconómicas y organizativas de la institución.
-- **Identificar y priorizar problemáticas educativas** relacionadas con el aprendizaje de las matemáticas en estudiantes neurodivergentes.
-- **Promover la participación activa** de la comunidad educativa desde las primeras etapas del proyecto.
-- **Fundamentar empíricamente** el diseño de estrategias pedagógicas inclusivas posterior.
+El plan de acercamiento tiene como propósito fundamental **establecer una inmersión activa y ética en la realidad de la U.E. "Santo Domingo de Guzmán"**, garantizando que el proceso investigativo no sea abstracto, sino que responda al sentir y necesidades del colectivo educativo.
 
 ---
 
