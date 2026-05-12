@@ -1,23 +1,17 @@
 # **PROYECTO**: *Diseño participativo de estrategias pedagógicas inclusivas para el aprendizaje de las matemáticas en estudiantes neurodivergentes: una investigación-acción en contextos escolares.*
 
----
 El Momento I: Reflexión Inicial sobre el Contexto constituye la fase fundacional del proceso investigativo y es esencial para enraizar el proyecto en la realidad concreta de la Unidad Educativa Santo Domingo de Guzmán, ubicada en la parroquia Santo Domingo. Su relevancia radica en facilitar una inmersión activa mediante el Diagnóstico Situacional Participativo (DSP), que va más allá de los datos cuantitativos para comprender las complejas interrelaciones entre las problemáticas educativas presentes.
 
 Este momento asegura que la investigación no sea abstracta, sino que responda al sentir del colectivo educativo. Permite identificar y priorizar con precisión que una parte del estudiantado presenta diversidades neurológicas —como TDAH, autismo y retraso en el aprendizaje—, lo que en ocasiones afecta su desempeño académico, especialmente en áreas prácticas como matemática, física o química. Esta situación ha generado, en algunos casos, rechazo hacia dichas asignaturas.
 
 Por ello, abordar esta problemática resulta fundamental para elevar la calidad educativa, mediante un proyecto especializado que promueva estrategias, métodos y herramientas capaces de motivar a estos estudiantes a darle una oportunidad a estas áreas, evitando que se desanimen o cierren al aprendizaje.
+
 ## **I. DIAGNÓSTICO SITUACIONAL PARTICIPATIVO**
-
-
-
 ### **1.1. Breve Introducción de la Institución**
 
 La **Unidad Educativa "Santo Domingo de Guzmán"** es una institución pública venezolana ubicada en el Municipio Pampanito, Estado Trujillo, fundada en **1958** y con una trayectoria de más de 65 años de servicio educativo. La institución funciona en dos turnos (mañana y tarde), atendiendo niveles de educación inicial, primaria y media general, con una matrícula aproximada de **160 estudiantes** y un cuerpo docente de aproximadamente **60 profesionales**.
 
 En el año escolar 2017-2018, la institución amplió su oferta académica al incorporar el 4to y 5to año de bachillerato. Actualmente, la U.E. "Santo Domingo de Guzmán" enfrenta el desafío de atender a una población estudiantil diversa, incluyendo un segmento significativo de estudiantes neurodivergentes (7 estudiantes con diagnósticos de TEA, TDAH y Discalculia), lo que constituye el foco central de esta investigación-acción participativa.
-
----
-
 ### **1.2. Plan de Acercamiento**
 
 | **Actividad**                                          | **Estrategia**                                | **Técnica/Instrumento**                                     | **Responsable**  | **Lugar y Fecha**                                           | **Observación**                                                                               |
@@ -27,13 +21,9 @@ En el año escolar 2017-2018, la institución amplió su oferta académica al in
 | Observación de estudiantes neurodivergentes en el aula | Seguimiento etnográfico en contexto natural   | Ficha de observación sistemática; registro anecdótico       | Yonaiker Barreto | Aulas de matemáticas; octubre-noviembre 2024                | Documentar comportamientos, dificultades y fortalezas en el aprendizaje matemático            |
 | Aplicación de ejercicios diagnósticos matemáticos      | Evaluación formativa adaptada                 | Prueba de comprensión y procedimiento matemático (adaptada) | Yonaiker Barreto | Aula de matemáticas; noviembre 2024                         | Triangular datos con diagnóstico inicial del año escolar                                      |
 
----
-
 ### **1.3. Propósito del Plan**
 
 El plan de acercamiento tiene como propósito fundamental **establecer una inmersión activa y ética en la realidad de la U.E. "Santo Domingo de Guzmán"**, garantizando que el proceso investigativo no sea abstracto, sino que responda al sentir y necesidades del colectivo educativo.
-
----
 
 ### **1.4. Diagnóstico Pedagógico Institucional Socioeconómico**
 
@@ -85,8 +75,6 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 | **Nivel socioeconómico** | Contexto de vulnerabilidad económica, típico de zonas rurales venezolanas |
 | **Servicios de salud** | Cercanía de un Ambulatorio para apoyo en diagnósticos |
 
----
-
 ### **1.5. Cartografía Socioeducativa**
 
 ![[cartografia.png]]
@@ -96,8 +84,6 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 ### **1.6. Técnicas e Instrumentos Utilizados**
 
 
-
----
 
 ## **II. DIRECCIONALIDAD DEL PROCESO INVESTIGATIVO — JERARQUIZACIÓN**
 
