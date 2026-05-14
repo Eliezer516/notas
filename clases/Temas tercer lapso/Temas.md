@@ -3,148 +3,582 @@ title: "Temas"
 date: "2026-04-27"
 draft: false
 ---
-## orientación y convivencia.
-**BLOQUE 1: LIDERAZGO E INFLUENCIA PERSONAL (3 clases)**
+# **Matemática 1er año**
 
-| Lunes | Fecha  | Tema                                             | Integración neurodiversidad                              |
-| ----- | ------ | ------------------------------------------------ | -------------------------------------------------------- |
-| 1     | 20 abr | [[Liderazgo e influencia, autoconocimiento]]     | Identificar fortalezas según perfil cognitivo individual |
-| 2     | 27 abr | Neurodiversidad y neurodivergencia - fundamentos | Definición inclusiva sin etiquetas ni estigmas           |
-| 3     | 4 may  | Liderazgo y comunicación efectiva                | Adaptar mensajes según formatos receptivos preferidos    |
-
----
-
-**BLOQUE 2: RESOLUCIÓN DE PROBLEMAS Y GESTIÓN DE CONFLICTOS (3 clases)**
-
-| Lunes | Fecha | Tema | Integración neurodiversidad |
-|-------|-------|------|-----------------------------|
-| 4 | 11 may | Resolución de problemas - enfoque colaborativo | Estrategias diversas para procesar información distinta |
-| 5 | 18 may | Gestión de conflictos - empatía y perspectivas múltiples | Entender reacciones emocionales desde la diferencia neurológica |
-| 6 | 25 may | Resolución de problemas complejos - pensamiento divergente | Ejercicios que permiten distintos niveles de procesamiento |
+**Fecha**: 21/04/2026
+**Encuentro**: 1
+**Clase**: 1 - 2
+**RTP**: Discusión del plan de evaluación
+**Técnica**: -
+**Indicador**: -
 
 ---
 
-**BLOQUE 3: ESPERANZA EN EL FUTURO Y OBJETIVOS (4 clases)**
-
-| Lunes | Fecha | Tema | Integración neurodiversidad |
-|-------|-------|------|-----------------------------|
-| 7 | 1 jun | Esperanza en el futuro y establecimiento de objetivos | Metas realistas considerando ritmos propios de aprendizaje |
-| 8 | 8 jun | Objetivos y planificación - herramientas visuales | Planificación flexible con apoyos visuales y digitales |
-| 9 | 15 jun | Liderazgo transformacional - impacto social | Reflexión sobre cómo la diversidad enriquece equipos completos |
-| 10 | 22 jun | Esperanza construida - historias de personas neurodivergentes | Modelos inspiradores sin romanticismo ni victimización |
+**Fecha**: 23/04/2026
+**Encuentro**: 2
+**Clase**: 3 - 4
+**RTP**: Ecuaciones de primer grado - Concepto de ecuación e incógnita
+**Técnica**: Ejercicios prácticos
+**Indicador**: Resuelve de manera correcta 2 ejercicios de identificación de ecuaciones en su cuaderno. (3pts)
 
 ---
 
-**BLOQUE 4: CREATIVIDAD E INNOVACIÓN (3 clases)**
-
-| Lunes | Fecha | Tema | Integración neurodiversidad |
-|-------|-------|------|-----------------------------|
-| 11 | 29 jun | Creatividad e innovación - expresión no convencional | Validar diferentes formas de generar ideas originales |
-| 12 | 6 jul | Creatividad aplicada - proyectos reales | Trabajo práctico donde cada estudiante aporta según capacidades |
-| 13 | 13 jul | Cierre integral - integración de todos los temas | Síntesis personalizada donde cada uno ve su propia trayectoria |
-
----
-## Matemáticas 1ro
-**BLOQUE 1: ECUACIONES DE PRIMER GRADO (6 sesiones)**
-
-| Sesión | Tema                                 |
-| ------ | ------------------------------------ |
-| 2      | [[Concepto de ecuación e incógnita]] |
-| 3      | Ecuaciones básicas con una incógnita |
-| 4      | Ecuaciones con paréntesis simples    |
-| 5      | Ecuaciones con fracciones enteras    |
-| 6      | Problemas aplicados tipo palabra     |
-| 7      | Prueba escrita sobre ecuaciones      |
+**Fecha**: 28/04/2026
+**Encuentro**: 3
+**Clase**: 5 - 6
+**RTP**: Ecuaciones básicas con una incógnita
+**Técnica**: Ejercicios prácticos
+**Indicador**: Resuelve de manera correcta al menos 3 ejercicios de ecuaciones con valor de la incógnita desconocida en su cuaderno. (3pts)
 
 ---
 
-**BLOQUE 2: RAZONES Y PROPORCIONES (6 sesiones)**
-
-| Sesión | Tema |
-|--------|------|
-| 8 | Introducción a razones y tipos |
-| 9 | Regla de tres simple |
-| 10 | Aplicaciones prácticas de proporciones |
-| 11 | Problemas complejos de proporciones |
-| 12 | Probabilidad clásica básica |
-| 13 | Evaluación formativa parcial |
+**Fecha**: 30/04/2026
+**Encuentro**: 4
+**Clase**: 7 - 8
+**RTP**: Ecuaciones con paréntesis simples
+**Técnica**: Ejercicios prácticos
+**Indicador**: Resuelve de manera correcta al menos 3 ejercicios de resolución de ecuaciones con paréntesis simples aplicando la propiedad distributiva en su cuaderno. (3pts)
 
 ---
 
-**BLOQUE 3: RECOLECCIÓN, ORGANIZACIÓN Y PRESENTACIÓN DE DATOS (6 sesiones)**
-
-| Sesión | Tema |
-|--------|------|
-| 14 | ¿Qué es recolectar datos? |
-| 15 | Organizamos datos en tablas |
-| 16 | Tablas de frecuencia absoluta y relativa |
-| 17 | Gráficos básicos (barras, pictogramas) |
-| 18 | Gráficos circulares y líneas |
-| 19 | Interpretación básica de gráficos |
+**Fecha**: 05/05/2026
+**Encuentro**: 5
+**Clase**: 9 - 10
+**RTP**: Ecuaciones con fracciones enteras
+**Técnica**: Ejercicios prácticos
+**Indicador**: Resuelve de forma correcta al menos 3 ejercicios de resolución de ecuaciones con fracciones enteras aplicando el m.c.m. en su cuaderno. (3pts)
 
 ---
 
-**BLOQUE 4: EXPERIMENTOS Y EVENTOS ALEATORIOS (6 sesiones)**
-
-| Sesión | Tema |
-|--------|------|
-| 20 | ¿Qué es un experimento aleatorio? |
-| 21 | Espacio muestral y eventos |
-| 22 | Probabilidad experimental |
-| 23 | Eventos independientes y dependientes |
-| 24 | Proyecto estadístico breve |
-| 25 | Cierre e integración de todo lo visto |
+**Fecha**: 07/05/2026
+**Encuentro**: 6
+**Clase**: 11 - 12
+**RTP**: Problemas aplicados tipo palabra
+**Técnica**: Ejercicios prácticos
+**Indicador**: Resuelve al menos 3 enunciados traduciendo las expresiones algebraicas en su cuaderno. (3pts)
 
 ---
 
-## Matemáticas 2do
-**BLOQUE 1: RECOLECCIÓN, PROCESAMIENTO Y ORGANIZACIÓN DE DATOS (7 sesiones)**
-
-| Sesión | Tema                                                    |
-| ------ | ------------------------------------------------------- |
-| 1      | [[Qué son datos y para qué nos sirven]]                 |
-| 2      | [[Formas de recolectar información en nuestro entorno]] |
-| 3      | Organizamos datos en tablas simples                     |
-| 4      | Diferencia entre datos cualitativos y cuantitativos     |
-| 5      | Introducción al procesamiento básico                    |
-| 6      | Presentación visual de datos organizados                |
-| 7      | Análisis inicial de lo recopilado                       |
+**Fecha**: 12/05/2026
+**Encuentro**: 7
+**Clase**: 13 - 14
+**RTP**: Prueba práctica sobre ecuaciones de primer grado
+**Técnica**: Prueba práctica escrita
+**Indicador**: Resuelve de manera correcta al menos cinco preguntas de opción múltiple en su prueba práctica escrita. (5pts)
 
 ---
 
-**BLOQUE 2: PRESENTACIÓN Y ANÁLISIS DE DATOS (6 sesiones)**
-
-| Sesión | Tema |
-|--------|------|
-| 8 | Construcción de gráficos de barras |
-| 9 | Gráficos circulares y su interpretación |
-| 10 | Gráficos de líneas para series temporales |
-| 11 | Lectura e interpretación de cualquier gráfico |
-| 12 | Preguntas que podemos responder con los datos |
-| 13 | Proyecto breve de recolección aplicada |
+**Fecha**: 14/05/2026
+**Encuentro**: 8
+**Clase**: 15 - 16
+**RTP**: Razones y proporciones - Introducción a razones y tipos
+**Técnica**: Ejercicios prácticos
+**Indicador**: Identifica correctamente el tipo de razón en situaciones cotidianas durante la ronda de preguntas. (3pts)
 
 ---
 
-**BLOQUE 3: MEDIDA DE TENDENCIA CENTRAL (6 sesiones)**
-
-| Sesión | Tema |
-|--------|------|
-| 14 | Promedio aritmético: concepto y cálculo |
-| 15 | Aplicación del promedio en situaciones reales |
-| 16 | La mediana: encontrar el valor central |
-| 17 | La moda: el dato más frecuente |
-| 18 | Comparación entre promedio, mediana y moda |
-| 19 | Cuándo usar cada medida según el contexto |
+**Fecha**: 19/05/2026
+**Encuentro**: 9
+**Clase**: 17 - 18
+**RTP**: Regla de tres simple
+**Técnica**: Ejercicios prácticos
+**Indicador**: Determina el valor desconocido en problemas de regla de tres simple en una lista de ejercicios. (3pts)
 
 ---
 
-**BLOQUE 4: NOCIONES DE PERMUTACIÓN (6 sesiones)**
+**Fecha**: 21/05/2026
+**Encuentro**: 10
+**Clase**: 19 - 20
+**RTP**: Aplicaciones prácticas de proporciones
+**Técnica**: Ejercicios prácticos
+**Indicador**: Resuelve problemas de proporciones en contextos correctas o escalas en una actividad colaborativa. (3pts)
 
-| Sesión | Tema |
-|--------|------|
-| 20 | ¿Qué significa ordenar o acomodar cosas? |
-| 21 | Permutaciones con elementos distinguibles |
-| 22 | Cálculo de permutaciones simples |
-| 23 | Ejercicios prácticos con nombres y objetos |
-| 24 | Permutaciones en contextos cotidianos |
-| 25 | Evaluación final integradora |
+---
+
+**Fecha**: 26/05/2026
+**Encuentro**: 11
+**Clase**: 21 - 22
+**RTP**: Problemas complejos de proporciones
+**Técnica**: Ejercicios prácticos
+**Indicador**: Descompone problemas complejos de proporciones en pasos lógicos en su cuaderno. (3pts)
+
+---
+
+**Fecha**: 28/05/2026
+**Encuentro**: 12
+**Clase**: 23 - 24
+**RTP**: Probabilidad clásica básica
+**Técnica**: Ejercicios prácticos
+**Indicador**: Calcula la probabilidad de eventos simples usando la fórmula en problemas numéricos. (3pts)
+
+---
+
+**Fecha**: 02/06/2026
+**Encuentro**: 13
+**Clase**: 25 - 26
+**RTP**: Evaluación formativa parcial
+**Técnica**: Prueba práctica escrita
+**Indicador**: Responde de forma correcta al menos cinco preguntas de opción múltiple en su prueba práctica escrita. (5pts)
+
+---
+
+**Fecha**: 04/06/2026
+**Encuentro**: 14
+**Clase**: 27 - 28
+**RTP**: Recolección, organización y presentación de datos - ¿Qué es recolectar datos?
+**Técnica**: Clase participativa
+**Indicador**: Interpreta los resultados mediante preguntas guiadas durante una actividad grupal. (3pts)
+
+---
+
+**Fecha**: 09/06/2026
+**Encuentro**: 15
+**Clase**: 29 - 30
+**RTP**: Organizamos datos en tablas
+**Técnica**: Ejercicios prácticos
+**Indicador**: Organiza los valores en filas y columnas de manera coherente en una lista de ejercicios. (3pts)
+
+---
+
+**Fecha**: 11/06/2026
+**Encuentro**: 16
+**Clase**: 31 - 32
+**RTP**: Tablas de frecuencia absoluta y relativa
+**Técnica**: Ejercicios prácticos
+**Indicador**: Determina la frecuencia relativa expresando la porcentaje en la misma tabla. (3pts)
+
+---
+
+**Fecha**: 16/06/2026
+**Encuentro**: 17
+**Clase**: 33 - 34
+**RTP**: Gráficos básicos (barras, pictogramas)
+**Técnica**: Ejercicios prácticos
+**Indicador**: Diseña un gráfico de barras que represente la distribución de una variable en papel cuadriculado. (3pts)
+
+---
+
+**Fecha**: 18/06/2026
+**Encuentro**: 18
+**Clase**: 35 - 36
+**RTP**: Gráficos circulares y líneas
+**Técnica**: Ejercicios prácticos
+**Indicador**: Elabora un gráfico circular que muestre la proporción de cada categoría en una hoja de ejercicios. (3pts)
+
+---
+
+**Fecha**: 23/06/2026
+**Encuentro**: 19
+**Clase**: 37 - 38
+**RTP**: Evaluación formativa parcial
+**Técnica**: Prueba práctica escrita
+**Indicador**: Redacta respuestas correctas a tres preguntas de la prueba práctica escrita bajo condiciones de tiempo limitado. (5pts)
+
+---
+
+**Fecha**: 25/06/2026
+**Encuentro**: 20
+**Clase**: 39 - 40
+**RTP**: Experimentos y eventos aleatorios - ¿Qué es un experimento aleatorio?
+**Técnica**: Ejercicios prácticos
+**Indicador**: Clasifica de forma correcta diversos fenómenos aleatorios en una tabla comparativa. (3pts)
+
+---
+
+**Fecha**: 30/06/2026
+**Encuentro**: 21
+**Clase**: 41 - 42
+**RTP**: Espacio muestral y eventos
+**Técnica**: Ejercicios prácticos
+**Indicador**: Determina el espacio muestral completo de experimentos simples como el lanzamiento de dados en su cuaderno. (3pts)
+
+---
+
+**Fecha**: 02/07/2026
+**Encuentro**: 22
+**Clase**: 43 - 44
+**RTP**: Probabilidad experimental
+**Técnica**: Ejercicios prácticos
+**Indicador**: Compara los resultados experimentales con los teóricos de manera analítica en un breve reporte escrito. (3pts)
+
+---
+
+**Fecha**: 07/07/2026
+**Encuentro**: 23
+**Clase**: 45 - 46
+**RTP**: Eventos independientes y dependientes
+**Técnica**: Ejercicios prácticos
+**Indicador**: Distingue con claridad entre eventos con reemplazo y sin reemplazo en una serie de problemas lógicos. (3pts)
+
+---
+
+**Fecha**: 09/07/2026
+**Encuentro**: 24
+**Clase**: 47 - 48
+**RTP**: Proyecto estadístico breve
+**Técnica**: Ejercicios prácticos
+**Indicador**: Diseña un plan de recolección de datos para un estudio estadístico sencillo de manera organizada. (3pts)
+
+---
+
+**Fecha**: 14/07/2026
+**Encuentro**: 25
+**Clase**: 49 - 50
+**RTP**: Cierre e integración de todo lo visto
+**Técnica**: Prueba práctica escrita
+**Indicador**: Resuelve problemas complejos que integran espacio muestral y cálculo de probabilidades con total autonomía. (5pts)
+
+---
+
+# **Matemática 2do año**
+
+**Fecha**: 21/04/2026
+**Encuentro**: 1
+**Clase**: 1 - 2
+**RTP**: Discusión del plan de evaluación
+**Técnica**: -
+**Indicador**: -
+
+---
+
+**Fecha**: 24/04/2026
+**Encuentro**: 2
+**Clase**: 3 - 4
+**RTP**: Recolección, procesamiento y organización de datos - Qué son los datos y para qué nos sirven
+**Técnica**: Ejercicios prácticos
+**Indicador**: Identifica la utilidad de los datos para resolver problemas de la vida cotidiana en una lista de ejemplos propuestos. (3pts)
+
+---
+
+**Fecha**: 28/04/2026
+**Encuentro**: 3
+**Clase**: 5 - 6
+**RTP**: Formas de recolectar datos en nuestro entorno
+**Técnica**: Ejercicios prácticos
+**Indicador**: Selecciona la técnica de recolección más adecuada según el fenómeno a estudiar en una ficha de planificación. (3pts)
+
+---
+
+**Fecha**: 01/05/2026
+**Encuentro**: 4
+**Clase**: 7 - 8
+**RTP**: Organizamos datos en tablas simples
+**Técnica**: Ejercicios prácticos
+**Indicador**: Transcribe datos desordenados a una tabla de doble entrada con total limpieza en su cuaderno. (3pts)
+
+---
+
+**Fecha**: 05/05/2026
+**Encuentro**: 5
+**Clase**: 9 - 10
+**RTP**: Diferencia entre datos cualitativos y cuantitativos
+**Técnica**: Ejercicios prácticos
+**Indicador**: Clasifica diversas variables en cualitativas o cuantitativas de manera correcta en una actividad de categorización. (3pts)
+
+---
+
+**Fecha**: 08/05/2026
+**Encuentro**: 6
+**Clase**: 11 - 12
+**RTP**: Introducción al procesamiento básico
+**Técnica**: Ejercicios prácticos
+**Indicador**: Identifica errores o inconsistencias en un conjunto de datos proporcionado antes de su procesamiento en su cuaderno. (2pts)
+
+---
+
+**Fecha**: 12/05/2026
+**Encuentro**: 7
+**Clase**: 13 - 14
+**RTP**: Presentación visual de datos organizados
+**Técnica**: Ejercicios prácticos
+**Indicador**: Traduce la información de una tabla de frecuencias a una representación gráfica sencilla con exactitud en su cuaderno. (1pts)
+
+---
+
+**Fecha**: 15/05/2026
+**Encuentro**: 8
+**Clase**: 15 - 16
+**RTP**: Análisis inicial de lo recopilado
+**Técnica**: Prueba práctica escrita
+**Indicador**: Interpreta la información contenida en tablas y gráficos para responder preguntas analíticas con total autonomía. (5pts)
+
+---
+
+**Fecha**: 19/05/2026
+**Encuentro**: 9
+**Clase**: 17 - 18
+**RTP**: Presentación y análisis de datos - Construcción de gráficos de barras
+**Técnica**: Ejercicios prácticos
+**Indicador**: Organiza datos cualitativos y cuantitativos discretos en tablas de frecuencia de forma ordenada en su cuaderno. (3pts)
+
+---
+
+**Fecha**: 22/05/2026
+**Encuentro**: 10
+**Clase**: 19 - 20
+**RTP**: Gráficos circulares y su interpretación
+**Técnica**: Ejercicios prácticos
+**Indicador**: Calcula el ángulo correspondiente a cada categoría de datos utilizando la regla de tres de forma exacta en su cuaderno. (3pts)
+
+---
+
+**Fecha**: 26/05/2026
+**Encuentro**: 11
+**Clase**: 21 - 22
+**RTP**: Gráficos de líneas para series temporales
+**Técnica**: Ejercicios prácticos
+**Indicador**: Localiza puntos de datos en un plano temporal uniendo las coordenadas con segmentos de recta de manera fluida. (3pts)
+
+---
+
+**Fecha**: 29/05/2026
+**Encuentro**: 12
+**Clase**: 23 - 24
+**RTP**: Lectura e interpretación de cualquier gráfico
+**Técnica**: Ejercicios prácticos
+**Indicador**: Extrae valores específicos de diferentes tipos de gráficos estadísticos con total exactitud en una actividad de lectura rápida. (3pts)
+
+---
+
+**Fecha**: 02/06/2026
+**Encuentro**: 13
+**Clase**: 25 - 26
+**RTP**: Preguntas que podemos responder con los datos
+**Técnica**: Ejercicios prácticos
+**Indicador**: Formula preguntas de investigación coherentes que puedan ser resueltas mediante el análisis de un set de datos proporcionado. (3pts)
+
+---
+
+**Fecha**: 05/06/2026
+**Encuentro**: 14
+**Clase**: 27 - 28
+**RTP**: Proyecto breve de recolección aplicada
+**Técnica**: Informe escrito
+**Indicador**: Elabora un informe escrito que sintetice los hallazgos del proyecto utilizando lenguaje técnico adecuado en la evaluación final. (5pts)
+
+---
+
+**Fecha**: 09/06/2026
+**Encuentro**: 15
+**Clase**: 29 - 30
+**RTP**: Medida de tendencia central - Promedio aritmético: concepto y cálculo
+**Técnica**: Ejercicios prácticos
+**Indicador**: Calcula el promedio aritmético de diversos conjuntos de datos numéricos con precisión en su cuaderno. (3pts)
+
+---
+
+**Fecha**: 12/06/2026
+**Encuentro**: 16
+**Clase**: 31 - 32
+**RTP**: Aplicación del promedio en situaciones reales
+**Técnica**: Ejercicios prácticos
+**Indicador**: Resuelve problemas de la vida diaria que involucran el cálculo de promedios de notas o gastos de forma exacta en su cuaderno. (3pts)
+
+---
+
+**Fecha**: 16/06/2026
+**Encuentro**: 17
+**Clase**: 33 - 34
+**RTP**: La mediana: encontrar el valor central
+**Técnica**: Ejercicios prácticos
+**Indicador**: Ordena conjuntos de datos de forma ascendente o descendente antes de localizar la mediana en su cuaderno. (3pts)
+
+---
+
+**Fecha**: 19/06/2026
+**Encuentro**: 18
+**Clase**: 35 - 36
+**RTP**: La moda: el dato más frecuente
+**Técnica**: Ejercicios prácticos
+**Indicador**: Localiza el valor que más se repite en diversas listas de datos con rapidez y precisión en una guía de estudio. (3pts)
+
+---
+
+**Fecha**: 23/06/2026
+**Encuentro**: 19
+**Clase**: 37 - 38
+**RTP**: Comparación entre promedio mediana y moda
+**Técnica**: Ejercicios prácticos
+**Indicador**: Compara los valores obtenidos de las tres medidas de tendencia central en un mismo set de datos de forma lógica. (3pts)
+
+---
+
+**Fecha**: 26/06/2026
+**Encuentro**: 20
+**Clase**: 39 - 40
+**RTP**: Cuándo usar cada medida según el contexto
+**Técnica**: Informe escrito
+**Indicador**: Argumenta la elección de la mediana sobre el promedio cuando existen valores atípicos con coherencia estadística en un informe escrito. (5pts)
+
+---
+
+**Fecha**: 30/06/2026
+**Encuentro**: 21
+**Clase**: 41 - 42
+**RTP**: Nociones de permutación - ¿Qué significa ordenar o acomodar las cosas?
+**Técnica**: Ejercicios prácticos
+**Indicador**: Clasifica de forma correcta situaciones donde el orden es relevante frente a las que no lo son en una lista comparativa. (3pts)
+
+---
+
+**Fecha**: 03/07/2026
+**Encuentro**: 22
+**Clase**: 43 - 44
+**RTP**: Permutaciones con elementos distinguibles
+**Técnica**: Ejercicios prácticos
+**Indicador**: Diferencia claramente entre elementos repetidos y elementos únicos dentro de un conjunto dado en una ficha de trabajo. (3pts)
+
+---
+
+**Fecha**: 07/07/2026
+**Encuentro**: 23
+**Clase**: 45 - 46
+**RTP**: Cálculo de permutaciones simples
+**Técnica**: Ejercicios prácticos
+**Indicador**: Calcula el valor de permutaciones lineales sin repetición utilizando la fórmula correspondiente con precisión en una guía de estudio. (3pts)
+
+---
+
+**Fecha**: 10/07/2026
+**Encuentro**: 24
+**Clase**: 47 - 48
+**RTP**: Ejercicios prácticos con nombres y objetos
+**Técnica**: Ejercicios prácticos
+**Indicador**: Ordena diversos objetos físicos siguiendo criterios específicos de posición de manera lógica en su mesa de trabajo. (3pts)
+
+---
+
+**Fecha**: 14/07/2026
+**Encuentro**: 25
+**Clase**: 49 - 50
+**RTP**: Permutaciones en contextos cotidianos
+**Técnica**: Ejercicios prácticos
+**Indicador**: Resuelve problemas sobre posiciones finales en carreras o concursos aplicando principios de conteo de forma coherente. (3pts)
+
+---
+
+**Fecha**: 17/07/2026
+**Encuentro**: 26
+**Clase**: 51 - 52
+**RTP**: Evaluación final integradora
+**Técnica**: Prueba práctica escrita
+**Indicador**: Selecciona la técnica de permutación adecuada para resolver problemas de niveles variados con total autonomía en la evaluación. (5pts)
+
+---
+
+# **Orientación y Convivencia 1er año**
+
+**Fecha**: 20/04/2026
+**Encuentro**: 1
+**Clase**: 1 - 2
+**RTP**: Plan de evaluación y discusión
+**Técnica**: -
+**Indicador**: -
+
+---
+
+**Fecha**: 27/04/2026
+**Encuentro**: 2
+**Clase**: 3 - 4
+**RTP**: Liderazgo e influencia - Liderazgo e influencia, autoconocimiento
+**Técnica**: Investigación
+**Indicador**: Investiga en su cuaderno como el autoconocimiento influye la capacidad de liderazgo en entornos organizacionales
+
+---
+
+**Fecha**: 04/05/2026
+**Encuentro**: 3
+**Clase**: 5 - 6
+**RTP**: Neurodiversidad y neurodivergencia
+**Técnica**: Revisión de cuadernos
+**Indicador**: Clasifica correctamente los tipos de neurodivergencia en un organizador gráfico durante la revisión de cuadernos.
+
+---
+
+**Fecha**: 11/05/2026
+**Encuentro**: 4
+**Clase**: 7 - 8
+**RTP**: Liderazgo y comunicación efectiva
+**Técnica**: Trabajo escrito
+**Indicador**: Analiza un ejemplo de liderazgo ineficaz y propone mejoras comunicacionales en un trabajo escrito.
+
+---
+
+**Fecha**: 18/05/2026
+**Encuentro**: 5
+**Clase**: 9 - 10
+**RTP**: Resolución de problemas y gestión de conflictos - Resolución de problemas, enfoque colaborativo
+**Técnica**: Investigación
+**Indicador**: Aplica herramientas de investigación para identificar causas y efectos de un conflicto dado en una investigación breve en su cuaderno.
+
+---
+
+**Fecha**: 25/05/2026
+**Encuentro**: 6
+**Clase**: 11 - 12
+**RTP**: Gestión de conflictos, empatía y perspectivas múltiples
+**Técnica**: Revisión de cuadernos
+**Indicador**: Reflexiona por escrito sobre cómo la empatía modifica el rumbo de un conflicto a partir de una lectura guiada en su cuaderno.
+
+---
+
+**Fecha**: 01/06/2026
+**Encuentro**: 7
+**Clase**: 13 - 14
+**RTP**: Resolución de problemas complejos, pensamiento divergente
+**Técnica**: Díptico
+**Indicador**: Diseña una propuesta creativa aplicando pensamiento divergente a un reto complejo en un díptico.
+
+---
+
+**Fecha**: 08/06/2026
+**Encuentro**: 8
+**Clase**: 15 - 16
+**RTP**: Esperanza en el futuro y establecimiento de objetivos
+**Técnica**: Glosario de términos
+**Indicador**: Define con claridad el concepto de esperanza desde una perspectiva psicológica en un glosario de términos.
+
+---
+
+**Fecha**: 15/06/2026
+**Encuentro**: 9
+**Clase**: 17 - 18
+**RTP**: Objetivos y planificación, herramientas visuales
+**Técnica**: Plan de acción
+**Indicador**: Elabora un plan de acción detallado para alcanzar una meta específica utilizando una lista secuencial en su cuaderno.
+
+---
+
+**Fecha**: 22/06/2026
+**Encuentro**: 10
+**Clase**: 19 - 20
+**RTP**: Liderazgo transformacional, impacto social
+**Técnica**: Cuadro sinóptico
+**Indicador**: Describe las características fundamentales de un líder transformacional en un cuadro sinóptico.
+
+---
+
+**Fecha**: 29/06/2026
+**Encuentro**: 11
+**Clase**: 21 - 22
+**RTP**: Esperanza construida, historias de personas neurodivergentes
+**Técnica**: Exposición
+**Indicador**: Expone con fluidez la historia de vida de una persona neurodivergente destacando sus logros en una presentación grupal.
+
+---
+
+**Fecha**: 06/07/2026
+**Encuentro**: 12
+**Clase**: 23 - 24
+**RTP**: Creatividad e innovación - Creatividad e innovación, expresión no convencional
+**Técnica**: Investigación
+**Indicador**: Investiga sobre las expresiones no convencionales de la creatividad en su cuaderno.
+
+---
+
+**Fecha**: 13/07/2026
+**Encuentro**: 13
+**Clase**: 25 - 26
+**RTP**: Creatividad aplicada, proyectos reales
+**Técnica**: Lapbook
+**Indicador**: Presenta de manera coherente un lapbook sobre la creatividad y como esta influye en la innovación
