@@ -13,7 +13,7 @@ draft: false
 **Indicador**: -
 
 ---
-
+## Ecuaciones de primer grado
 **Fecha**: 23/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
@@ -67,11 +67,11 @@ draft: false
 **Indicador**: Resuelve de manera correcta al menos cinco preguntas de opción múltiple en su prueba práctica escrita. (5pts)
 
 ---
-
+## Razones y proporciones 
 **Fecha**: 14/05/2026
 **Encuentro**: 8
 **Clase**: 15 - 16
-**RTP**: Razones y proporciones - Introducción a razones y tipos
+**RTP**: [[Razones y proporciones, Introducción a razones y tipos]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Identifica correctamente el tipo de razón en situaciones cotidianas durante la ronda de preguntas. (3pts)
 
@@ -121,11 +121,12 @@ draft: false
 **Indicador**: Responde de forma correcta al menos cinco preguntas de opción múltiple en su prueba práctica escrita. (5pts)
 
 ---
+## Recolección, organización y representación de datos
 
 **Fecha**: 04/06/2026
 **Encuentro**: 14
 **Clase**: 27 - 28
-**RTP**: Recolección, organización y presentación de datos - ¿Qué es recolectar datos?
+**RTP**: ¿Qué es recolectar datos?
 **Técnica**: Clase participativa
 **Indicador**: Interpreta los resultados mediante preguntas guiadas durante una actividad grupal. (3pts)
 
@@ -175,11 +176,12 @@ draft: false
 **Indicador**: Redacta respuestas correctas a tres preguntas de la prueba práctica escrita bajo condiciones de tiempo limitado. (5pts)
 
 ---
+## Experimentos y eventos aleatorios 
 
 **Fecha**: 25/06/2026
 **Encuentro**: 20
 **Clase**: 39 - 40
-**RTP**: Experimentos y eventos aleatorios - ¿Qué es un experimento aleatorio?
+**RTP**: ¿Qué es un experimento aleatorio?
 **Técnica**: Ejercicios prácticos
 **Indicador**: Clasifica de forma correcta diversos fenómenos aleatorios en una tabla comparativa. (3pts)
 
@@ -240,11 +242,12 @@ draft: false
 **Indicador**: -
 
 ---
+## Recolección, procesamiento y organización de datos
 
 **Fecha**: 24/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
-**RTP**: Recolección, procesamiento y organización de datos - Qué son los datos y para qué nos sirven
+**RTP**: Qué son los datos y para qué nos sirven
 **Técnica**: Ejercicios prácticos
 **Indicador**: Identifica la utilidad de los datos para resolver problemas de la vida cotidiana en una lista de ejemplos propuestos. (3pts)
 
@@ -289,7 +292,7 @@ draft: false
 **Fecha**: 12/05/2026
 **Encuentro**: 7
 **Clase**: 13 - 14
-**RTP**: Presentación visual de datos organizados
+**RTP**: [[Presentación visual de datos organizados]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Traduce la información de una tabla de frecuencias a una representación gráfica sencilla con exactitud en su cuaderno. (1pts)
 
