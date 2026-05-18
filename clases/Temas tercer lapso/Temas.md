@@ -506,11 +506,12 @@ draft: false
 **Indicador**: Analiza un ejemplo de liderazgo ineficaz y propone mejoras comunicacionales en un trabajo escrito.
 
 ---
+# Resolución de problemas y gestión de conflictos
 
 **Fecha**: 18/05/2026
 **Encuentro**: 5
 **Clase**: 9 - 10
-**RTP**: Resolución de problemas y gestión de conflictos - Resolución de problemas, enfoque colaborativo
+**RTP**:  [[Resolución de problemas, enfoque colaborativo]]
 **Técnica**: Investigación
 **Indicador**: Aplica herramientas de investigación para identificar causas y efectos de un conflicto dado en una investigación breve en su cuaderno.
 
