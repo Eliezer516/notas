@@ -80,7 +80,7 @@ draft: false
 **Fecha**: 19/05/2026
 **Encuentro**: 9
 **Clase**: 17 - 18
-**RTP**: Regla de tres simple
+**RTP**: [[Regla de tres simple]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Determina el valor desconocido en problemas de regla de tres simple en una lista de ejercicios. (3pts)
 
@@ -89,7 +89,7 @@ draft: false
 **Fecha**: 21/05/2026
 **Encuentro**: 10
 **Clase**: 19 - 20
-**RTP**: Aplicaciones prácticas de proporciones
+**RTP**: [[Aplicaciones prácticas de proporciones]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Resuelve problemas de proporciones en contextos correctas o escalas en una actividad colaborativa. (3pts)
 
