@@ -247,7 +247,7 @@ draft: false
 **Fecha**: 24/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
-**RTP**: Qué son los datos y para qué nos sirven
+**RTP**: [[Qué son datos y para qué nos sirven]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Identifica la utilidad de los datos para resolver problemas de la vida cotidiana en una lista de ejemplos propuestos. (3pts)
 
@@ -256,7 +256,7 @@ draft: false
 **Fecha**: 28/04/2026
 **Encuentro**: 3
 **Clase**: 5 - 6
-**RTP**: Formas de recolectar datos en nuestro entorno
+**RTP**: [[Formas de recolectar información en nuestro entorno]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Selecciona la técnica de recolección más adecuada según el fenómeno a estudiar en una ficha de planificación. (3pts)
 
@@ -265,7 +265,7 @@ draft: false
 **Fecha**: 01/05/2026
 **Encuentro**: 4
 **Clase**: 7 - 8
-**RTP**: Organizamos datos en tablas simples
+**RTP**: [[Organizamos datos en tablas simples]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Transcribe datos desordenados a una tabla de doble entrada con total limpieza en su cuaderno. (3pts)
 
@@ -301,7 +301,7 @@ draft: false
 **Fecha**: 15/05/2026
 **Encuentro**: 8
 **Clase**: 15 - 16
-**RTP**: Análisis inicial de lo recopilado
+**RTP**: [[Análisis inicial de lo recopilado]]
 **Técnica**: Prueba práctica escrita
 **Indicador**: Interpreta la información contenida en tablas y gráficos para responder preguntas analíticas con total autonomía. (5pts)
 

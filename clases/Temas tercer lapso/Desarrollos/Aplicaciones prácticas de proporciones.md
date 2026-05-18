@@ -21,8 +21,8 @@ Para entenderlo a un **"Nivel 5 años"**, imaginen que estamos preparando chocol
 ## 2. Regla de tres simple directa e inversa
 ### Desarrollo del Contenido
 El **Concepto Teórico Oficial** clasifica las relaciones en dos tipos fundamentales:
- 1. **Proporcionalidad Directa:** Cuando una magnitud aumenta, la otra también aumenta en la misma proporción (ej. más peso de fruta, más dinero a pagar). Se resuelve multiplicando en cruz: x = \frac{b \cdot c}{a}.
- 2. **Proporcionalidad Inversa:** Cuando una magnitud aumenta, la otra **disminuye** en la misma proporción (ej. más velocidad, menos tiempo de viaje). Se resuelve multiplicando de forma lineal: x = \frac{a \cdot b}{c}.
+ 1. **Proporcionalidad Directa:** Cuando una magnitud aumenta, la otra también aumenta en la misma proporción (ej. más peso de fruta, más dinero a pagar). Se resuelve multiplicando en cruz: $x = \frac{b \cdot c}{a}$
+ 2. **Proporcionalidad Inversa:** Cuando una magnitud aumenta, la otra **disminuye** en la misma proporción (ej. más velocidad, menos tiempo de viaje). Se resuelve multiplicando de forma lineal: $x = \frac{a \cdot b}{c}$
 Explicado a **"Nivel 5 años"**:
  * **La Directa es como un ascensor:** Si sube el número de manzanas que compras, sube el dinero que tienes que pagar. Si compras menos, pagas menos. Van hacia el mismo lado.
  * **La Inversa es como un sube y baja:** Si invitas a **más amigos** a limpiar tu habitación, tardarán **menos tiempo** en terminar. A más ayudantes, menos minutos de trabajo. Van en direcciones opuestas.
