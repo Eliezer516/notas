@@ -1,3 +1,4 @@
+## Planificación.
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán las aplicaciones prácticas de proporciones, abordando la relación de equivalencia entre razones, la regla de tres simple directa e inversa y la resolución de problemas de proporcionalidad, con la finalidad de que apliquen estos conceptos matemáticos para resolver situaciones problemáticas de la vida cotidiana. Para finalizar, consolidarán su aprendizaje mediante la ejecución de ejercicios prácticos que permitan transferir la teoría a contextos reales.
 
 **Ejercicios:**

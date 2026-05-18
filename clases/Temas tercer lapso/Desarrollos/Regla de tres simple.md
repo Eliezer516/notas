@@ -1,3 +1,4 @@
+## Planificación 
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán la regla de tres simple, abordando la identificación de relaciones de proporcionalidad directa, el planteamiento algebraico de la proporción $\frac{a}{b}= \frac{c}{x}$, y el cálculo de la incógnita $x$, con la finalidad de que puedan resolver situaciones cotidianas que requieran conversiones y comparaciones proporcionales. Para finalizar, aplicarán lo aprendido mediante la resolución de problemas que consoliden la comprensión y el uso de la regla de tres simple.  
 
 **Ejercicios:**  
