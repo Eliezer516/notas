@@ -27,54 +27,7 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 
 ### **1.4. Diagnóstico Pedagógico Institucional Socioeconómico**
 
-#### **a) Léxico Territorial (Entorno Físico)**
-
-| **Elemento** | **Descripción** |
-|:---|:---|
-| **Distribución** | Zona residencial densa que rodea el plantel educativo |
-| **Infraestructura** | Vías de acceso principales que conectan la institución con la comunidad |
-| **Puntos de interés** | Cercanía estratégica entre la Escuela y la Iglesia, consolidando un núcleo socio-cultural |
-| **Espacios naturales** | Áreas verdes integradas en el entorno con potencial para actividades al aire libre |
-
-#### **b) Léxico Estadístico (Población Escolar)**
-
-| **Categoría** | **Datos** |
-|:---|:---|
-| **Estudiantes** | Aproximadamente 160 alumnos (predominancia masculina) |
-| **Diversidad** | Segmento de estudiantes con discapacidad/neurodiversidad que justifica el enfoque inclusivo |
-| **Cuerpo laboral** | Aproximadamente 60 docentes (varones y hembras) |
-| **Personal operativo** | Administrativo, ambientalistas, cocineras de la patria y vigilantes |
-
-#### **c) Léxico Pedagógico y Organizativo**
-
-| **Elemento** | **Descripción** |
-|:---|:---|
-| **Identificación oficial** | Código de dependencia: 006590390; DEA: 0D00112114 |
-| **Programas activos** | PAE (Alimentación), PTMS (Manos a la Siembra), Brigadas, OBE (Organización Bolivariana de Estudiantes) |
-| **Estructura comunal** | Vinculación al Consejo Comunal "Santo Domingo", UBCH homónima, Circuito Comunal "Los Vencedores de Pampanito" |
-
-#### **d) Evolución Geo-Histórica (Hitos Clave)**
-
-| **Año** | **Hito** |
-|:---|:---|
-| 1958 | Fundación bajo el nombre U.E. "Santo Domingo" |
-| 1974 | Construcción de sede propia |
-| 1984-1985 | Expansión al nivel preescolar y conversión a Escuela Graduada |
-| 1996 | Incorporación de la III Etapa de Educación Básica (7mo grado) |
-| 2008-2009 | Modernización de infraestructura física |
-| 2017-2018 | Apertura de 4to y 5to año de bachillerato |
-| 2024 | Actualización de identidad institucional como U.E. "Santo Domingo de Guzmán" |
-
-#### **e) Condiciones Socioeconómicas del Contexto**
-
-| **Variable** | **Caracterización** |
-|:---|:---|
-| **Ubicación geográfica** | Municipio Pampanito, Estado Trujillo, Venezuela; 354 mts de altitud; márgenes del río Mocoy |
-| **Clima** | Temperatura entre 27°C y 37°C |
-| **Comunicación** | Carretera conectada con ciudades de Trujillo y Valera |
-| **Nivel socioeconómico** | Contexto de vulnerabilidad económica, típico de zonas rurales venezolanas |
-| **Servicios de salud** | Cercanía de un Ambulatorio para apoyo en diagnósticos |
-
+La Unidad Educativa "Santo Domingo de Guzmán", ubicada en el Municipio Pampanito, Estado Trujillo, Venezuela, se encuentra situada en una zona residencial densa que la rodea, con infraestructura vial que facilita la conectividad con la comunidad; destaca por su cercanía estratégica con la iglesia, formando un núcleo socio-cultural, y cuenta con áreas verdes que permiten actividades al aire libre. La institución, fundada en 1958 y actualizada en 2024 bajo el nombre de "Santo Domingo de Guzmán", atiende aproximadamente 160 estudiantes con predominio masculino, incluyendo un segmento significativo de estudiantes neurodivergentes, y cuenta con un cuerpo docente de 60 profesionales, así como personal operativo administrativo, ambientalista, cocineras de la patria y vigilantes. Su identificación oficial corresponde al código de dependencia 006590390 y DEA 0D00112114, y mantiene programas activos como PAE, PTMS, Brigadas y OBE, vinculándose al Consejo Comunal "Santo Domingo" y al Circuito Comunal "Los Vencedores de Pampanito". Históricamente, ha evolucionado desde su fundación en 1958, construyendo su sede propia en 1974, expandiéndose al nivel preescolar en 1984-1985, incorporando la III Etapa de Educación Básica en 1996, modernizando su infraestructura en 2008-2009, y ampliando su oferta con bachillerato en 2017-2018. Geográficamente, se localiza a 354 metros de altitud sobre los márgenes del río Mocoy, con un clima cálido entre 27°C y 37°C, comunicada mediante carretera con Trujillo y Valera, en un contexto de vulnerabilidad socioeconómica típico de zonas rurales venezolanas, y cuenta con un ambulatorio cercano que facilita diagnósticos médicos.
 ### **1.5. Cartografía Socioeducativa**
 
 ![[cartografia.png]]
@@ -91,31 +44,11 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 
 Durante el diagnóstico situacional participativo se identificaron **múltiples problemáticas**:
 
-1. Prácticas pedagógicas homogeneizadoras en matemáticas
-2. Escasa formación docente en neurodiversidad
-3. Ausencia de materiales didácticos multisensoriales
-4. Diseño curricular rígido sin adaptaciones
-5. Familias desinformadas sobre neurodiversidad
-6. Infraestructura física inadecuada
-7. Problemas de falta de agua
-8. Prejuicios y estigmas hacia la neurodiversidad
-
----
-
-### **2.2. Mini Encuesta de Priorización**
-
-**Contexto:** En la U.E. "Santo Domingo de Guzmán", 7 estudiantes tienen diagnósticos de neurodiversidad (TEA, TDAH, Discalculia). La enseñanza de matemáticas se realiza de manera tradicional, con bajos niveles de comprensión y motivación en estos estudiantes.
-
-| **Opción** | **Problema**                                           |  ☐  |
-| :--------- | :----------------------------------------------------- | :-: |
-| A          | Prácticas pedagógicas homogeneizadoras en matemáticas  |  ☐  |
-| B          | Escasa formación docente en neurodiversidad            |  ☐  |
-| C          | Ausencia de materiales didácticos multisensoriales     |  ☐  |
-| D          | Diseño curricular rígido sin adaptaciones              |  ☐  |
-| E          | Comunicación deficiente entre docentes y especialistas |  ☐  |
-| F          | Familias desinformadas sobre neurodiversidad           |  ☐  |
-| G          | Infraestructura física inadecuada                      |  ☐  |
-| H          | Prejuicios y estigmas hacia la neurodiversidad         |  ☐  |
+1. Escasa formación docente en neurodiversidad
+2. Ausencia de materiales didácticos multisensoriales
+3. Familias desinformadas sobre neurodiversidad
+4. Problemas de falta de agua
+5. Prejuicios y estigmas hacia la neurodiversidad
 
 ---
 
