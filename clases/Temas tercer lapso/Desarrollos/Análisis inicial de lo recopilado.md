@@ -14,7 +14,6 @@
 1. Realiza una **tabla de frecuencia organizada** en base al siguiente caso:
 > Supongamos que haces una encuesta rápida en el grupo de WhatsApp del salón sobre qué género musical escucharon más en su Spotify Wrapped. Estos son los datos brutos (N=20):
 Trap, Pop, Reggaetón, Trap, Trap, K-Pop, Reggaetón, Pop, Trap, Reggaetón, Trap, K-Pop, Trap, Pop, Reggaetón, Trap, Trap, Pop, K-Pop, Reggaetón.
-
 **Análisis rápido:** Si fueras a organizar un evento para recaudar fondos, ¿qué música pondrías?
 
 2. Representa los resultados de la tabla con un gráfico de barras sencillo 
