@@ -1,5 +1,5 @@
 ---
-title: Colaboracion del pizarron
+title: Colaboracion del techo
 date: 2025-11-14
 draft: false
 note_type: task
