@@ -32,8 +32,6 @@ La Unidad Educativa "Santo Domingo de Guzmán", ubicada en el Municipio Pampanit
 
 ![[cartografia.png]]
 
----
-
 ### **1.6. Técnicas e Instrumentos Utilizados**
 
 
@@ -47,35 +45,22 @@ Durante el diagnóstico situacional participativo se identificaron **múltiples 
 1. Escasa formación docente en neurodiversidad
 2. Ausencia de materiales didácticos multisensoriales
 3. Familias desinformadas sobre neurodiversidad
-4. Problemas de falta de agua
-5. Prejuicios y estigmas hacia la neurodiversidad
-
----
-
+4. Prácticas pedagógicas homogeneizadoras en matemáticas
+5. Problemas de falta de agua
+6. Prejuicios y estigmas hacia la neurodiversidad
 ### **2.3. Matriz de Priorización del Problema**
 
-| **Criterio de Evaluación** | **P1** | **P2** | **P3** | **P4** | **P5** | **P6** | **P7** | **P8** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Magnitud** (¿Cuántos estudiantes afecta?) | 🔴 Alta | 🟡 Media | 🟡 Media | 🔴 Alta | 🟢 Baja | 🟡 Media | 🟡 Media | 🔴 Alta |
-| **Gravedad** (¿Qué tan severo es el impacto en el aprendizaje?) | 🔴 Grave | 🔴 Grave | 🟡 Moderada | 🔴 Grave | 🟡 Moderada | 🟡 Moderada | 🟢 Leve | 🔴 Grave |
-| **Capacidad de solución** (¿Podemos resolverlo con este proyecto?) | 🟢 Alta | 🟡 Media | 🟢 Alta | 🟡 Media | 🟡 Media | 🟡 Media | 🟢 Alta | 🟢 Alta |
-| **Urgencia** (¿Requiere atención inmediata?) | 🔴 Sí | 🔴 Sí | 🟡 Moderada | 🔴 Sí | 🟢 No | 🟡 Moderada | 🟢 No | 🔴 Sí |
-| **Beneficio esperado** (¿Cuánto beneficia a los estudiantes?) | 🔴 Alto | 🔴 Alto | 🟡 Medio | 🔴 Alto | 🟡 Medio | 🟡 Medio | 🟢 Bajo | 🟡 Medio |
-| **TOTAL PONDERADO** | **22** | **18** | **14** | **20** | **10** | **12** | **10** | **18** |
-
-**Leyenda:** 🔴 = 3 puntos | 🟡 = 2 puntos | 🟢 = 1 punto
-
----
+| **Criterio de Evaluación**                                         | **1**  |  **2**   |  **3**   | **4**  |  **5**   |  **6**   |
+| :----------------------------------------------------------------- | :----: | :------: | :------: | :----: | :------: | :------: |
+| **Magnitud** (¿Cuántos estudiantes afecta?)                        |  Alta  |  Media   |  Media   |  Alta  |  Media   |  Media   |
+| **Gravedad** (¿Qué tan severo es el impacto en el aprendizaje?)    | Grave  |  Grave   | Moderada | Grave  | Moderada | Moderada |
+| **Capacidad de solución** (¿Podemos resolverlo con este proyecto?) |  Baja  |   Baja   |   Baja   |  Alta  |   Baja   |  Media   |
+| **Urgencia** (¿Requiere atención inmediata?)                       |   Sí   | Moderada | Moderada |   Sí   |    No    | Moderada |
+| **Beneficio esperado** (¿Cuánto beneficia a los estudiantes?)      |  Alto  | Moderado |  Medio   |  Alto  |  Medio   |  Medio   |
 
 ### **2.4. Resultado: Problema Priorizado**
 
-> 🏆 **PROBLEMA GANADOR: P1 — Prácticas pedagógicas homogeneizadoras en matemáticas que excluyen a estudiantes neurodivergentes**
-> 
-> **Puntuación:** 22/30 (Mayor puntaje obtenido)
-> 
-> **Justificación:** Afecta a todos los estudiantes neurodivergentes identificados (7 casos), tiene grave impacto en su desempeño académico y autoconcepto, es abordable mediante el diseño participativo de estrategias inclusivas, y su resolución genera el beneficio más amplio para la población objetivo.
-
----
+**Prácticas pedagógicas homogeneizadoras en matemáticas que excluyen a estudiantes neurodivergentes**. Afecta a todos los estudiantes neurodivergentes identificados (7 casos), tiene grave impacto en su desempeño académico y autoconcepto, es abordable mediante el diseño participativo de estrategias inclusivas, y su resolución genera el beneficio más amplio para la población objetivo.
 
 ### **2.5. Árbol del Problema**
 
@@ -133,61 +118,37 @@ Durante el diagnóstico situacional participativo se identificaron **múltiples 
            └─────────────────────────────────────────────────┘
 ```
 
----
+
 
 ### **2.6. Interrogantes de la Investigación**
 
-| **Interrogante** | **Pregunta de investigación** |
-|:---|:---|
-| **¿Por qué?** | ¿Por qué las prácticas pedagógicas homogeneizadoras predominan en el área de matemáticas de la U.E. "Santo Domingo de Guzmán"? |
-| **Para qué?** | ¿Para qué diseñar estrategias pedagógicas inclusivas participativas para el aprendizaje matemático de estudiantes neurodivergentes? |
-| **Para quién?** | ¿Para quiénes serán pertinentes estas estrategias pedagógicas inclusivas en el contexto de la institución? |
-| **Con quién?** | ¿Con quiénes se construirán participativamente estas estrategias (docentes, especialistas, familias, estudiantes)? |
-| **Cómo?** | ¿Cómo incidirán las estrategias pedagógicas inclusivas en el mejoramiento del aprendizaje matemático de los estudiantes neurodivergentes? |
-| **Cuándo?** | ¿Cuándo será observable el impacto de las estrategias implementadas en el desempeño académico y emocional de los estudiantes? |
-| **Dónde?** | ¿Dónde se consolidará una cultura institucional de inclusión matemática sostenible en el tiempo? |
-
----
-
+- **¿Por qué?** ¿Por qué las prácticas pedagógicas homogeneizadoras predominan en el área de matemáticas de la U.E. "Santo Domingo de Guzmán"?
+- **¿Para qué?** ¿Para qué diseñar estrategias pedagógicas inclusivas participativas para el aprendizaje matemático de estudiantes neurodivergentes?
+- **¿Para quién?** ¿Para quiénes serán pertinentes estas estrategias pedagógicas inclusivas en el contexto de la institución?
+- **¿Con quién?** ¿Con quiénes se construirán participativamente estas estrategias (docentes, especialistas, familias, estudiantes)?
+- **¿Cómo?** ¿Cómo incidirán las estrategias pedagógicas inclusivas en el mejoramiento del aprendizaje matemático de los estudiantes neurodivergentes?
+- **¿Cuándo?** ¿Cuándo será observable el impacto de las estrategias implementadas en el desempeño académico y emocional de los estudiantes?
+- **¿Dónde?** ¿Dónde se consolidará una cultura institucional de inclusión matemática sostenible en el tiempo?
 ### **2.7. Propósito General**
 
 > **Diseñar, implementar y evaluar estrategias pedagógicas inclusivas participativas para el aprendizaje de las matemáticas en estudiantes neurodivergentes (TEA, TDAH y Discalculia) de la U.E. "Santo Domingo de Guzmán", que promuevan el reconocimiento de la neurodiversidad como riqueza cognitiva, fortalezcan las competencias matemáticas desde enfoques multisensoriales y visuales, y transformen la cultura docente hacia una pedagogía del reconocimiento y la adaptación curricular.**
 
----
-
 ### **2.8. Propósitos Específicos**
 
-| **N°** | **Propósito Específico**                                                                                                                                                                                           |
-| :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**  | Diagnosticar las necesidades de aprendizaje matemático de los estudiantes neurodivergentes de la institución mediante técnicas participativas (observación, entrevista, pruebas adaptadas).                        |
-| **2**  | Caracterizar los estilos de aprendizaje y los perfiles cognitivos de los estudiantes con TEA, TDAH y Discalculia para fundamentar el diseño de estrategias personalizadas.                                         |
-| **3**  | Diseñar conjuntamente con docentes, especialistas y familias un banco de estrategias pedagógicas inclusivas para la enseñanza de conceptos matemáticos (números, operaciones, geometría, resolución de problemas). |
-| **4**  | Implementar las estrategias diseñadas en el aula de matemáticas durante un período de intervención sistemática con registro de procesos.                                                                           |
-| **5**  | Evaluar el impacto de las estrategias en el rendimiento académico, la motivación intrínseca y el autoconcepto matemático de los estudiantes neurodivergentes.                                                      |
-| **6**  | Sistematizar las lecciones aprendidas y los saberes construidos durante el proceso de investigación-acción para su socialización y replicación.                                                                    |
-| **7**  | Fortalecer las capacidades del colectivo docente para la atención a la diversidad neurológica en el área de matemáticas mediante formación situada.                                                                |
-
----
-
+1. Diagnosticar las necesidades de aprendizaje matemático de los estudiantes neurodivergentes de la institución mediante técnicas participativas (observación, entrevista, pruebas adaptadas).  
+2. Caracterizar los estilos de aprendizaje y los perfiles cognitivos de los estudiantes con TEA, TDAH y Discalculia para fundamentar el diseño de estrategias personalizadas.  
+3. Diseñar conjuntamente con docentes, especialistas y familias un banco de estrategias pedagógicas inclusivas para la enseñanza de conceptos matemáticos (números, operaciones, geometría, resolución de problemas).  
 ### **2.9. Línea de Investigación**
 
 > **Enseñanza-Aprendizaje de la Matemática**
 > 
 > Esta investigación se enmarca en la línea de investigación sobre los procesos de enseñanza y aprendizaje de las matemáticas, específicamente en el subcampo de la **didáctica inclusiva y atención a la diversidad en contextos escolares**.
 
----
-
 ### **2.10. Alternativas de Solución**
 
-| **N°** | **Alternativa de Solución**                                                               |
-| :----: | :---------------------------------------------------------------------------------------- |
-| **A1** | Diseño de secuencias didácticas multisensoriales para la enseñanza de operaciones básicas |
-| **A2** | Creación de material manipulativo adaptado para comprensión de conceptos geométricos      |
-| **A3** | Implementación de rutinas visuales y estructuradas para estudiantes con TEA               |
-| **A4** | Desarrollo de juegos matemáticos con movimiento para estudiantes con TDAH                 |
-| **A5** | Construcción de representaciones concretas para estudiantes con Discalculia               |
-| **A6** | Formación docente en estrategias de diferenciación pedagógica                             |
-| **A7** | Establecimiento de alianzas con familias para continuidad del apoyo matemático            |
-
----
-
+1. Diseño de secuencias didácticas multisensoriales para la enseñanza de operaciones básicas  
+2. Creación de material manipulativo adaptado para comprensión de conceptos geométricos  
+3. Implementación de rutinas visuales y estructuradas para estudiantes con TEA  
+4. Desarrollo de juegos matemáticos con movimiento para estudiantes con TDAH  
+5. Construcción de representaciones concretas para estudiantes con Discalculia  
+6. Formación docente en estrategias de diferenciación pedagógica  7. Establecimiento de alianzas con familias para continuidad del apoyo matemático
