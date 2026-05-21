@@ -5,7 +5,7 @@ draft: false
 note_type: task
 ---
 - [ ] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
-- [ ] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
+- [x] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
 - [ ] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
 - [ ] Delimar Pernia  (Santiago Alejandro zambrano)
@@ -21,7 +21,7 @@ note_type: task
 - [ ] María Jesús Bravo de Morón  (Erick Yadier Morón Bravo )
 - [ ] Maria Ramona Rojas Artigas (Rojas Artigas Isaac David)
 - [ ] Maryuli Del Carmen Daboin Pernia  (Danielys Victoria Paolini Daboin )
-- [ ] Milangela del Carmen Fernández rosario  (Victoria Valentina Sánchez Fernández )
+- [x] Milangela del Carmen Fernández rosario  (Victoria Valentina Sánchez Fernández )
 - [ ] Mirtha Alejandra Pineda Villegas (Arias Pineda Alejandro José )
 - [ ] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
 - [ ] Sandra del valle González Briceño  (Orlismar Valentina cañizalez González )
