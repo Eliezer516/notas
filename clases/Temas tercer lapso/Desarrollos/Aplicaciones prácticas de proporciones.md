@@ -9,36 +9,306 @@ Mediante un breve recordatorio con los apuntes de la clase anterior se dará ini
 5. "Si el precio de $3\text{ kg}$ de manzanas es de $\$4.50$, ¿cuál será el costo de $7\text{ kg}$ de la misma fruta?"
 
 ---
-¡Hola! Bienvenidos a esta sesión enfocada en la utilidad práctica de las matemáticas en nuestra vida diaria. En la clase anterior, analizamos críticamente cómo se relacionan las variables en nuestro entorno. Hoy daremos un paso adelante con el respaldo conceptual de *Khan Academy* para dominar las **aplicaciones prácticas de las proporciones**, diferenciando entre la proporcionalidad directa e inversa, y dotándolos de herramientas clave para resolver problemas reales.
-## 1. Relación de equivalencia entre razones
-### Desarrollo del Contenido
-El **Concepto Teórico Oficial** define una **razón** como el cociente entre dos cantidades que permite compararlas. Cuando dos razones son equivalentes (es decir, representan la misma relación o proporción), forman una **proporción**. Científicamente se expresa como:
-Para entenderlo a un **"Nivel 5 años"**, imaginen que estamos preparando chocolate con leche. Si para **1 vaso de leche** usas **2 cucharadas de chocolate**, la relación es de 1 a 2. Si quieres preparar un vaso gigante para compartir y usas **2 vasos de leche**, necesitas **4 cucharadas de chocolate** para que sepa exactamente igual de rico. Ambas combinaciones mantienen el mismo sabor porque las fracciones son hermanas gemelas (equivalentes).
-### Actividad Práctica 1: La prueba del sabor
-**Instrucciones:** Analiza la siguiente situación culinaria:
- * En una receta se utilizan **250 g de harina para hacer 12 galletas**.
- * Plantea la relación de equivalencia matemática (sin resolverla aún) para averiguar cuánta harina se requiere para preparar **30 galletas** manteniendo el mismo sabor y consistencia. Identifica claramente cuáles son tus datos conocidos y cuál es tu incógnita.
-## 2. Regla de tres simple directa e inversa
-### Desarrollo del Contenido
-El **Concepto Teórico Oficial** clasifica las relaciones en dos tipos fundamentales:
- 1. **Proporcionalidad Directa:** Cuando una magnitud aumenta, la otra también aumenta en la misma proporción (ej. más peso de fruta, más dinero a pagar). Se resuelve multiplicando en cruz: $x = \frac{b \cdot c}{a}$
- 2. **Proporcionalidad Inversa:** Cuando una magnitud aumenta, la otra **disminuye** en la misma proporción (ej. más velocidad, menos tiempo de viaje). Se resuelve multiplicando de forma lineal: $x = \frac{a \cdot b}{c}$
-Explicado a **"Nivel 5 años"**:
- * **La Directa es como un ascensor:** Si sube el número de manzanas que compras, sube el dinero que tienes que pagar. Si compras menos, pagas menos. Van hacia el mismo lado.
- * **La Inversa es como un sube y baja:** Si invitas a **más amigos** a limpiar tu habitación, tardarán **menos tiempo** en terminar. A más ayudantes, menos minutos de trabajo. Van en direcciones opuestas.
-### Actividad Práctica 2: El dilema de los pintores
-**Instrucciones:** Lee con atención el siguiente caso:
- * **Tres obreros tardan 8 horas en pintar una pared.** Si se contratan dos obreros adicionales (en total serán 5 obreros) con la misma eficiencia:
- 1. Determina críticamente si la relación entre el número de obreros y el tiempo que tardan es **directa o inversa**. Justifica tu respuesta.
- 2. Plantea el modelo matemático adecuado para calcular el tiempo que tardarán en completar la tarea.
-## 3. Resolución de problemas de proporcionalidad en la vida cotidiana
-### Desarrollo del Contenido
-El **Concepto Teórico Oficial** nos indica que para resolver cualquier problema de proporcionalidad debemos: identificar las variables involucradas, determinar el tipo de relación (directa o inversa), ordenar los datos en una tabla de correspondencia y aplicar el algoritmo de despeje correcto para hallar la incógnita.
-Para entenderlo a **"Nivel 5 años"**, imagina que eres un detective espacial. Tienes un mapa estelar con una escala mágica. Cada centímetro en tu mapa equivale a muchos kilómetros en el espacio real. Para no perderte en tu cohete, usas la regla de tres como tu brújula matemática para saber cuánta gasolina espacial necesitas o qué tan lejos está el planeta de los dulces.
-### Actividad Práctica 3: El viaje en carretera y la escala del mapa
-**Instrucciones:** Resuelve los siguientes dos retos en tu cuaderno mostrando todo el procedimiento:
- * **Reto A (Consumo):** Si un automóvil consume **6 litros de gasolina por cada 100 km** recorridos, ¿cuántos litros necesitará para realizar un viaje de **350 km**?
- * **Reto B (El Mapa):** Un mapa tiene una escala de **1:50,000** (lo que significa que 1\text{ cm} en el mapa son 50,000\text{ cm} reales). Si la distancia entre dos ciudades en el mapa es de **12 cm**, calcula la distancia real y conviértela a **kilómetros**.
-## 4. Consolidación del Aprendizaje
-Para cerrar nuestra sesión y asegurar que han dominado la transferencia de estos conceptos a cualquier contexto real, realicen de forma individual el siguiente ejercicio de cierre:
- * **Ejercicio:** Si el precio de **3 kg de manzanas es de $4.50**, calcula utilizando la regla de tres directa cuál será el costo de **7 kg** de la misma fruta. Redacta una breve conclusión explicando cómo te ayuda saber esto al hacer las compras en el supermercado.
+Voy a buscar información sobre proporciones, regla de tres y recursos educativos de Khan Academy para crear una clase completa y actualizada.
+# 📚 CLASE PRÁCTICA E INTERACTIVA: PROPORCIONES Y PROPORCIONALIDAD
+## **6to Grado de Primaria** | Duración: 90 minutos
+
+---
+
+## 🎯 OBJETIVO DE APRENDIZAJE
+
+> Los estudiantes aplicarán proporciones, regla de tres simple directa e inversa para resolver situaciones problemáticas de la vida cotidiana, desarrollando pensamiento crítico y reflexivo.
+
+---
+
+## 🔄 1. RECORDATORIO DE LA CLASE ANTERIOR (10 minutos)
+
+### **"¿Qué traemos en la mochila matemática?"**
+
+**Dinámica:** El profesor proyecta en pantalla los apuntes clave de la clase pasada:
+
+| Concepto | Definición | Ejemplo |
+|----------|-----------|---------|
+| **Razón** | Comparación de dos cantidades por división | 2:3 o 2/3 |
+| **Proporción** | Igualdad entre dos razones | 2/3 = 4/6 |
+| **Términos medios y extremos** | En a/b = c/d → medios: b,c ; extremos: a,d | 2×6 = 3×4 ✓ |
+
+**Verificación rápida:** *"Si 3 limonadas cuestan $15, ¿cuánto cuestan 6 limonadas?"*
+- **Respuesta esperada:** $30 (doble de limonadas = doble de dinero)
+
+**Pregunta disparadora:** *"¿Siempre que una cantidad aumenta, la otra también aumenta? ¿O hay casos donde pasa lo contrario?"*
+
+---
+
+## 🧠 2. ANÁLISIS CRÍTICO Y REFLEXIVO (20 minutos)
+
+### **Actividad: "Detectives de la Proporcionalidad"**
+
+Presento a los estudiantes **tres situaciones reales**. Deben analizar en equipos de 4 si son proporcionales, y de qué tipo:
+
+---
+
+### 🔍 **CASO A: La Pizzería** *(Proporcionalidad Directa)*
+
+> *"En la pizzería 'El Triángulo', 2 pizzas medianas cuestan $180. Mi mamá quiere comprar 5 pizzas para la fiesta de cumpleaños."*
+
+**Preguntas guía para el análisis:**
+- ¿Si compro el doble de pizzas, pago el doble de dinero? ✅ **SÍ**
+- ¿Si compro la mitad de pizzas, pago la mitad? ✅ **SÍ**
+- **Conclusión:** A más pizzas, más dinero. Es **DIRECTA**
+
+**Razonamiento paso a paso:**
+```
+2 pizzas  →  $180
+5 pizzas  →  $x
+
+Método: Primero hallamos el precio de 1 pizza
+1 pizza = $180 ÷ 2 = $90
+5 pizzas = $90 × 5 = $450
+```
+
+> **Respuesta:** Las 5 pizzas cuestan **$450**
+
+---
+
+### 🔍 **CASO B: Los Trabajadores** *(Proporcionalidad Inversa)*
+
+> *"8 albañiles construyen una barda en 6 días. El contratista quiere terminar en 4 días. ¿Cuántos albañiles necesita contratar más?"*
+
+**Preguntas guía para el análisis:**
+- ¿Si contrato el doble de albañiles, ¿tarda el doble de días? ❌ **NO** → Tarda la **mitad**
+- ¿Si contrato la mitad de albañiles, ¿tarda la mitad de días? ❌ **NO** → Tarda el **doble**
+- **Conclusión:** A más trabajadores, menos días. Es **INVERSA**
+
+**Razonamiento paso a paso:**
+```
+8 albañiles  →  6 días
+x albañiles  →  4 días
+
+Método: Primero hallamos los "albañil-días" totales (trabajo constante)
+Trabajo total = 8 × 6 = 48 albañil-días
+
+Para 4 días: 48 ÷ 4 = 12 albañiles
+```
+
+> **Respuesta:** Necesita **12 albañiles** (debe contratar **4 más**)
+
+---
+
+### 🔍 **CASO C: El Crecimiento de Juan** *(NO es proporcional)*
+
+> *"Juan pesaba 20 kg a los 5 años y 40 kg a los 10 años. ¿Pesará 80 kg a los 20 años?"*
+
+**Preguntas guía para el análisis:**
+- ¿Si duplico la edad, se duplica el peso? (5→10 años: 20→40 kg) ✅ **Parece sí...**
+- ¿Pero si triplico la edad? (5→15 años: ¿60 kg?) 🤔
+- ¿A los 40 años pesará 160 kg? ❌ **¡Imposible!**
+
+**Conclusión crítica:** No todas las relaciones "a más, más" son proporcionales. El crecimiento humano tiene límites. ¡Hay que pensar antes de aplicar fórmulas!
+
+---
+
+## 📐 3. LA REGLA DE TRES SIMPLE (25 minutos)
+
+### **¿Qué es la Regla de Tres?**
+
+> Es un método para encontrar una cantidad desconocida cuando conocemos tres cantidades relacionadas.
+
+### **🟢 REGLA DE TRES DIRECTA**
+
+**Señal mágica:** ↑↑ o ↓↓ *(mismo sentido)*
+
+**Fórmula:** 
+$$\frac{a}{b} = \frac{c}{x} \quad \rightarrow \quad x = \frac{b \times c}{a}$$
+
+**Ejemplo interactivo:**
+> *"Un coche recorre 240 km con 20 litros de gasolina. ¿Cuántos km recorrerá con 35 litros?"*
+
+| Gasolina (L) | Distancia (km) |
+|-------------|----------------|
+| 20 | 240 |
+| 35 | x |
+
+**Análisis:** Más gasolina = más distancia → **DIRECTA** ↑↑
+
+$$x = \frac{35 \times 240}{20} = \frac{8400}{20} = 420 \text{ km}$$
+
+> **Respuesta:** Recorrerá **420 km**
+
+---
+
+### **🔴 REGLA DE TRES INVERSA**
+
+**Señal mágica:** ↑↓ o ↓↑ *(sentido contrario)*
+
+**Fórmula:** 
+$$a \times b = c \times x \quad \rightarrow \quad x = \frac{a \times b}{c}$$
+
+**Ejemplo interactivo:**
+> *"6 grifos llenan una piscina en 8 horas. ¿Cuánto tardarán 4 grifos iguales?"*
+
+| Grifos | Tiempo (horas) |
+|--------|----------------|
+| 6 | 8 |
+| 4 | x |
+
+**Análisis:** Menos grifos = más tiempo → **INVERSA** ↑↓
+
+$$x = \frac{6 \times 8}{4} = \frac{48}{4} = 12 \text{ horas}$$
+
+> **Respuesta:** Tardarán **12 horas**
+
+---
+
+### **🎮 JUEGO RÁPIDO: "¡Directa o Inversa!"**
+
+El profesor dice situaciones, los estudiantes levantan:
+- 🟢 Cartel verde = DIRECTA
+- 🔴 Cartel rojo = INVERSA
+
+| Situación | Respuesta |
+|-----------|-----------|
+| Más velocidad, menos tiempo en llegar | 🔴 INVERSA |
+| Más horas trabajadas, más dinero ganado | 🟢 DIRECTA |
+| Más obreros, menos días de trabajo | 🔴 INVERSA |
+| Más kilos de manzanas, más dinero a pagar | 🟢 DIRECTA |
+| Más fotocopiadoras, menos tiempo de espera | 🔴 INVERSA |
+
+---
+
+## 🛠️ 4. EJERCICIOS PRÁCTICOS EN CONTEXTO REAL (25 minutos)
+
+### **Estación 1: "El Supermercado"** 🛒
+
+> *"El kilogramo de jamón cuesta $145. ¿Cuántos gramos puedo comprar con $50?"*
+
+**Paso 1:** Unificar unidades → 1 kg = 1000 g
+
+| Gramos | Precio ($) |
+|--------|------------|
+| 1000 | 145 |
+| x | 50 |
+
+**Paso 2:** Identificar tipo → Menos dinero = menos jamón → **DIRECTA**
+
+$$x = \frac{1000 \times 50}{145} = \frac{50000}{145} \approx 344.83 \text{ g}$$
+
+> **Respuesta:** Puede comprar aproximadamente **345 gramos**
+
+---
+
+### **Estación 2: "La Granja"** 🐄
+
+> *"Un granjero tiene pienso para alimentar a 12 vacas durante 45 días. Si compra 3 vacas más, ¿cuánto le durará el pienso?"*
+
+| Vacas | Días |
+|-------|------|
+| 12 | 45 |
+| 15 (12+3) | x |
+
+**Paso 2:** Identificar tipo → Más vacas = menos días → **INVERSA**
+
+$$x = \frac{12 \times 45}{15} = \frac{540}{15} = 36 \text{ días}$$
+
+> **Respuesta:** El pienso le durará **36 días**
+
+---
+
+### **Estación 3: "La Fábrica de Tornillos"** 🔩
+
+> *"Una máquina fabrica 400 tornillos en 5 horas. ¿Cuánto tardará en fabricar 1,000 tornillos?"*
+
+| Tornillos | Tiempo (horas) |
+|-----------|----------------|
+| 400 | 5 |
+| 1000 | x |
+
+**Paso 2:** Identificar tipo → Más tornillos = más tiempo → **DIRECTA**
+
+$$x = \frac{1000 \times 5}{400} = \frac{5000}{400} = 12.5 \text{ horas}$$
+
+> **Respuesta:** Tardará **12 horas y media** (12h 30min)
+
+---
+
+### **Estación 4: "El Viaje en Auto"** 🚗
+
+> *"Un coche que va a 72 km/h tarda 3 horas y 15 minutos en hacer un recorrido. ¿Cuánto tardará otro coche en hacer el mismo recorrido si va a 90 km/h?"*
+
+**Paso 1:** Unificar unidades → 3h 15min = 195 minutos
+
+| Velocidad (km/h) | Tiempo (min) |
+|------------------|--------------|
+| 72 | 195 |
+| 90 | x |
+
+**Paso 2:** Identificar tipo → Más velocidad = menos tiempo → **INVERSA**
+
+$$x = \frac{72 \times 195}{90} = \frac{14040}{90} = 156 \text{ minutos}$$
+
+**Convertir:** 156 min = 2 horas y 36 minutos
+
+> **Respuesta:** Tardará **2 horas y 36 minutos**
+
+---
+
+## 🏆 5. CIERRE Y CONSOLIDACIÓN (10 minutos)
+
+### **"Mi Problema de la Vida Real"**
+
+Cada estudiante escribe en una tarjeta una situación cotidiana donde pueda aplicar proporciones (directa o inversa). Intercambian con un compañero, quien debe:
+1. Identificar si es directa o inversa
+2. Resolverla usando regla de tres
+3. Verificar si la respuesta tiene sentido
+
+---
+
+### **📝 RESUMEN VISUAL PARA EL CUADERNO**
+
+```
+┌─────────────────────────────────────────┐
+│     PROPORCIONALIDAD                    │
+├─────────────────────────────────────────┤
+│  DIRECTA (↑↑ o ↓↓)                      │
+│  • A más → más  |  A menos → menos      │
+│  • Ejemplo: Precio y cantidad           │
+│  • Fórmula: a/b = c/x                   │
+├─────────────────────────────────────────┤
+│  INVERSA (↑↓ o ↓↑)                      │
+│  • A más → menos  |  A menos → más      │
+│  • Ejemplo: Trabajadores y tiempo       │
+│  • Fórmula: a×b = c×x                   │
+├─────────────────────────────────────────┤
+│  NO PROPORCIONAL                        │
+│  • "A más, más" pero NO en proporción   │
+│  • Ejemplo: Edad y peso                 │
+│  • ¡Siempre verificar!                  │
+└─────────────────────────────────────────┘
+```
+
+---
+
+## 🎁 TAREA/EXTENSIÓN
+
+**"Proporciones en mi casa"**
+Investigar 3 situaciones en casa donde se presente proporcionalidad directa o inversa. Traer una resuelta para la próxima clase.
+
+**Ejemplos sugeridos:**
+- Preparar recetas (doblar ingredientes)
+- Repartir agua en botellas
+- Calcular tiempo de carga de dispositivos
+
+---
+
+## ✅ CRITERIOS DE EVALUACIÓN
+
+| Indicador | Logrado | En proceso | Inicial |
+|-----------|---------|------------|---------|
+| Identifica correctamente el tipo de proporcionalidad | ✅ | ⚠️ | ❌ |
+| Aplica correctamente la regla de tres | ✅ | ⚠️ | ❌ |
+| Resuelve problemas de contexto real | ✅ | ⚠️ | ❌ |
+| Argumenta si una situación es o no proporcional | ✅ | ⚠️ | ❌ |
+
+---
+
+> *"Las matemáticas no están hechas para que las entendamos, sino para que las apliquemos a nuestra vida diaria."* 📐✨
