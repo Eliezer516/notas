@@ -306,11 +306,12 @@ draft: false
 **Indicador**: Interpreta la información contenida en tablas y gráficos para responder preguntas analíticas con total autonomía. (5pts)
 
 ---
+## Presentación y análisis de datos
 
 **Fecha**: 19/05/2026
 **Encuentro**: 9
 **Clase**: 17 - 18
-**RTP**: Presentación y análisis de datos - Construcción de gráficos de barras
+**RTP**: Construcción de gráficos de barras
 **Técnica**: Ejercicios prácticos
 **Indicador**: Organiza datos cualitativos y cuantitativos discretos en tablas de frecuencia de forma ordenada en su cuaderno. (3pts)
 
