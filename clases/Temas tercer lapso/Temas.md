@@ -480,11 +480,12 @@ draft: false
 **Indicador**: -
 
 ---
+## Liderazgo e influencia
 
 **Fecha**: 27/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
-**RTP**: Liderazgo e influencia - Liderazgo e influencia, autoconocimiento
+**RTP**: Liderazgo e influencia, autoconocimiento
 **Técnica**: Investigación
 **Indicador**: Investiga en su cuaderno como el autoconocimiento influye la capacidad de liderazgo en entornos organizacionales
 
@@ -507,7 +508,7 @@ draft: false
 **Indicador**: Analiza un ejemplo de liderazgo ineficaz y propone mejoras comunicacionales en un trabajo escrito.
 
 ---
-# Resolución de problemas y gestión de conflictos
+## Resolución de problemas y gestión de conflictos
 
 **Fecha**: 18/05/2026
 **Encuentro**: 5
