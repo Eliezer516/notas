@@ -98,7 +98,7 @@ draft: false
 **Fecha**: 26/05/2026
 **Encuentro**: 11
 **Clase**: 21 - 22
-**RTP**: Problemas complejos de proporciones
+**RTP**: [[Problemas complejos de proporciones]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Descompone problemas complejos de proporciones en pasos lógicos en su cuaderno. (3pts)
 
@@ -320,7 +320,7 @@ draft: false
 **Fecha**: 22/05/2026
 **Encuentro**: 10
 **Clase**: 19 - 20
-**RTP**: Gráficos circulares y su interpretación
+**RTP**: [[Gráficos circulares y su interpretación]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Calcula el ángulo correspondiente a cada categoría de datos utilizando la regla de tres de forma exacta en su cuaderno. (3pts)
 
@@ -522,7 +522,7 @@ draft: false
 **Fecha**: 25/05/2026
 **Encuentro**: 6
 **Clase**: 11 - 12
-**RTP**: Gestión de conflictos, empatía y perspectivas múltiples
+**RTP**: [[Gestión de conflictos, empatía y perspectivas múltiples]]
 **Técnica**: Revisión de cuadernos
 **Indicador**: Reflexiona por escrito sobre cómo la empatía modifica el rumbo de un conflicto a partir de una lectura guiada en su cuaderno.
 
