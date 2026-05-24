@@ -107,7 +107,7 @@ draft: false
 **Fecha**: 28/05/2026
 **Encuentro**: 12
 **Clase**: 23 - 24
-**RTP**: Probabilidad clásica básica
+**RTP**: [[Probabilidad clásica básica]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Calcula la probabilidad de eventos simples usando la fórmula en problemas numéricos. (3pts)
 
