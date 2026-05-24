@@ -329,7 +329,7 @@ draft: false
 **Fecha**: 26/05/2026
 **Encuentro**: 11
 **Clase**: 21 - 22
-**RTP**: Gráficos de líneas para series temporales
+**RTP**: [[Gráficos de líneas para series temporales]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Localiza puntos de datos en un plano temporal uniendo las coordenadas con segmentos de recta de manera fluida. (3pts)
 
