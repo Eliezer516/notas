@@ -18,7 +18,7 @@
 | Victoria Valentina  | ✅    |       |       |
 | Ángel Gabriel       |      |       |       |
 | Luis Enrique        | ✅    |       |       |
-| Angel David         |      |       |       |
+| Angel David         | ✅    | ✅     |       |
 | Khamila Leonela     | ✅    |       |       |
 | Danielys Victoria   |      |       |       |
 | Sebastian José      |      |       |       |

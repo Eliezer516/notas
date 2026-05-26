@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 10
 copilot-command-model-key: openrouter/free|openrouterai
-copilot-command-last-used: 1779660935249
+copilot-command-last-used: 1779711260745
 ---
 **Actúa como un experto pedagogo especializado en diseño curricular y didáctica.**
 
