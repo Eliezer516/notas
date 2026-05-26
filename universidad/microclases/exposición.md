@@ -3,7 +3,7 @@ title: exposición
 date: 24-04-2025
 draft: false
 ---
-[[acompañante]]
+[[universidad/microclases/acompañante]]
 **Título Llamativo:**
 ¡Descubre la riqueza de la cultura venezolana a través de la educación!
 
