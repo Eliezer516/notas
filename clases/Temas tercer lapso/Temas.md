@@ -126,7 +126,7 @@ draft: false
 **Fecha**: 04/06/2026
 **Encuentro**: 14
 **Clase**: 27 - 28
-**RTP**: ¿Qué es recolectar datos?
+**RTP**: [[¿Qué es recolectar datos?]]
 **Técnica**: Clase participativa
 **Indicador**: Interpreta los resultados mediante preguntas guiadas durante una actividad grupal. (3pts)
 
@@ -338,7 +338,7 @@ draft: false
 **Fecha**: 29/05/2026
 **Encuentro**: 12
 **Clase**: 23 - 24
-**RTP**: Lectura e interpretación de cualquier gráfico
+**RTP**: [[Lectura e interpretación de cualquier gráfico]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Extrae valores específicos de diferentes tipos de gráficos estadísticos con total exactitud en una actividad de lectura rápida. (3pts)
 
@@ -361,11 +361,12 @@ draft: false
 **Indicador**: Elabora un informe escrito que sintetice los hallazgos del proyecto utilizando lenguaje técnico adecuado en la evaluación final. (5pts)
 
 ---
+## Medida de tendencia central.
 
 **Fecha**: 09/06/2026
 **Encuentro**: 15
 **Clase**: 29 - 30
-**RTP**: Medida de tendencia central - Promedio aritmético: concepto y cálculo
+**RTP**: Promedio aritmético: concepto y cálculo
 **Técnica**: Ejercicios prácticos
 **Indicador**: Calcula el promedio aritmético de diversos conjuntos de datos numéricos con precisión en su cuaderno. (3pts)
 
@@ -415,11 +416,12 @@ draft: false
 **Indicador**: Argumenta la elección de la mediana sobre el promedio cuando existen valores atípicos con coherencia estadística en un informe escrito. (5pts)
 
 ---
+## Nociones de permutación.
 
 **Fecha**: 30/06/2026
 **Encuentro**: 21
 **Clase**: 41 - 42
-**RTP**: Nociones de permutación - ¿Qué significa ordenar o acomodar las cosas?
+**RTP**: ¿Qué significa ordenar o acomodar las cosas?
 **Técnica**: Ejercicios prácticos
 **Indicador**: Clasifica de forma correcta situaciones donde el orden es relevante frente a las que no lo son en una lista comparativa. (3pts)
 
@@ -531,11 +533,12 @@ draft: false
 **Fecha**: 01/06/2026
 **Encuentro**: 7
 **Clase**: 13 - 14
-**RTP**: Resolución de problemas complejos, pensamiento divergente
+**RTP**: [[Resolución de problemas complejos, pensamiento divergente]]
 **Técnica**: Díptico
 **Indicador**: Diseña una propuesta creativa aplicando pensamiento divergente a un reto complejo en un díptico.
 
 ---
+## Esperanza en el futuro y establecimiento de objetivos.
 
 **Fecha**: 08/06/2026
 **Encuentro**: 8
@@ -572,11 +575,12 @@ draft: false
 **Indicador**: Expone con fluidez la historia de vida de una persona neurodivergente destacando sus logros en una presentación grupal.
 
 ---
+## Creatividad e innovación.
 
 **Fecha**: 06/07/2026
 **Encuentro**: 12
 **Clase**: 23 - 24
-**RTP**: Creatividad e innovación - Creatividad e innovación, expresión no convencional
+**RTP**: Creatividad e innovación, expresión no convencional
 **Técnica**: Investigación
 **Indicador**: Investiga sobre las expresiones no convencionales de la creatividad en su cuaderno.
 
