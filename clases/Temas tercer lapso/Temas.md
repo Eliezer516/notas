@@ -338,7 +338,7 @@ draft: false
 **Fecha**: 29/05/2026
 **Encuentro**: 12
 **Clase**: 23 - 24
-**RTP**: [[Lectura e interpretación de cualquier gráfico]]
+**RTP**: [[Lectura e interpretación de cualquier gráfico 1]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Extrae valores específicos de diferentes tipos de gráficos estadísticos con total exactitud en una actividad de lectura rápida. (3pts)
 
