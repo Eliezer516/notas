@@ -126,7 +126,7 @@ draft: false
 **Fecha**: 04/06/2026
 **Encuentro**: 14
 **Clase**: 27 - 28
-**RTP**: [[¿Qué es recolectar datos?]]
+**RTP**: ¿[[Qué es recolectar datos]]?
 **Técnica**: Clase participativa
 **Indicador**: Interpreta los resultados mediante preguntas guiadas durante una actividad grupal. (3pts)
 
