@@ -3,8 +3,13 @@ title: "Temas"
 date: "2026-04-27"
 draft: false
 ---
+Aquí tienes tu planificación reestructurada con el encabezado de nivel 3 (###) tomado del RTP de cada clase, colocado justo arriba de cada bloque de información:
+
+---
+
 # **Matemática 1er año**
 
+### Discusión del plan de evaluación
 **Fecha**: 21/04/2026
 **Encuentro**: 1
 **Clase**: 1 - 2
@@ -13,7 +18,10 @@ draft: false
 **Indicador**: -
 
 ---
+
 ## Ecuaciones de primer grado
+
+### Ecuaciones de primer grado - Concepto de ecuación e incógnita
 **Fecha**: 23/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
@@ -23,6 +31,7 @@ draft: false
 
 ---
 
+### Ecuaciones básicas con una incógnita
 **Fecha**: 28/04/2026
 **Encuentro**: 3
 **Clase**: 5 - 6
@@ -32,6 +41,7 @@ draft: false
 
 ---
 
+### Ecuaciones con paréntesis simples
 **Fecha**: 30/04/2026
 **Encuentro**: 4
 **Clase**: 7 - 8
@@ -41,6 +51,7 @@ draft: false
 
 ---
 
+### Ecuaciones con fracciones enteras
 **Fecha**: 05/05/2026
 **Encuentro**: 5
 **Clase**: 9 - 10
@@ -50,6 +61,7 @@ draft: false
 
 ---
 
+### Problemas aplicados tipo palabra
 **Fecha**: 07/05/2026
 **Encuentro**: 6
 **Clase**: 11 - 12
@@ -59,6 +71,7 @@ draft: false
 
 ---
 
+### Prueba práctica sobre ecuaciones de primer grado
 **Fecha**: 12/05/2026
 **Encuentro**: 7
 **Clase**: 13 - 14
@@ -67,7 +80,10 @@ draft: false
 **Indicador**: Resuelve de manera correcta al menos cinco preguntas de opción múltiple en su prueba práctica escrita. (5pts)
 
 ---
-## Razones y proporciones 
+
+## Razones y proporciones
+
+### Razones y proporciones, Introducción a razones y tipos
 **Fecha**: 14/05/2026
 **Encuentro**: 8
 **Clase**: 15 - 16
@@ -77,6 +93,7 @@ draft: false
 
 ---
 
+### Regla de tres simple
 **Fecha**: 19/05/2026
 **Encuentro**: 9
 **Clase**: 17 - 18
@@ -86,6 +103,7 @@ draft: false
 
 ---
 
+### Aplicaciones prácticas de proporciones
 **Fecha**: 21/05/2026
 **Encuentro**: 10
 **Clase**: 19 - 20
@@ -95,6 +113,7 @@ draft: false
 
 ---
 
+### Problemas complejos de proporciones
 **Fecha**: 26/05/2026
 **Encuentro**: 11
 **Clase**: 21 - 22
@@ -104,6 +123,7 @@ draft: false
 
 ---
 
+### Probabilidad clásica básica
 **Fecha**: 28/05/2026
 **Encuentro**: 12
 **Clase**: 23 - 24
@@ -113,16 +133,19 @@ draft: false
 
 ---
 
+### Evaluación formativa parcial - razones y proporciones
 **Fecha**: 02/06/2026
 **Encuentro**: 13
 **Clase**: 25 - 26
-**RTP**: Evaluación formativa parcial
+**RTP**: [[Evaluación formativa parcial - razones y proporciones]]
 **Técnica**: Prueba práctica escrita
 **Indicador**: Responde de forma correcta al menos cinco preguntas de opción múltiple en su prueba práctica escrita. (5pts)
 
 ---
+
 ## Recolección, organización y representación de datos
 
+### ¿Qué es recolectar datos?
 **Fecha**: 04/06/2026
 **Encuentro**: 14
 **Clase**: 27 - 28
@@ -132,6 +155,7 @@ draft: false
 
 ---
 
+### Organizamos datos en tablas
 **Fecha**: 09/06/2026
 **Encuentro**: 15
 **Clase**: 29 - 30
@@ -141,6 +165,7 @@ draft: false
 
 ---
 
+### Tablas de frecuencia absoluta y relativa
 **Fecha**: 11/06/2026
 **Encuentro**: 16
 **Clase**: 31 - 32
@@ -150,6 +175,7 @@ draft: false
 
 ---
 
+### Gráficos básicos (barras, pictogramas)
 **Fecha**: 16/06/2026
 **Encuentro**: 17
 **Clase**: 33 - 34
@@ -159,6 +185,7 @@ draft: false
 
 ---
 
+### Gráficos circulares y líneas
 **Fecha**: 18/06/2026
 **Encuentro**: 18
 **Clase**: 35 - 36
@@ -168,6 +195,7 @@ draft: false
 
 ---
 
+### Evaluación formativa parcial
 **Fecha**: 23/06/2026
 **Encuentro**: 19
 **Clase**: 37 - 38
@@ -176,8 +204,10 @@ draft: false
 **Indicador**: Redacta respuestas correctas a tres preguntas de la prueba práctica escrita bajo condiciones de tiempo limitado. (5pts)
 
 ---
-## Experimentos y eventos aleatorios 
 
+## Experimentos y eventos aleatorios
+
+### ¿Qué es un experimento aleatorio?
 **Fecha**: 25/06/2026
 **Encuentro**: 20
 **Clase**: 39 - 40
@@ -187,6 +217,7 @@ draft: false
 
 ---
 
+### Espacio muestral y eventos
 **Fecha**: 30/06/2026
 **Encuentro**: 21
 **Clase**: 41 - 42
@@ -196,6 +227,7 @@ draft: false
 
 ---
 
+### Probabilidad experimental
 **Fecha**: 02/07/2026
 **Encuentro**: 22
 **Clase**: 43 - 44
@@ -205,6 +237,7 @@ draft: false
 
 ---
 
+### Eventos independientes y dependientes
 **Fecha**: 07/07/2026
 **Encuentro**: 23
 **Clase**: 45 - 46
@@ -214,6 +247,7 @@ draft: false
 
 ---
 
+### Proyecto estadístico breve
 **Fecha**: 09/07/2026
 **Encuentro**: 24
 **Clase**: 47 - 48
@@ -223,6 +257,7 @@ draft: false
 
 ---
 
+### Cierre e integración de todo lo visto
 **Fecha**: 14/07/2026
 **Encuentro**: 25
 **Clase**: 49 - 50
@@ -234,6 +269,7 @@ draft: false
 
 # **Matemática 2do año**
 
+### Discusión del plan de evaluación
 **Fecha**: 21/04/2026
 **Encuentro**: 1
 **Clase**: 1 - 2
@@ -242,8 +278,10 @@ draft: false
 **Indicador**: -
 
 ---
+
 ## Recolección, procesamiento y organización de datos
 
+### Qué son datos y para qué nos sirven
 **Fecha**: 24/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
@@ -253,6 +291,7 @@ draft: false
 
 ---
 
+### Formas de recolectar información en nuestro entorno
 **Fecha**: 28/04/2026
 **Encuentro**: 3
 **Clase**: 5 - 6
@@ -262,6 +301,7 @@ draft: false
 
 ---
 
+### Organizamos datos en tablas simples
 **Fecha**: 01/05/2026
 **Encuentro**: 4
 **Clase**: 7 - 8
@@ -271,6 +311,7 @@ draft: false
 
 ---
 
+### Diferencia entre datos cualitativos y cuantitativos
 **Fecha**: 05/05/2026
 **Encuentro**: 5
 **Clase**: 9 - 10
@@ -280,6 +321,7 @@ draft: false
 
 ---
 
+### Introducción al procesamiento básico
 **Fecha**: 08/05/2026
 **Encuentro**: 6
 **Clase**: 11 - 12
@@ -289,6 +331,7 @@ draft: false
 
 ---
 
+### Presentación visual de datos organizados
 **Fecha**: 12/05/2026
 **Encuentro**: 7
 **Clase**: 13 - 14
@@ -298,6 +341,7 @@ draft: false
 
 ---
 
+### Análisis inicial de lo recopilado
 **Fecha**: 15/05/2026
 **Encuentro**: 8
 **Clase**: 15 - 16
@@ -306,8 +350,10 @@ draft: false
 **Indicador**: Interpreta la información contenida en tablas y gráficos para responder preguntas analíticas con total autonomía. (5pts)
 
 ---
+
 ## Presentación y análisis de datos
 
+### Construcción de gráficos de barras
 **Fecha**: 19/05/2026
 **Encuentro**: 9
 **Clase**: 17 - 18
@@ -317,6 +363,7 @@ draft: false
 
 ---
 
+### Gráficos circulares y su interpretación
 **Fecha**: 22/05/2026
 **Encuentro**: 10
 **Clase**: 19 - 20
@@ -326,6 +373,7 @@ draft: false
 
 ---
 
+### Gráficos de líneas para series temporales
 **Fecha**: 26/05/2026
 **Encuentro**: 11
 **Clase**: 21 - 22
@@ -335,6 +383,7 @@ draft: false
 
 ---
 
+### Lectura e interpretación de cualquier gráfico 1
 **Fecha**: 29/05/2026
 **Encuentro**: 12
 **Clase**: 23 - 24
@@ -344,6 +393,7 @@ draft: false
 
 ---
 
+### Preguntas que podemos responder con los datos
 **Fecha**: 02/06/2026
 **Encuentro**: 13
 **Clase**: 25 - 26
@@ -353,6 +403,7 @@ draft: false
 
 ---
 
+### Proyecto breve de recolección aplicada
 **Fecha**: 05/06/2026
 **Encuentro**: 14
 **Clase**: 27 - 28
@@ -361,8 +412,10 @@ draft: false
 **Indicador**: Elabora un informe escrito que sintetice los hallazgos del proyecto utilizando lenguaje técnico adecuado en la evaluación final. (5pts)
 
 ---
-## Medida de tendencia central.
 
+## Medida de tendencia central
+
+### Promedio aritmético: concepto y cálculo
 **Fecha**: 09/06/2026
 **Encuentro**: 15
 **Clase**: 29 - 30
@@ -372,6 +425,7 @@ draft: false
 
 ---
 
+### Aplicación del promedio en situaciones reales
 **Fecha**: 12/06/2026
 **Encuentro**: 16
 **Clase**: 31 - 32
@@ -381,6 +435,7 @@ draft: false
 
 ---
 
+### La mediana: encontrar el valor central
 **Fecha**: 16/06/2026
 **Encuentro**: 17
 **Clase**: 33 - 34
@@ -390,6 +445,7 @@ draft: false
 
 ---
 
+### La moda: el dato más frecuente
 **Fecha**: 19/06/2026
 **Encuentro**: 18
 **Clase**: 35 - 36
@@ -399,6 +455,7 @@ draft: false
 
 ---
 
+### Comparación entre promedio mediana y moda
 **Fecha**: 23/06/2026
 **Encuentro**: 19
 **Clase**: 37 - 38
@@ -408,6 +465,7 @@ draft: false
 
 ---
 
+### Cuándo usar cada medida según el contexto
 **Fecha**: 26/06/2026
 **Encuentro**: 20
 **Clase**: 39 - 40
@@ -416,8 +474,10 @@ draft: false
 **Indicador**: Argumenta la elección de la mediana sobre el promedio cuando existen valores atípicos con coherencia estadística en un informe escrito. (5pts)
 
 ---
-## Nociones de permutación.
 
+## Nociones de permutación
+
+### ¿Qué significa ordenar o acomodar las cosas?
 **Fecha**: 30/06/2026
 **Encuentro**: 21
 **Clase**: 41 - 42
@@ -427,15 +487,17 @@ draft: false
 
 ---
 
+### Permutaciones con elementos distinguibles
 **Fecha**: 03/07/2026
 **Encuentro**: 22
 **Clase**: 43 - 44
-**RTP**: Permutaciones con elementos distinguibles
+**RTP**: Permutaciones con elementos distinguishibles
 **Técnica**: Ejercicios prácticos
 **Indicador**: Diferencia claramente entre elementos repetidos y elementos únicos dentro de un conjunto dado en una ficha de trabajo. (3pts)
 
 ---
 
+### Cálculo de permutaciones simples
 **Fecha**: 07/07/2026
 **Encuentro**: 23
 **Clase**: 45 - 46
@@ -445,6 +507,7 @@ draft: false
 
 ---
 
+### Ejercicios prácticos con nombres y objetos
 **Fecha**: 10/07/2026
 **Encuentro**: 24
 **Clase**: 47 - 48
@@ -454,6 +517,7 @@ draft: false
 
 ---
 
+### Permutaciones en contextos cotidianos
 **Fecha**: 14/07/2026
 **Encuentro**: 25
 **Clase**: 49 - 50
@@ -463,6 +527,7 @@ draft: false
 
 ---
 
+### Evaluación final integradora
 **Fecha**: 17/07/2026
 **Encuentro**: 26
 **Clase**: 51 - 52
@@ -474,6 +539,7 @@ draft: false
 
 # **Orientación y Convivencia 1er año**
 
+### Plan de evaluación y discusión
 **Fecha**: 20/04/2026
 **Encuentro**: 1
 **Clase**: 1 - 2
@@ -482,8 +548,10 @@ draft: false
 **Indicador**: -
 
 ---
+
 ## Liderazgo e influencia
 
+### Liderazgo e influencia, autoconocimiento
 **Fecha**: 27/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
@@ -493,6 +561,7 @@ draft: false
 
 ---
 
+### Neurodiversidad y neurodivergencia
 **Fecha**: 04/05/2026
 **Encuentro**: 3
 **Clase**: 5 - 6
@@ -502,6 +571,7 @@ draft: false
 
 ---
 
+### Liderazgo y comunicación efectiva
 **Fecha**: 11/05/2026
 **Encuentro**: 4
 **Clase**: 7 - 8
@@ -510,17 +580,20 @@ draft: false
 **Indicador**: Analiza un ejemplo de liderazgo ineficaz y propone mejoras comunicacionales en un trabajo escrito.
 
 ---
+
 ## Resolución de problemas y gestión de conflictos
 
+### Resolución de problemas, enfoque colaborativo
 **Fecha**: 18/05/2026
 **Encuentro**: 5
 **Clase**: 9 - 10
-**RTP**:  [[Resolución de problemas, enfoque colaborativo]]
+**RTP**: [[Resolución de problemas, enfoque colaborativo]]
 **Técnica**: Investigación
 **Indicador**: Aplica herramientas de investigación para identificar causas y efectos de un conflicto dado en una investigación breve en su cuaderno.
 
 ---
 
+### Gestión de conflictos, empatía y perspectivas múltiples
 **Fecha**: 25/05/2026
 **Encuentro**: 6
 **Clase**: 11 - 12
@@ -530,6 +603,7 @@ draft: false
 
 ---
 
+### Resolución de problemas complejos, pensamiento divergente
 **Fecha**: 01/06/2026
 **Encuentro**: 7
 **Clase**: 13 - 14
@@ -538,8 +612,10 @@ draft: false
 **Indicador**: Diseña una propuesta creativa aplicando pensamiento divergente a un reto complejo en un díptico.
 
 ---
-## Esperanza en el futuro y establecimiento de objetivos.
 
+## Esperanza en el futuro y establecimiento de objetivos
+
+### Esperanza en el futuro y establecimiento de objetivos
 **Fecha**: 08/06/2026
 **Encuentro**: 8
 **Clase**: 15 - 16
@@ -549,6 +625,7 @@ draft: false
 
 ---
 
+### Objetivos y planificación, herramientas visuales
 **Fecha**: 15/06/2026
 **Encuentro**: 9
 **Clase**: 17 - 18
@@ -558,6 +635,7 @@ draft: false
 
 ---
 
+### Liderazgo transformacional, impacto social
 **Fecha**: 22/06/2026
 **Encuentro**: 10
 **Clase**: 19 - 20
@@ -567,6 +645,7 @@ draft: false
 
 ---
 
+### Esperanza construida, historias de personas neurodivergentes
 **Fecha**: 29/06/2026
 **Encuentro**: 11
 **Clase**: 21 - 22
@@ -575,8 +654,10 @@ draft: false
 **Indicador**: Expone con fluidez la historia de vida de una persona neurodivergente destacando sus logros en una presentación grupal.
 
 ---
-## Creatividad e innovación.
 
+## Creatividad e innovación
+
+### Creatividad e innovación, expresión no convencional
 **Fecha**: 06/07/2026
 **Encuentro**: 12
 **Clase**: 23 - 24
@@ -586,9 +667,14 @@ draft: false
 
 ---
 
+### Creatividad aplicada, proyectos reales
 **Fecha**: 13/07/2026
 **Encuentro**: 13
 **Clase**: 25 - 26
 **RTP**: Creatividad aplicada, proyectos reales
 **Técnica**: Lapbook
 **Indicador**: Presenta de manera coherente un lapbook sobre la creatividad y como esta influye en la innovación
+
+---
+
+¿Te gustaría que lo guarde como archivo descargable?
