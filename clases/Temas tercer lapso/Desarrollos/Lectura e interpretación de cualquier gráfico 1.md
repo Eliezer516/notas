@@ -1,3 +1,11 @@
+**Fecha**: 29/05/2026
+**Encuentro**: 12
+**Clase**: 23 - 24
+**RTP**: Lectura e interpretación de cualquier gráfico 1
+**Técnica**: Ejercicios prácticos
+**Indicador**: Extrae valores específicos de diferentes tipos de gráficos estadísticos con total exactitud en una actividad de lectura rápida. (3pts)
+# Planificación.
+
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *GeoGebra.org*, los estudiantes aprenderán a leer e interpretar cualquier tipo de gráfico, abordando su estructura (ejes, escalas, leyendas), la identificación de patrones y tendencias, y la extracción de información numérica y cualitativa, con la finalidad de que puedan analizar y comunicar conclusiones basadas en representaciones visuales de datos. Para finalizar, aplicarán lo aprendido mediante la resolución de ejercicios que integren análisis gráfico y toma de decisiones basada en datos.  
 
 **Ejercicios:**  

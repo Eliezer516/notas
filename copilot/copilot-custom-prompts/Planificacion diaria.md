@@ -2,8 +2,8 @@
 copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 0
-copilot-command-model-key: ""
-copilot-command-last-used: 1780179145642
+copilot-command-model-key: gemini-2.5-flash|google
+copilot-command-last-used: 1780272699590
 ---
 Dado un concepto académico de nivel de bachillerato como INPUT, genera un único objetivo de aprendizaje seguido —**solo si corresponde a una materia STEM** (matemáticas, física, química, biología u otras ciencias)— de una sección de ejercicios, respetando **exactamente esta estructura**:
 
@@ -72,3 +72,5 @@ Dado un concepto académico de nivel de bachillerato como INPUT, genera un únic
    Comunicación no verbal  
    **OUTPUT:**  
    Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *PsicologiaYmente.com*, los estudiantes aprenderán qué es la comunicación no verbal, abordando sus componentes principales, diferencias con la comunicación verbal y manifestaciones en contextos sociales, con la finalidad de que interpreten con precisión señales gestuales, posturales y faciales en interacciones cotidianas. Para finalizar, analizarán escenas breves de interacciones reales para identificar y reflexionar sobre los elementos no verbales presentes.
+
+El INPUT es: {}

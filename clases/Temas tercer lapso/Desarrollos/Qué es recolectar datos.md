@@ -1,3 +1,14 @@
+---
+title: Qué es recolectar datos
+date: 2026-05-31
+draft: false
+---
+**Fecha**: 04/06/2026
+**Encuentro**: 14
+**Clase**: 27 - 28
+**RTP**: ¿[[Qué es recolectar datos]]?
+**Técnica**: Clase participativa
+**Indicador**: Interpreta los resultados mediante preguntas guiadas durante una actividad grupal. (3pts)
 # Planificación.
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán qué es la recolección de datos, abordando su definición y propósito, los tipos de variables (cualitativas y cuantitativas) y los métodos básicos de obtención (encuestas, observación y experimentación), con la finalidad de que comprendan cómo organizar información para su posterior análisis estadístico. Para finalizar, aplicarán lo aprendido mediante la elaboración y clasificación de conjuntos de datos que sirvan de base para futuros estudios.  
 
@@ -8,6 +19,7 @@ Mediante un breve recordatorio con los apuntes de la clase anterior se dará ini
 4. "Describe un método de observación que podrías usar para recolectar datos sobre el número de autos que pasan por una calle durante una hora."  
 5. "Convierte la siguiente tabla de frecuencias absolutas en frecuencias relativas: {A: 12, B: 8, C: 20}."
 ---
+# Desarrollo.
 **Tiempo:** 0-10 min  
 **Fase:** Apertura y motivación  
 **Actividad:** El detective de la información  

@@ -397,7 +397,7 @@ Aquí tienes tu planificación reestructurada con el encabezado de nivel 3 (###)
 **Fecha**: 02/06/2026
 **Encuentro**: 13
 **Clase**: 25 - 26
-**RTP**: Preguntas que podemos responder con los datos
+**RTP**: [[Preguntas que podemos responder con los datos]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Formula preguntas de investigación coherentes que puedan ser resueltas mediante el análisis de un set de datos proporcionado. (3pts)
 
