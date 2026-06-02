@@ -38,3 +38,14 @@ Si 3 bombas de agua, trabajando 5 horas al día, llenan un depósito de 5000 lit
 | I   | II  | III |
 | --- | --- | --- |
 |     |     |     |
+
+---
+
+**Respuestas a los ejercicios**
+
+| Pregunta | Respuesta      |
+| -------- | -------------- |
+| 1        | $24            |
+| 2        | 15 días        |
+| 3        | 10 días        |
+| 4        | 4 horas al día |
