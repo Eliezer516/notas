@@ -1,12 +1,10 @@
 ---
 epoch: 1780353202331
-modelKey: "gemini-2.5-flash|google"
-topic: "Regla de Tres Directa e Inversa"
-
-
-
+modelKey: gemini-2.5-flash|google
+topic: Regla de Tres Directa e Inversa
 tags:
   - copilot-conversation
+lastAccessedAt: 1780423433576
 ---
 
 **user**: genera 4 ejercicios practicos para practicar el tema "Regla se tres" en matematica, el primero debe der ser una regla de tres simple directa, el segunde debe de ser simple inversa y los ultimos dos deben de ser compuestas alternando entre directa e inversa
