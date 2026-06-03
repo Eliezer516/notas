@@ -1,3 +1,20 @@
+**Encuentro**: 8
+**Clase**: 15 - 16
+**RTP**: [[Análisis inicial de lo recopilado]]
+**Técnica**: Prueba práctica escrita
+**Indicador**: Interpreta la información contenida en tablas y gráficos para responder preguntas analíticas con total autonomía. (5pts)
+# Criterios de evaluación.
+**Interpreta la información contenida en tablas y gráficos para responder preguntas analíticas con total autonomía. (5pts)**
+
+| Excelente (5 puntos) | Muy Bien (4 puntos) | Bien (3 puntos) | Regular (2 puntos) | Por Mejorar (1 punto) |
+| :------------------- | :------------------ | :-------------- | :----------------- | :-------------------- |
+| Interpreta con precisión y profundidad toda la información de tablas y gráficos, respondiendo preguntas analíticas complejas con total autonomía y aportando inferencias relevantes. | Interpreta la mayor parte de la información de tablas y gráficos, respondiendo preguntas analíticas con alta autonomía y mostrando buena comprensión. | Interpreta la información principal de tablas y gráficos, respondiendo preguntas analíticas básicas con cierta autonomía, aunque puede requerir alguna aclaración. | Interpreta información limitada de tablas y gráficos, con dificultad para responder preguntas analíticas y requiriendo apoyo frecuente. | Muestra dificultad significativa para interpretar información de tablas y gráficos, siendo incapaz de responder preguntas analíticas incluso con apoyo. |
+
+---
+# Planificación.
+Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la evaluación formativa parcial. A través de conceptos teóricos y ejercicios tomados de math2me.com los estudiantes darán resolución a los distintos ejercicios encontrados en sus pruebas con la finalidad de consolidar el referente de forma práctica y dar cierre al mismo. Para finalizar, entregarán sus evaluaciones después del tiempo predestinado para resolver el mismo
+
+---
 # Prueba práctica escrita 
 
 ## Parte I
