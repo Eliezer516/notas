@@ -66,6 +66,11 @@ Una fábrica produce 500 camisetas en 10 días con 5 máquinas trabajando 8 hora
 **Desafío adicional:**
 Si el costo operativo de cada máquina es de $50 por hora de trabajo, ¿cuál será el costo total para producir las 1200 camisetas bajo las nuevas condiciones?
 
+**Otros ejercicios**:
+1. Nueve grifos abiertos durante 40 horas han consumido 200 litros de agua ¿Cuántos litros consumen 15 grifos durante 9 horas? 
+2. Cuatro obreros trabajando 7 horas diarias construyen un muro en tres días ¿Cuántos días tardarán dos obreros trabajando seis horas diarias en construir un muro igual? 
+3. En una fábrica trabajando 8 horas diarias han fabricado 2000 ruedas en 5 días ¿Cuántos días tardarán en fabricar 3000 ruedas si trabajan 10 horas diarias?
+
 ## 3. Simplificación de Razones
 
 ### Concepto Teórico Oficial
