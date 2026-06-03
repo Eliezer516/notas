@@ -3,10 +3,6 @@ title: "Temas"
 date: "2026-04-27"
 draft: false
 ---
-Aquí tienes tu planificación reestructurada con el encabezado de nivel 3 (###) tomado del RTP de cada clase, colocado justo arriba de cada bloque de información:
-
----
-
 # **Matemática 1er año**
 
 ### Discusión del plan de evaluación
