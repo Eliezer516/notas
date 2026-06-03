@@ -3,7 +3,6 @@ title: Qué es recolectar datos
 date: 2026-05-31
 draft: false
 ---
-**Fecha**: 04/06/2026
 **Encuentro**: 14
 **Clase**: 27 - 28
 **RTP**: ¿[[Qué es recolectar datos]]?
