@@ -7,24 +7,22 @@ note_type: task
 - [ ] Abigail del Valle Morillo (Quevedo Morillo María Guadalupe )
 - [x] Ana Carolina Villa (Trejo Villa Kleismary Carolina)
 - [x] Berna Carybay Peña Peña  (Graterol Peña  Enderson David)
-- [ ] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
+- [x] Cristal Dayana mercado Quevedo  (Cristian Ricardo Quevedo mercado )
 - [ ] Delimar Pernia  (Santiago Alejandro zambrano)
 - [ ] Edixon Alexander frías Araujo  (Arianny Sofia farias Morales )
-- [ ] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
-- [ ] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
-- [ ] Jenny Carolina La Cruz Delgado  (Albarran La Cruz Isabel Sharayd )
+- [x] Iraima Josefina Paredes Perdomo  (Hernández Paredes  Yankleiver Josué )
+- [x] Ivonne Karina Pérez Ramirez (Luis Enrique colmenares perez)
 - [x] Joiris Inés Quintana García  (Angel David Valera Quintana)
 - [ ] José Alfredo Castellanos Terán  (Anyelber Yosue Castellanos Valecillos)
-- [ ] Karlin Ariana Manzanilla Viloria  (Arianna Sofia Materano Manzanilla )
+- [x] Karlin Ariana Manzanilla Viloria  (Arianna Sofia Materano Manzanilla )
 - [ ] MARÍA GABRIELA SAEZ PEÑA (JUAN PABLO CARRILLO SAEZ )
 - [x] María Isabel Núñez Godoy (Hurtado Núñez Ángel Gabriel )
 - [ ] María Jesús Bravo de Morón  (Erick Yadier Morón Bravo )
 - [ ] Maria Ramona Rojas Artigas (Rojas Artigas Isaac David)
-- [ ] Maryuli Del Carmen Daboin Pernia  (Danielys Victoria Paolini Daboin )
+- [x] Maryuli Del Carmen Daboin Pernia  (Danielys Victoria Paolini Daboin )
 - [x] Milangela del Carmen Fernández rosario  (Victoria Valentina Sánchez Fernández )
 - [ ] Mirtha Alejandra Pineda Villegas (Arias Pineda Alejandro José )
-- [ ] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
-- [ ] Sandra del valle González Briceño  (Orlismar Valentina cañizalez González )
+- [x] Nathaly Angelica Barreto  (José Gilberto Vitora Barreto)
 - [x] Silvana Lorena Canelones Terán  (Saray Paola Fernández Canelones )
 - [ ] Víctor Manuel Aguilar Olivar (Leonardo Andreyver Aguilar Quevedo)
 - [ ] Yamna Patricia Albesiano Roman (Villegas Albesiano Sebastián José )
@@ -38,3 +36,19 @@ note_type: task
 - [x] yesberlin 
 - [x] Acevedo
 - [x] Sofía 
+
+---
+- Trejo Kleismary
+- Graterol Enderson
+- Angel Valera
+- Hurtado Ángel
+- Victoria Sánchez
+- Saray Fernández
+- Graterol Yailuismar
+- Valera khamila
+- Fabián Moreno
+- Daboin Ángel
+- Rosario Mariangel
+- Yesberlin Pineda
+- Sebastián Acevedo 
+- Sofía Meléndez 
