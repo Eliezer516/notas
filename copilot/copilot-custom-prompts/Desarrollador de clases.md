@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 10
 copilot-command-model-key: gemini-2.5-flash|google
-copilot-command-last-used: 1779711260745
+copilot-command-last-used: 1780507673199
 ---
 **Actúa como un experto pedagogo especializado en diseño curricular y didáctica.**
 

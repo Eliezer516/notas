@@ -5,9 +5,15 @@ draft: false
 ---
 **Encuentro**: 14
 **Clase**: 27 - 28
-**RTP**: ¿[[Qué es recolectar datos]]?
+**RTP**: ¿Qué es recolectar datos?
 **Técnica**: Clase participativa
 **Indicador**: Interpreta los resultados mediante preguntas guiadas durante una actividad grupal. (3pts)
+# Criterios de evaluación.
+**Interpreta los resultados mediante preguntas guiadas durante una actividad grupal. (3pts)**
+
+| Excelente (3 puntos)                                                                                             | Bien (2 puntos)                                                                                                                            | Por Mejorar (1 punto)                                                                                                                            |
+| :--------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| Interpreta de forma completa y precisa los resultados, utilizando activamente las preguntas guiadas para profundizar en el análisis grupal. | Interpreta la mayoría de los resultados correctamente, respondiendo a las preguntas guiadas y contribuyendo al análisis grupal con cierta ayuda. | Muestra dificultad para interpretar los resultados, incluso con preguntas guiadas, y su participación en el análisis grupal es limitada o incorrecta. |
 # Planificación.
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán qué es la recolección de datos, abordando su definición y propósito, los tipos de variables (cualitativas y cuantitativas) y los métodos básicos de obtención (encuestas, observación y experimentación), con la finalidad de que comprendan cómo organizar información para su posterior análisis estadístico. Para finalizar, aplicarán lo aprendido mediante la elaboración y clasificación de conjuntos de datos que sirvan de base para futuros estudios.  
 
