@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 20
 copilot-command-model-key: gemini-2.5-flash|google
-copilot-command-last-used: 1780272744429
+copilot-command-last-used: 1780578906755
 ---
 Genera un plan de estudios que rodee el tema de la clase titulada "{}" y la duración que deberá tener será de 80 minutos. Además, cada clase debe tener una explicación bastante detallada sobre lo que ocurrirá durante ella, así como contener las definiciones de los términos que se mencionen manteniendo un secuencia en relación al marco educativo DUA (diseño universal para el aprendizaje) teniendo en cuenta que en mi aula solo cuento con una pizarra acrílica y sus respectivos marcadores, si es necesario representar elementos matemáticos como formulas, ejercicios, ecuaciones, etc, utilizaras el formato LaTex con signos de dolar.
 Si se proporciona una técnica (técnica de evaluación) esa sera la actividad de cierre que se asignara a los estudiantes para que lo entreguen para la próxima clase, debes de incluir los directrices o pautas que debe de tener dicha actividad.

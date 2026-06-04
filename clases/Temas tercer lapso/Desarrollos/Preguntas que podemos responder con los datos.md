@@ -72,12 +72,14 @@ Se discuten ejemplos de preguntas que no cumplen estos criterios y cómo mejorar
 *   **Mejora:** "¿Cuál es el nivel de satisfacción de los estudiantes con las actividades extracurriculares (medido en una escala de 1 a 5) en nuestra escuela?"
 Luego, el docente presenta un pequeño conjunto de datos hipotéticos en la pizarra, simulando una tabla simple.
 *   **Conjunto de Datos Hipotético 1:**
-    | Estudiante | Horas de Estudio (semana) | Calificación (Matemáticas) | Deporte Favorito |
-    |---|---|---|---|
-    | Ana | 8 | 90 | Fútbol |
-    | Luis | 5 | 75 | Baloncesto |
-    | Sofía | 10 | 95 | Natación |
-    | Pedro | 6 | 80 | Fútbol |
+
+| Estudiante | Horas de Estudio (semana) | Calificación (Matemáticas) | Deporte Favorito |
+| ---------- | ------------------------- | -------------------------- | ---------------- |
+| Ana        | 8                         | 90                         | Fútbol           |
+| Luis       | 5                         | 75                         | Baloncesto       |
+| Sofía      | 10                        | 95                         | Natación         |
+| Pedro      | 6                         | 80                         | Fútbol           |
+
 El docente guía a los estudiantes para formular preguntas a partir de estos datos, aplicando los conceptos aprendidos:
 1.  Identificar variables: Horas de estudio, Calificación (Matemáticas), Deporte favorito.
 2.  Formular preguntas descriptivas: "¿Cuál es la calificación promedio en matemáticas de estos estudiantes?" (El docente puede escribir en la pizarra la fórmula del promedio: $\bar{x} = \frac{\sum x_i}{n}$ y explicar que se suman todas las calificaciones y se dividen por el número de estudiantes). O "¿Cuál es el deporte favorito más común entre estos estudiantes?"
@@ -92,12 +94,14 @@ Se fomenta la participación y se ofrece retroalimentación inmediata, corrigien
 **Descripción detallada:**
 Para consolidar lo aprendido, el docente presenta un nuevo conjunto de datos hipotéticos en la pizarra.
 *   **Conjunto de Datos Hipotético 2:**
-    | Producto | Precio ($) | Ventas (unidades/mes) | Color más vendido |
-    |---|---|---|---|
-    | A | 15 | 200 | Azul |
-    | B | 25 | 150 | Rojo |
-    | C | 10 | 300 | Verde |
-    | D | 30 | 100 | Azul |
+
+| Producto | Precio ($) | Ventas (unidades/mes) | Color más vendido |
+| --- | --- | --- | --- |
+| A | 15 | 200 | Azul |
+| B | 25 | 150 | Rojo |
+| C | 10 | 300 | Verde |
+| D | 30 | 100 | Azul |
+
 Los estudiantes, individualmente o en parejas, tienen 5-7 minutos para formular al menos 3 preguntas (una descriptiva, una inferencial y una que cumpla los criterios de claridad y medibilidad) que se puedan responder con estos datos. El docente circula por el aula ofreciendo apoyo y retroalimentación rápida.
 Finalmente, el docente introduce la **Técnica de Evaluación: Ejercicios Prácticos**, que será la actividad de cierre para entregar la próxima clase.
 **Directrices para la Actividad "Ejercicios Prácticos":**
