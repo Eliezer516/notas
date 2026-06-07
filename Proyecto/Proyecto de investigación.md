@@ -1,4 +1,4 @@
-# **PROYECTO**: *Diseño participativo de estrategias pedagógicas inclusivas para el aprendizaje de las matemáticas en estudiantes neurodivergentes: una investigación-acción en contextos escolares.*
+# **PROYECTO**: *estrategias pedagógicas inclusivas para el aprendizaje de las matemáticas en estudiantes neurodivergentes*
 
 El Momento I: Reflexión Inicial sobre el Contexto constituye la fase fundacional del proceso investigativo y es esencial para enraizar el proyecto en la realidad concreta de la Unidad Educativa Santo Domingo de Guzmán, ubicada en la parroquia Santo Domingo. Su relevancia radica en facilitar una inmersión activa mediante el Diagnóstico Situacional Participativo (DSP), que va más allá de los datos cuantitativos para comprender las complejas interrelaciones entre las problemáticas educativas presentes.
 
