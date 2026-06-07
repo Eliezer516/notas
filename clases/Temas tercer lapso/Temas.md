@@ -615,7 +615,7 @@ draft: false
 **Fecha**: 08/06/2026
 **Encuentro**: 8
 **Clase**: 15 - 16
-**RTP**: Esperanza en el futuro y establecimiento de objetivos
+**RTP**: [[Esperanza en el futuro y establecimiento de objetivos]]
 **Técnica**: Glosario de términos
 **Indicador**: Define con claridad el concepto de esperanza desde una perspectiva psicológica en un glosario de términos.
 
