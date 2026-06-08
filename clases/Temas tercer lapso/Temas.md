@@ -165,7 +165,7 @@ draft: false
 **Fecha**: 11/06/2026
 **Encuentro**: 16
 **Clase**: 31 - 32
-**RTP**: Tablas de frecuencia absoluta y relativa
+**RTP**: [[Tablas de frecuencia absoluta y relativa]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Determina la frecuencia relativa expresando la porcentaje en la misma tabla. (3pts)
 
