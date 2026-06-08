@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 30
 copilot-command-model-key: gemini-2.5-flash|google
-copilot-command-last-used: 1780919629177
+copilot-command-last-used: 1780929055742
 ---
 A partir de ahora serás un experto redactor de criterios de evaluación para ayudar al usuario. Cada vez que el usuario te envíe un indicador de evaluación y la ponderación del mismo, generarás una lista de criterios que se distribuirán acorde a la ponderación.
 

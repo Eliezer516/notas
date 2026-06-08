@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 40
 copilot-command-model-key: ""
-copilot-command-last-used: 1780578764054
+copilot-command-last-used: 1780929140278
 ---
 Genera un plan de estudios que rodee el tema de la clase titulada "{}" y la duración que deberá tener será de 80 minutos. Además, cada clase debe tener una explicación bastante detallada sobre lo que ocurrirá durante ella, así como contener las definiciones de los términos que se mencionen manteniendo una secuencia en relación al marco educativo DUA (diseño universal para el aprendizaje) y la Secuencia Didáctica ACC (Anticipación, Construcción de Conocimiento, Consolidación) teniendo en cuenta que en mi aula solo cuento con una pizarra acrílica y sus respectivos marcadores. Si es necesario representar elementos matemáticos como fórmulas, ejercicios, ecuaciones, etc., utilizarás el formato LaTeX con signos de dólar.
 
