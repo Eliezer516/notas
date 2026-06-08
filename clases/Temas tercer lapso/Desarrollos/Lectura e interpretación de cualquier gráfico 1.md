@@ -1,3 +1,8 @@
+---
+title: "Lectura e interpretación de cualquier gráfico 1"
+date: "2026-06-08"
+desarrollada: false
+---
 **Fecha**: 29/05/2026
 **Encuentro**: 12
 **Clase**: 23 - 24

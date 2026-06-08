@@ -1,3 +1,8 @@
+---
+title: "Qué son datos y para qué nos sirven"
+date: "2026-06-08"
+desarrollada: false
+---
 # RECOLECCIÓN, PROCESAMIENTO Y ORGANIZACIÓN DE DATOS
 
 ## 📊 ¿Qué son los datos?

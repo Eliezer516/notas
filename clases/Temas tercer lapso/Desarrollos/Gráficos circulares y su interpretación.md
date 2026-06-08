@@ -1,3 +1,8 @@
+---
+title: "Gráficos circulares y su interpretación"
+date: "2026-06-08"
+desarrollada: false
+---
 # Planificación
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Purplemath*, los estudiantes aprenderán a interpretar gráficos circulares, comprendiendo sus proporciones y significados estadísticos, abordando cómo estos representan distribuciones y tendencias, y aplicando el conocimiento para evaluar datos visuales con criterio. Para finalizar, practicarán la interpretación de gráficos mediante ejercicios que refuercen la capacidad de analizar y sintetizar información visual.  
 

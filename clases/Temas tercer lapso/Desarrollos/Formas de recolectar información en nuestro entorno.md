@@ -1,3 +1,8 @@
+---
+title: "Formas de recolectar información en nuestro entorno"
+date: "2026-06-08"
+desarrollada: false
+---
 
 ## 🔍 1. CLASIFICACIÓN POR ORIGEN DE LA INFORMACIÓN
 

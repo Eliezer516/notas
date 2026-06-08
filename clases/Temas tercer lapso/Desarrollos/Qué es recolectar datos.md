@@ -1,7 +1,7 @@
 ---
 title: Qué es recolectar datos
 date: 2026-05-31
-draft: false
+desarrollada: false
 ---
 **Encuentro**: 14
 **Clase**: 27 - 28

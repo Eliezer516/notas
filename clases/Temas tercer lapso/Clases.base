@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("clases/Temas tercer lapso/Desarrollos")
+views:
+  - type: table
+    name: Tabla
+    order:
+      - file.name
+      - desarrollada
+      - date
+    sort:
+      - property: date
+        direction: ASC
+      - property: file.name
+        direction: DESC
+  - type: cards
+    name: Vista
+    order:
+      - file.name
+      - desarrollada
+      - date

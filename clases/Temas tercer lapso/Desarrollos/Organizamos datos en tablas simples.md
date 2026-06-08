@@ -1,3 +1,8 @@
+---
+title: "Organizamos datos en tablas simples"
+date: "2026-06-08"
+desarrollada: false
+---
 ¡Claro que sí! Vamos a darle un giro a la estadística para que no parezca una tarea del siglo pasado. Esta clase está diseñada para conectar con lo que realmente mueve a los adolescentes hoy.
 ## Clase: Dominando el Caos – Tablas de Frecuencia Simples
 ### 1. Inicio: El Gancho (10 min)

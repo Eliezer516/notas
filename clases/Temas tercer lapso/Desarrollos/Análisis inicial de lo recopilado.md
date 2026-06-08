@@ -1,3 +1,8 @@
+---
+title: "Análisis inicial de lo recopilado"
+date: "2026-06-08"
+desarrollada: false
+---
 **Encuentro**: 8
 **Clase**: 15 - 16
 **RTP**: [[Análisis inicial de lo recopilado]]

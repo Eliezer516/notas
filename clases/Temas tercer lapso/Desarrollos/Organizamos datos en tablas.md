@@ -1,3 +1,8 @@
+---
+title: "Organizamos datos en tablas"
+date: "2026-06-08"
+desarrollada: false
+---
 **Fecha**: 09/06/2026
 **Encuentro**: 15
 **Clase**: 29 - 30

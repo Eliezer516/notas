@@ -1,7 +1,7 @@
 ---
-title: "Liderazgo e influencia, autoconocimiento"
-date: "2026-04-27"
-draft: false
+title: Liderazgo e influencia, autoconocimiento
+date: 2026-04-27
+desarrollada: false
 ---
 Basándome en la información recopilada, te presento un marco completo para tu investigación sobre Liderazgo e Influencia Personal, enfocado en liderazgo, influencia y autoconocimiento.
 

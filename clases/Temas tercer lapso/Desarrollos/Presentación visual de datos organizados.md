@@ -1,3 +1,8 @@
+---
+title: "Presentación visual de datos organizados"
+date: "2026-06-08"
+desarrollada: false
+---
 Mediante la retroalimentación con los apuntes de la clase anterior y el texto extraído de *Canva.com*, los estudiantes aprenderán la presentación visual de datos organizados, abordando la selección de gráficos adecuados según el tipo de información, el uso de elementos visuales como colores y etiquetas, y los principios de claridad estética, con la finalidad de que puedan comunicar hallazgos complejos de forma comprensible y atractiva. Para finalizar, diseñarán un gráfico de barras y un gráfico de sectores a partir de una tabla de datos proporcionada, justificando la elección de cada uno para su representación.
 
 ---

@@ -1,3 +1,8 @@
+---
+title: "Prueba práctica sobre ecuaciones de primer grado"
+date: "2026-06-08"
+desarrollada: false
+---
 **Fecha**: 12/05/2026
 **Encuentro**: 7
 **Clase**: 13 - 14

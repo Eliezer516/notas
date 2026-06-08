@@ -1,3 +1,8 @@
+---
+title: "Lectura e interpretación de cualquier gráfico"
+date: "2026-06-08"
+desarrollada: false
+---
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *GeoGebra.org*, los estudiantes aprenderán a leer e interpretar cualquier tipo de gráfico, abordando su estructura (ejes, escalas, leyendas), la identificación de patrones y tendencias, y la extracción de información numérica y cualitativa, con la finalidad de que puedan analizar y comunicar conclusiones basadas en representaciones visuales de datos. Para finalizar, aplicarán lo aprendido mediante la resolución de ejercicios que integren análisis gráfico y toma de decisiones basada en datos.  
 
 **Ejercicios:**  

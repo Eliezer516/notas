@@ -1,20 +1,14 @@
+---
+title: "Resolución de problemas complejos, pensamiento divergente"
+date: "2026-06-08"
+desarrollada: false
+---
 # Planificación.
 
 Mediante una breve lluvia de ideas y preguntas disparadoras para captar su atención se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *PsicologiaYmente.com*, los estudiantes aprenderán sobre la resolución de problemas complejos y el pensamiento divergente, abordando la identificación de variables críticas, la generación de múltiples soluciones creativas y la superación de bloqueos cognitivos, con la finalidad de que puedan abordar desafíos multidimensionales desde perspectivas innovadoras. Para finalizar, sintetizarán los conceptos clave y sus aplicaciones prácticas mediante la elaboración de un díptico informativo.
 
 ---
-
-Aquí tienes una propuesta de plan de estudios detallado, diseñado bajo el marco del **DUA (Diseño Universal para el Aprendizaje)**, asegurando que se eliminen las barreras de aprendizaje y se proporcionen múltiples formas de representación, acción y expresión.
-
----
-
-# Plan de Clase: Resolución de Problemas Complejos y Pensamiento Divergente
-
-**Objetivo de la sesión:** Que el estudiante sea capaz de abordar problemas complejos utilizando el pensamiento divergente para generar múltiples soluciones creativas, superando el bloqueo del pensamiento lineal.
-
-**Duración total:** 80 minutos.
-
----
+# Desarrollo.
 
 **Tiempo:** 0-15 min
 **Fase:** Apertura y Motivación (DUA: Proporcionar múltiples formas de compromiso - Captar el interés)

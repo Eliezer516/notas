@@ -1,7 +1,7 @@
 ---
-title: Esperanza en el futuro y establecimiento de objetivos
-date: 2026-06-07
-draft: false
+title: "Esperanza en el futuro y establecimiento de objetivos"
+date: "2026-06-08"
+desarrollada: false
 ---
 **Fecha**: 08/06/2026  
 **Encuentro**: 8  

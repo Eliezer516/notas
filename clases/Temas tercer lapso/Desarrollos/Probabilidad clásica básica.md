@@ -1,3 +1,8 @@
+---
+title: "Probabilidad clásica básica"
+date: "2026-06-08"
+desarrollada: false
+---
 # Planificación
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán probabilidad clásica básica, abordando la definición como cociente entre casos favorables y posibles en un espacio muestral equiprobable, la identificación de eventos simples y compuestos, y la aplicación de la fórmula $P(A) = \frac{n(A)}{n(\Omega)}$, con la finalidad de que puedan resolver problemas cotidianos que impliquen azar. Para finalizar, aplicarán lo aprendido mediante la resolución de ejercicios que refuercen la comprensión del concepto, como calcular probabilidades en contextos como juegos de mesa o selección aleatoria.
 

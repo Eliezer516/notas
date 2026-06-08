@@ -1,3 +1,8 @@
+---
+title: "Evaluación formativa parcial - razones y proporciones"
+date: "2026-06-08"
+desarrollada: false
+---
 **Fecha**: 02/06/2026
 **Encuentro**: 13
 **Clase**: 25 - 26

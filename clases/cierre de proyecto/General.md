@@ -5,7 +5,7 @@ draft: false
 ---
 # "Neurodiversidad en el Aula: Hacia una Cultura de Inclusión y Respeto a la Diferencia"
 
-El proyecto se fundamenta en el paradigma de la **Neurodiversidad**, que entiende las variaciones en el cerebro humano no como déficits que deben ser "curados", sino como diferencias biológicas naturales. En el caso del **TDAH (Trastorno por Déficit de Atención e Hiperactividad)**, el enfoque académico permite explicar la desregulación de los sistemas de dopamina y las funciones ejecutivas, eliminando el estigma de la "falta de disciplina".
+Este proyecto se fundamenta en el paradigma de la **Neurodiversidad**, que entiende las variaciones en el cerebro humano no como déficits que deben ser "curados", sino como diferencias biológicas naturales. 
 
 ### II. Objetivos de Aprendizaje
 
@@ -39,7 +39,7 @@ Para ampliar la actividad central del proyecto podemos diversificar las funcione
 
 #### 1. Especialistas en TDAH (El Motor de la Dopamina)
 
-Este grupo explicará la base biológica del comportamiento de su compañero para eliminar prejuicios.
+Este grupo explicará la base biológica del comportamiento para eliminar prejuicios.
 
 - **Misión:** Explicar que en el TDAH existe una regulación distinta de la **dopamina** (químico de la motivación y el "freno").
     

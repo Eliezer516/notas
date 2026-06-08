@@ -1,3 +1,8 @@
+---
+title: "Razones y proporciones, Introducción a razones y tipos"
+date: "2026-06-08"
+desarrollada: false
+---
 ¡Hola! Qué excelente tema para trabajar. Las razones son el cimiento de la proporcionalidad y el pensamiento algebraico en el bachillerato. Tomando como base el enfoque pedagógico de *Khan Academy*, he estructurado los contenidos para que tus estudiantes conecten la abstracción matemática con la lógica cotidiana.
 
 Aquí tienes el desarrollo de la sesión listo para tu planificación de aula:

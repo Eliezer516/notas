@@ -1,3 +1,8 @@
+---
+title: "Gráficos de líneas para series temporales"
+date: "2026-06-08"
+desarrollada: false
+---
 # Planificación
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *GeoGebra.org*, los estudiantes aprenderán a construir e interpretar gráficos de líneas para series temporales, abordando la definición de series temporales, la organización de ejes de tiempo y valores, la identificación de tendencias (como subidas, bajadas o estabilidad) y aplicaciones en contextos como el análisis climático o económico, con la finalidad de que puedan interpretar y crear representaciones gráficas que reflejen datos cambiantes en el tiempo. Para finalizar, diseñarán gráficos a partir de datos reales o simulados que integren variables temporales y cuantitativas.  
 

@@ -1,3 +1,8 @@
+---
+title: "Concepto de ecuación e incógnita"
+date: "2026-06-08"
+desarrollada: false
+---
 ## Clase: **Concepto de ecuación e incógnita**  
 *Diseñada para estudiantes de 1.º de bachillerato*  
 

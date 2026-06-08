@@ -1,3 +1,8 @@
+---
+title: "Problemas complejos de proporciones"
+date: "2026-06-08"
+desarrollada: false
+---
 # Planificación
 Mediante un breve recordatorio con los apuntes de la clase anterior se dará inicio a la clase, partiendo del análisis crítico y reflexivo de textos, ejemplos y definiciones extraídos de *Khan Academy*, los estudiantes aprenderán la resolución de problemas complejos de proporciones, abordando la diferencia entre proporcionalidad directa e inversa, el uso de la regla de tres compuesta y la simplificación de razones, con la finalidad de que apliquen el razonamiento matemático para resolver situaciones problemáticas de múltiples variables. Para finalizar, pondrán en práctica sus capacidades analíticas mediante la resolución de desafíos matemáticos que requieran la integración de diversos conceptos de proporcionalidad.
 
