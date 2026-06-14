@@ -625,7 +625,7 @@ draft: false
 **Fecha**: 15/06/2026
 **Encuentro**: 9
 **Clase**: 17 - 18
-**RTP**: Objetivos y planificación, herramientas visuales
+**RTP**: [[Objetivos y planificación, herramientas visuales]]
 **Técnica**: Plan de acción
 **Indicador**: Elabora un plan de acción detallado para alcanzar una meta específica utilizando una lista secuencial en su cuaderno.
 
