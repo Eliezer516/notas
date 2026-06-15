@@ -15,7 +15,7 @@
 | Santiago Alejandro  |      |       |       |
 | Arianna Sofía       |      |       |       |
 | Camila              |      |       |       |
-| Victoria Valentina  | ✅    |       |       |
+| Victoria Valentina  | ✅    | ✅     | ✅     |
 | Ángel Gabriel       |      |       |       |
 | Luis Enrique        | ✅    |       |       |
 | Angel David         | ✅    | ✅     |       |
