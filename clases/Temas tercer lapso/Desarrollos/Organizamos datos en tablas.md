@@ -97,7 +97,7 @@ El docente guía a los estudiantes en la construcción de tablas de frecuencia, 
     *   El docente explica: "La **frecuencia absoluta** ($f_i$) es el número de veces que un dato se repite en un conjunto de datos."
     *   **Ejemplo Práctico:** El docente presenta un conjunto de datos en la pizarra (simulando un estudio de *Khan Academy*): "Se preguntó a 20 estudiantes sobre su fruta favorita y se obtuvieron los siguientes resultados: Manzana, Pera, Plátano, Manzana, Naranja, Pera, Manzana, Plátano, Manzana, Naranja, Pera, Manzana, Plátano, Manzana, Naranja, Pera, Manzana, Plátano, Manzana, Naranja."
     *   El docente dibuja la estructura básica de la tabla en la pizarra:
-        ```latex
+        $$
         \begin{array}{|c|c|}
         \hline
         Fruta & Frecuencia\ Absoluta\ (f_i) \\
@@ -110,7 +110,7 @@ El docente guía a los estudiantes en la construcción de tablas de frecuencia, 
         Total & \\
         \hline
         \end{array}
-        ```
+        $$
     *   Junto con los estudiantes, se cuenta la aparición de cada fruta y se rellena la columna de $f_i$. Se verifica que la suma de $f_i$ sea igual al número total de datos (N=20).
 3.  **Frecuencia Relativa ($h_i$):**
     *   El docente explica: "La **frecuencia relativa** ($h_i$) es la proporción de veces que un dato se repite respecto al total de datos. Nos dice qué tan común es un dato en relación con el conjunto completo."
@@ -118,7 +118,7 @@ El docente guía a los estudiantes en la construcción de tablas de frecuencia, 
         $$h_i = \frac{f_i}{N}$$
         Donde $f_i$ es la frecuencia absoluta y $N$ es el número total de datos.
     *   El docente añade una columna a la tabla en la pizarra:
-        ```latex
+        $$
         \begin{array}{|c|c|c|}
         \hline
         Fruta & Frecuencia\ Absoluta\ (f_i) & Frecuencia\ Relativa\ (h_i) \\
@@ -131,7 +131,7 @@ El docente guía a los estudiantes en la construcción de tablas de frecuencia, 
         Total & 20 & 1.00 \\
         \hline
         \end{array}
-        ```
+        $$
     *   Se calcula cada $h_i$ y se rellena la columna. Se enfatiza que la suma de las frecuencias relativas debe ser 1 (o muy cercana a 1 debido a redondeos).
 4.  **Interpretación de la Tabla:**
     *   El docente guía la interpretación de la tabla con preguntas como: "¿Cuál es la fruta más popular? ¿Qué porcentaje de estudiantes prefiere la pera? ¿Qué nos dice la frecuencia relativa sobre la popularidad de la manzana?"
