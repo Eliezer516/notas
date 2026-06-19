@@ -4,7 +4,7 @@
 **Fecha**: 21/04/2026
 **Encuentro**: 1
 **Clase**: 1 - 2
-**RTP**: Discusión del plan de evaluación
+**RTP**: [[Discusión del plan de evaluación]]
 **Técnica**: -
 **Indicador**: -
 
@@ -16,7 +16,7 @@
 **Fecha**: 23/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
-**RTP**: Ecuaciones de primer grado - Concepto de ecuación e incógnita
+**RTP**: [[Ecuaciones de primer grado - Concepto de ecuación e incógnita]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Resuelve de manera correcta 2 ejercicios de identificación de ecuaciones en su cuaderno. (3pts)
 
@@ -26,7 +26,7 @@
 **Fecha**: 28/04/2026
 **Encuentro**: 3
 **Clase**: 5 - 6
-**RTP**: Ecuaciones básicas con una incógnita
+**RTP**: [[Ecuaciones básicas con una incógnita]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Resuelve de manera correcta al menos 3 ejercicios de ecuaciones con valor de la incógnita desconocida en su cuaderno. (3pts)
 
@@ -36,7 +36,7 @@
 **Fecha**: 30/04/2026
 **Encuentro**: 4
 **Clase**: 7 - 8
-**RTP**: Ecuaciones con paréntesis simples
+**RTP**: [[Ecuaciones con paréntesis simples]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Resuelve de manera correcta al menos 3 ejercicios de resolución de ecuaciones con paréntesis simples aplicando la propiedad distributiva en su cuaderno. (3pts)
 
@@ -46,7 +46,7 @@
 **Fecha**: 05/05/2026
 **Encuentro**: 5
 **Clase**: 9 - 10
-**RTP**: Ecuaciones con fracciones enteras
+**RTP**: [[Ecuaciones con fracciones enteras]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Resuelve de forma correcta al menos 3 ejercicios de resolución de ecuaciones con fracciones enteras aplicando el m.c.m. en su cuaderno. (3pts)
 
@@ -56,7 +56,7 @@
 **Fecha**: 07/05/2026
 **Encuentro**: 6
 **Clase**: 11 - 12
-**RTP**: Problemas aplicados tipo palabra
+**RTP**: [[Problemas aplicados tipo palabra]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Resuelve al menos 3 enunciados traduciendo las expresiones algebraicas en su cuaderno. (3pts)
 
@@ -66,7 +66,7 @@
 **Fecha**: 12/05/2026
 **Encuentro**: 7
 **Clase**: 13 - 14
-**RTP**: Prueba práctica sobre ecuaciones de primer grado
+**RTP**: [[Prueba práctica sobre ecuaciones de primer grado]]
 **Técnica**: Prueba práctica escrita
 **Indicador**: Resuelve de manera correcta al menos cinco preguntas de opción múltiple en su prueba práctica escrita. (5pts)
 
@@ -140,7 +140,7 @@
 **Fecha**: 04/06/2026
 **Encuentro**: 14
 **Clase**: 27 - 28
-**RTP**: ¿[[Qué es recolectar datos]]?
+**RTP**: [[¿Qué es recolectar datos?]]
 **Técnica**: Clase participativa
 **Indicador**: Interpreta los resultados mediante preguntas guiadas durante una actividad grupal. (3pts)
 
@@ -150,7 +150,7 @@
 **Fecha**: 09/06/2026
 **Encuentro**: 15
 **Clase**: 29 - 30
-**RTP**: Organizamos datos en tablas
+**RTP**: [[Organizamos datos en tablas]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Organiza los valores en filas y columnas de manera coherente en una lista de ejercicios. (3pts)
 
@@ -160,7 +160,7 @@
 **Fecha**: 11/06/2026
 **Encuentro**: 16
 **Clase**: 31 - 32
-**RTP**: Tablas de frecuencia absoluta y relativa
+**RTP**: [[Tablas de frecuencia absoluta y relativa]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Determina la frecuencia relativa expresando la porcentaje en la misma tabla. (3pts)
 
@@ -170,7 +170,7 @@
 **Fecha**: 16/06/2026
 **Encuentro**: 17
 **Clase**: 33 - 34
-**RTP**: Gráficos básicos (barras, pictogramas)
+**RTP**: [[Gráficos básicos (barras, pictogramas)]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Diseña un gráfico de barras que represente la distribución de una variable en papel cuadriculado. (3pts)
 
@@ -180,7 +180,7 @@
 **Fecha**: 18/06/2026
 **Encuentro**: 18
 **Clase**: 35 - 36
-**RTP**: Gráficos circulares y líneas
+**RTP**: [[Gráficos circulares y líneas]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Elabora un gráfico circular que muestre la proporción de cada categoría en una hoja de ejercicios. (3pts)
 
@@ -190,7 +190,7 @@
 **Fecha**: 23/06/2026
 **Encuentro**: 19
 **Clase**: 37 - 38
-**RTP**: Evaluación formativa parcial
+**RTP**: [[Evaluación formativa parcial]]
 **Técnica**: Prueba práctica escrita
 **Indicador**: Redacta respuestas correctas a tres preguntas de la prueba práctica escrita bajo condiciones de tiempo limitado. (5pts)
 
@@ -202,7 +202,7 @@
 **Fecha**: 25/06/2026
 **Encuentro**: 20
 **Clase**: 39 - 40
-**RTP**: ¿Qué es un experimento aleatorio?
+**RTP**: [[¿Qué es un experimento aleatorio?]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Clasifica de forma correcta diversos fenómenos aleatorios en una tabla comparativa. (3pts)
 
@@ -212,7 +212,7 @@
 **Fecha**: 30/06/2026
 **Encuentro**: 21
 **Clase**: 41 - 42
-**RTP**: Espacio muestral y eventos
+**RTP**: [[Espacio muestral y eventos]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Determina el espacio muestral completo de experimentos simples como el lanzamiento de dados en su cuaderno. (3pts)
 
@@ -222,7 +222,7 @@
 **Fecha**: 02/07/2026
 **Encuentro**: 22
 **Clase**: 43 - 44
-**RTP**: Probabilidad experimental
+**RTP**: [[Probabilidad experimental]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Compara los resultados experimentales con los teóricos de manera analítica en un breve reporte escrito. (3pts)
 
@@ -232,7 +232,7 @@
 **Fecha**: 07/07/2026
 **Encuentro**: 23
 **Clase**: 45 - 46
-**RTP**: Eventos independientes y dependientes
+**RTP**: [[Eventos independientes y dependientes]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Distingue con claridad entre eventos con reemplazo y sin reemplazo en una serie de problemas lógicos. (3pts)
 
@@ -242,7 +242,7 @@
 **Fecha**: 09/07/2026
 **Encuentro**: 24
 **Clase**: 47 - 48
-**RTP**: Proyecto estadístico breve
+**RTP**: [[Proyecto estadístico breve]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Diseña un plan de recolección de datos para un estudio estadístico sencillo de manera organizada. (3pts)
 
@@ -252,7 +252,7 @@
 **Fecha**: 14/07/2026
 **Encuentro**: 25
 **Clase**: 49 - 50
-**RTP**: Cierre e integración de todo lo visto
+**RTP**: [[Cierre e integración de todo lo visto]]
 **Técnica**: Prueba práctica escrita
 **Indicador**: Resuelve problemas complejos que integran espacio muestral y cálculo de probabilidades con total autonomía. (5pts)
 
@@ -264,7 +264,7 @@
 **Fecha**: 21/04/2026
 **Encuentro**: 1
 **Clase**: 1 - 2
-**RTP**: Discusión del plan de evaluación
+**RTP**: [[Discusión del plan de evaluación]]
 **Técnica**: -
 **Indicador**: -
 
@@ -306,7 +306,7 @@
 **Fecha**: 05/05/2026
 **Encuentro**: 5
 **Clase**: 9 - 10
-**RTP**: Diferencia entre datos cualitativos y cuantitativos
+**RTP**: [[Diferencia entre datos cualitativos y cuantitativos]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Clasifica diversas variables en cualitativas o cuantitativas de manera correcta en una actividad de categorización. (3pts)
 
@@ -316,7 +316,7 @@
 **Fecha**: 08/05/2026
 **Encuentro**: 6
 **Clase**: 11 - 12
-**RTP**: Introducción al procesamiento básico
+**RTP**: [[Introducción al procesamiento básico]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Identifica errores o inconsistencias en un conjunto de datos proporcionado antes de su procesamiento en su cuaderno. (2pts)
 
@@ -348,7 +348,7 @@
 **Fecha**: 19/05/2026
 **Encuentro**: 9
 **Clase**: 17 - 18
-**RTP**: Construcción de gráficos de barras
+**RTP**: [[Construcción de gráficos de barras]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Organiza datos cualitativos y cuantitativos discretos en tablas de frecuencia de forma ordenada en su cuaderno. (3pts)
 
@@ -388,7 +388,7 @@
 **Fecha**: 02/06/2026
 **Encuentro**: 13
 **Clase**: 25 - 26
-**RTP**: Preguntas que podemos responder con los datos
+**RTP**: [[Preguntas que podemos responder con los datos]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Formula preguntas de investigación coherentes que puedan ser resueltas mediante el análisis de un set de datos proporcionado. (3pts)
 
@@ -398,7 +398,7 @@
 **Fecha**: 05/06/2026
 **Encuentro**: 14
 **Clase**: 27 - 28
-**RTP**: Proyecto breve de recolección aplicada
+**RTP**: [[Proyecto breve de recolección aplicada]]
 **Técnica**: Informe escrito
 **Indicador**: Elabora un informe escrito que sintetice los hallazgos del proyecto utilizando lenguaje técnico adecuado en la evaluación final. (5pts)
 
@@ -410,7 +410,7 @@
 **Fecha**: 09/06/2026
 **Encuentro**: 15
 **Clase**: 29 - 30
-**RTP**: Promedio aritmético: concepto y cálculo
+**RTP**: [[Promedio aritmético: concepto y cálculo]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Calcula el promedio aritmético de diversos conjuntos de datos numéricos con precisión en su cuaderno. (3pts)
 
@@ -420,7 +420,7 @@
 **Fecha**: 12/06/2026
 **Encuentro**: 16
 **Clase**: 31 - 32
-**RTP**: Aplicación del promedio en situaciones reales
+**RTP**: [[Aplicación del promedio en situaciones reales]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Resuelve problemas de la vida diaria que involucran el cálculo de promedios de notas o gastos de forma exacta en su cuaderno. (3pts)
 
@@ -430,7 +430,7 @@
 **Fecha**: 16/06/2026
 **Encuentro**: 17
 **Clase**: 33 - 34
-**RTP**: La mediana: encontrar el valor central
+**RTP**: [[La mediana: encontrar el valor central]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Ordena conjuntos de datos de forma ascendente o descendente antes de localizar la mediana en su cuaderno. (3pts)
 
@@ -440,7 +440,7 @@
 **Fecha**: 19/06/2026
 **Encuentro**: 18
 **Clase**: 35 - 36
-**RTP**: La moda: el dato más frecuente
+**RTP**: [[La moda: el dato más frecuente]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Localiza el valor que más se repite en diversas listas de datos con rapidez y precisión en una guía de estudio. (3pts)
 
@@ -450,7 +450,7 @@
 **Fecha**: 23/06/2026
 **Encuentro**: 19
 **Clase**: 37 - 38
-**RTP**: Comparación entre promedio mediana y moda
+**RTP**: [[Comparación entre promedio mediana y moda]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Compara los valores obtenidos de las tres medidas de tendencia central en un mismo set de datos de forma lógica. (3pts)
 
@@ -460,7 +460,7 @@
 **Fecha**: 26/06/2026
 **Encuentro**: 20
 **Clase**: 39 - 40
-**RTP**: Cuándo usar cada medida según el contexto
+**RTP**: [[Cuándo usar cada medida según el contexto]]
 **Técnica**: Informe escrito
 **Indicador**: Argumenta la elección de la mediana sobre el promedio cuando existen valores atípicos con coherencia estadística en un informe escrito. (5pts)
 
@@ -472,7 +472,7 @@
 **Fecha**: 30/06/2026
 **Encuentro**: 21
 **Clase**: 41 - 42
-**RTP**: ¿Qué significa ordenar o acomodar las cosas?
+**RTP**: [[¿Qué significa ordenar o acomodar las cosas?]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Clasifica de forma correcta situaciones donde el orden es relevante frente a las que no lo son en una lista comparativa. (3pts)
 
@@ -482,7 +482,7 @@
 **Fecha**: 03/07/2026
 **Encuentro**: 22
 **Clase**: 43 - 44
-**RTP**: Permutaciones con elementos distinguishibles
+**RTP**: [[Permutaciones con elementos distinguishibles]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Diferencia claramente entre elementos repetidos y elementos únicos dentro de un conjunto dado en una ficha de trabajo. (3pts)
 
@@ -492,7 +492,7 @@
 **Fecha**: 07/07/2026
 **Encuentro**: 23
 **Clase**: 45 - 46
-**RTP**: Cálculo de permutaciones simples
+**RTP**: [[Cálculo de permutaciones simples]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Calcula el valor de permutaciones lineales sin repetición utilizando la fórmula correspondiente con precisión en una guía de estudio. (3pts)
 
@@ -502,7 +502,7 @@
 **Fecha**: 10/07/2026
 **Encuentro**: 24
 **Clase**: 47 - 48
-**RTP**: Ejercicios prácticos con nombres y objetos
+**RTP**: [[Ejercicios prácticos con nombres y objetos]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Ordena diversos objetos físicos siguiendo criterios específicos de posición de manera lógica en su mesa de trabajo. (3pts)
 
@@ -512,7 +512,7 @@
 **Fecha**: 14/07/2026
 **Encuentro**: 25
 **Clase**: 49 - 50
-**RTP**: Permutaciones en contextos cotidianos
+**RTP**: [[Permutaciones en contextos cotidianos]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Resuelve problemas sobre posiciones finales en carreras o concursos aplicando principios de conteo de forma coherente. (3pts)
 
@@ -522,7 +522,7 @@
 **Fecha**: 17/07/2026
 **Encuentro**: 26
 **Clase**: 51 - 52
-**RTP**: Evaluación final integradora
+**RTP**: [[Evaluación final integradora]]
 **Técnica**: Prueba práctica escrita
 **Indicador**: Selecciona la técnica de permutación adecuada para resolver problemas de niveles variados con total autonomía en la evaluación. (5pts)
 
@@ -534,7 +534,7 @@
 **Fecha**: 20/04/2026
 **Encuentro**: 1
 **Clase**: 1 - 2
-**RTP**: Plan de evaluación y discusión
+**RTP**: [[Plan de evaluación y discusión]]
 **Técnica**: -
 **Indicador**: -
 
@@ -546,7 +546,7 @@
 **Fecha**: 27/04/2026
 **Encuentro**: 2
 **Clase**: 3 - 4
-**RTP**: Liderazgo e influencia, autoconocimiento
+**RTP**: [[Liderazgo e influencia, autoconocimiento]]
 **Técnica**: Investigación
 **Indicador**: Investiga en su cuaderno como el autoconocimiento influye la capacidad de liderazgo en entornos organizacionales
 
@@ -556,7 +556,7 @@
 **Fecha**: 04/05/2026
 **Encuentro**: 3
 **Clase**: 5 - 6
-**RTP**: Neurodiversidad y neurodivergencia
+**RTP**: [[Neurodiversidad y neurodivergencia]]
 **Técnica**: Revisión de cuadernos
 **Indicador**: Clasifica correctamente los tipos de neurodivergencia en un organizador gráfico durante la revisión de cuadernos.
 
@@ -566,7 +566,7 @@
 **Fecha**: 11/05/2026
 **Encuentro**: 4
 **Clase**: 7 - 8
-**RTP**: Liderazgo y comunicación efectiva
+**RTP**: [[Liderazgo y comunicación efectiva]]
 **Técnica**: Trabajo escrito
 **Indicador**: Analiza un ejemplo de liderazgo ineficaz y propone mejoras comunicacionales en un trabajo escrito.
 
@@ -610,7 +610,7 @@
 **Fecha**: 08/06/2026
 **Encuentro**: 8
 **Clase**: 15 - 16
-**RTP**: Esperanza en el futuro y establecimiento de objetivos
+**RTP**: [[Esperanza en el futuro y establecimiento de objetivos]]
 **Técnica**: Glosario de términos
 **Indicador**: Define con claridad el concepto de esperanza desde una perspectiva psicológica en un glosario de términos.
 
@@ -620,7 +620,7 @@
 **Fecha**: 15/06/2026
 **Encuentro**: 9
 **Clase**: 17 - 18
-**RTP**: Objetivos y planificación, herramientas visuales
+**RTP**: [[Objetivos y planificación, herramientas visuales]]
 **Técnica**: Plan de acción
 **Indicador**: Elabora un plan de acción detallado para alcanzar una meta específica utilizando una lista secuencial en su cuaderno.
 
@@ -630,7 +630,7 @@
 **Fecha**: 22/06/2026
 **Encuentro**: 10
 **Clase**: 19 - 20
-**RTP**: Liderazgo transformacional, impacto social
+**RTP**: [[Liderazgo transformacional, impacto social]]
 **Técnica**: Cuadro sinóptico
 **Indicador**: Describe las características fundamentales de un líder transformacional en un cuadro sinóptico.
 
@@ -640,7 +640,7 @@
 **Fecha**: 29/06/2026
 **Encuentro**: 11
 **Clase**: 21 - 22
-**RTP**: Esperanza construida, historias de personas neurodivergentes
+**RTP**: [[Esperanza construida, historias de personas neurodivergentes]]
 **Técnica**: Exposición
 **Indicador**: Expone con fluidez la historia de vida de una persona neurodivergente destacando sus logros en una presentación grupal.
 
@@ -652,7 +652,7 @@
 **Fecha**: 06/07/2026
 **Encuentro**: 12
 **Clase**: 23 - 24
-**RTP**: Creatividad e innovación, expresión no convencional
+**RTP**: [[Creatividad e innovación, expresión no convencional]]
 **Técnica**: Investigación
 **Indicador**: Investiga sobre las expresiones no convencionales de la creatividad en su cuaderno.
 
@@ -662,6 +662,6 @@
 **Fecha**: 13/07/2026
 **Encuentro**: 13
 **Clase**: 25 - 26
-**RTP**: Creatividad aplicada, proyectos reales
+**RTP**: [[Creatividad aplicada, proyectos reales]]
 **Técnica**: Lapbook
 **Indicador**: Presenta de manera coherente un lapbook sobre la creatividad y como esta influye en la innovación

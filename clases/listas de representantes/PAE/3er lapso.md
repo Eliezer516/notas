@@ -11,10 +11,10 @@
 | Enderson David      | ✅    |       |       |
 | Kleismary Carolina  |      |       |       |
 | Mariangel Valentina | ✅    |       |       |
-| Leonardo Andreyver  |      |       |       |
+| Leonardo Andreyver  |      | ✅     |       |
 | Santiago Alejandro  |      |       |       |
 | Arianna Sofía       |      |       |       |
-| Camila              |      |       |       |
+| Camila              |      | ✅     | ✅     |
 | Victoria Valentina  | ✅    | ✅     | ✅     |
 | Ángel Gabriel       |      |       |       |
 | Luis Enrique        | ✅    |       |       |
