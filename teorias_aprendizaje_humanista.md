@@ -1,3 +1,8 @@
+---
+title: teorias_aprendizaje_humanista
+date: 2026-06-20
+draft: false
+---
 El presente documento ofrece un resumen integral de las principales teorías del aprendizaje humanista, con énfasis en su relevancia para la formación docente. El humanismo educativo, surgido en la década de 1950 como una "tercera fuerza" frente al conductismo y el psicoanálisis, propone una visión del ser humano como un ente activo, capaz de construir su propio conocimiento cuando se le brindan condiciones propicias de respeto, aceptación y libertad. Esta perspectiva sitúa al estudiante en el centro del proceso educativo, reconoce su dimensión emocional y motivacional, y enfatiza el rol del docente como **facilitador del aprendizaje** más que como transmisor de contenidos. El documento examina los aportes de autores clásicos como **Abraham Maslow, Carl Rogers y Malcolm Knowles**, así como el pensamiento de referentes latinoamericanos como **Paulo Freire, José Martí, José Carlos Mariátegui, Gabriela Mistral, Luis Villoro y Simón Rodríguez**, cuyas propuestas enriquecen el panorama teórico desde las realidades específicas del continente.
 
 ---

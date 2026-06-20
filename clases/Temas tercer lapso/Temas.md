@@ -410,7 +410,7 @@
 **Fecha**: 09/06/2026
 **Encuentro**: 15
 **Clase**: 29 - 30
-**RTP**: [[Promedio aritmético: concepto y cálculo]]
+**RTP**: [[Promedio aritmético, concepto y cálculo]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Calcula el promedio aritmético de diversos conjuntos de datos numéricos con precisión en su cuaderno. (3pts)
 
