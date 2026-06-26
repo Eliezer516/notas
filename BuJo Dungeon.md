@@ -1,3 +1,7 @@
+---
+telegraph_page_url: https://telegra.ph/BuJo-Dungeon-06-26
+telegraph_page_path: BuJo-Dungeon-06-26
+---
 # 🏰 BuJo Dungeon: Manual Oficial de Campaña
 **Un dungeon-crawler táctico para jugar en tu libreta de puntos**
 
@@ -15,12 +19,12 @@ Antes de comenzar tu incursión, dibuja esta pequeña ficha en una esquina o mar
 
 ## 🎒 KITS DE INICIO (Elige uno por partida)
 
-| Kit | Ranura 1 | Ranura 2 | Ranura 3 | Ranura 4 | Estilo de juego |
-|:---:|:--------:|:--------:|:--------:|:--------:|:----------------|
-| **🛡️ Clásico** | Poción | Escudo | Comodín | Vacío | Equilibrado. Ideal para primeras partidas. |
-| **⚔️ Guerrero** | Escudo | Escudo | Poción | Vacío | Agresivo. Doble reparación de escudo, pero sin escape. |
-| **🦶 Explorador** | Comodín | Comodín | Poción | Vacío | Evasivo. Dos huídas garantizadas, pero sin reparar escudo. |
-| **🧪 Alquimista** | Poción | Poción | Escudo | Vacío | Defensivo. Doble curación, pero sin escape. |
+|        Kit        | Ranura 1 | Ranura 2 | Ranura 3 | Ranura 4 | Estilo de juego                                            |
+| :---------------: | :------: | :------: | :------: | :------: | :--------------------------------------------------------- |
+|  **🛡️ Clásico**  |  Poción  |  Escudo  | Comodín  |  Vacío   | Equilibrado. Ideal para primeras partidas.                 |
+|  **⚔️ Guerrero**  |  Escudo  |  Escudo  |  Poción  |  Vacío   | Agresivo. Doble reparación de escudo, pero sin escape.     |
+| **🦶 Explorador** | Comodín  | Comodín  |  Poción  |  Vacío   | Evasivo. Dos huídas garantizadas, pero sin reparar escudo. |
+| **🧪 Alquimista** |  Poción  |  Poción  |  Escudo  |  Vacío   | Defensivo. Doble curación, pero sin escape.                |
 
 > **Regla:** Una vez elegido el kit, **no puedes cambiarlo durante la partida**. Los items consumidos se marcan con una X o se borran de la ficha. La ranura vacía siempre se rellena con el primer cofre que encuentres.
 
