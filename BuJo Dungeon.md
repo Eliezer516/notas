@@ -10,7 +10,7 @@ telegraph_page_path: BuJo-Dungeon-06-26
 ## 👤 FICHA DEL HÉROE
 Antes de comenzar tu incursión, dibuja esta pequeña ficha en una esquina o margen de tu página:
 
- * **VIDAS (HP):** [██████████] (**10 Vidas iniciales** / Máximo inicial: 10).
+ * **VIDAS (HP):** [❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️] (**10 Vidas iniciales** / Máximo inicial: 10).
  * **FUERZA:** **3** (Tu valor base de daño. Cada hit en combate inflige **1 + (FUERZA - 3)** de daño).
  * **ESCUDO:** [3 / 3] usos (Absorbe impactos automáticamente).
  * **MOCHILA (4 ranuras fijas):** Elige un **Kit de Inicio** antes de partir (ver tabla más abajo).
