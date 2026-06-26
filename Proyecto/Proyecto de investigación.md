@@ -2,8 +2,9 @@
 telegraph_page_url: https://telegra.ph/Proyecto-de-investigación-06-26
 telegraph_page_path: Proyecto-de-investigación-06-26
 ---
-# **PROYECTO**: Estrategias lúdicas e inclusivas para la resolución de operaciones combinadas en fracciones como una praxis transformadora con estudiantes neurodivergentes de primer año de la U.E. Santo Domingo de Guzmán del municipio Pampanito del estado Trujillo
+**PROYECTO**: Estrategias lúdicas e inclusivas para la resolución de operaciones combinadas en fracciones como una praxis transformadora con estudiantes neurodivergentes de primer año de la U.E. Santo Domingo de Guzmán del municipio Pampanito del estado Trujillo
 
+# Momento I: Reflexión Inicial sobre el Contexto
 El Momento I: Reflexión Inicial sobre el Contexto constituye la fase fundacional del proceso investigativo y es esencial para enraizar el proyecto en la realidad concreta de la Unidad Educativa Santo Domingo de Guzmán, ubicada en la parroquia Santo Domingo. Su relevancia radica en facilitar una inmersión activa mediante el Diagnóstico Situacional Participativo (DSP), que va más allá de los datos cuantitativos para comprender las complejas interrelaciones entre las problemáticas educativas presentes.
 
 Este momento asegura que la investigación no sea abstracta, sino que responda al sentir del colectivo educativo. Por ello, abordar esta problemática resulta fundamental para elevar la calidad educativa mediante un proyecto especializado.
@@ -29,7 +30,7 @@ El plan de acercamiento tiene como propósito fundamental **establecer una inmer
 La Unidad Educativa "Santo Domingo de Guzmán", ubicada en el Municipio Pampanito, Estado Trujillo, Venezuela, se encuentra situada en una zona residencial densa que la rodea, con infraestructura vial que facilita la conectividad con la comunidad; destaca por su cercanía estratégica con la iglesia, formando un núcleo socio-cultural, y cuenta con áreas verdes que permiten actividades al aire libre. La institución, fundada en 1958 y actualizada en 2024 bajo el nombre de "Santo Domingo de Guzmán", atiende aproximadamente 160 estudiantes con predominio masculino, incluyendo un segmento de estudiantes neurodivergentes, lo que plantea desafíos en cuanto a la escasa formación docente en neurodiversidad y la desinformación de las familias al respecto. Cuenta con un cuerpo docente de 60 profesionales, aunque se percibe la falta de un docente CRA y de personal en el turno de la tarde para algunas áreas de formación críticas, complementado por personal operativo administrativo, ambientalista, cocineras de la patria y vigilantes. Su identificación oficial corresponde al código de dependencia 006590390 y DEA 0D00112114, y mantiene programas activos como PAE, PTMS, Brigadas y OBE, a pesar de la ausencia de materiales didácticos multisensoriales que limitan la inclusión plena, vinculándose al Consejo Comunal "Santo Domingo" y al Circuito Comunal "Los Vencedores de Pampanito". Históricamente, ha evolucionado desde su fundación en 1958, construyendo su sede propia en 1974, expandiéndose al nivel preescolar en 1984-1985, incorporando la III Etapa de Educación Básica en 1996, modernizando su infraestructura en 2008-2009, si bien aún enfrenta desafíos como filtraciones de agua en paredes y techo, aulas con paredes rayadas y dañadas, y la falta de herramientas tecnológicas propias (computadoras, impresora, etc.), y ampliando su oferta con bachillerato en 2017-2018. Geográficamente, se localiza a 354 metros de altitud sobre los márgenes del río Mocoy, con un clima cálido entre 27°C y 37°C, comunicada mediante carretera con Trujillo y Valera, en un contexto de vulnerabilidad socioeconómica típico de zonas rurales venezolanas, donde los problemas de falta de agua son recurrentes, y cuenta con un ambulatorio cercano que facilita diagnósticos médicos.
 ### Cartografía Socioeducativa
 
-![[cartografia.png]]
+![cartografia.png](./cartografia.png)
 
 ### Técnicas e Instrumentos Utilizados
 
