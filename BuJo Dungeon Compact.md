@@ -106,13 +106,13 @@ Tira d6 y resuelve en orden:
 
 ### Modos Delimitado e Infinito
 
-| Profundidad | Enemigo | Vida | Notas |
-|:---|:---|:---:|:---|
-| 1-5 | 🐛 Bicho | 1 | — |
-| 6-15 | d6: 1-3=Bicho · 4-6=Bruto | 1-2 | — |
-| 16-25 | d6: 1-3=Bruto · 4-6=Demonio | 2-3 | — |
-| 26-35 | 👹 Demonio | 3 | — |
-| 36+ | 👹 Demonio Duro | 3 | **Aciertan con 3-6** |
+| Profundidad | Enemigo                     | Vida | Notas                |
+| :---------- | :-------------------------- | :--: | :------------------- |
+| 1-5         | 🐛 Bicho                    |  1   | —                    |
+| 6-15        | d6: 1-3=Bicho · 4-6=Bruto   | 1-2  | —                    |
+| 16-25       | d6: 1-3=Bruto · 4-6=Demonio | 2-3  | —                    |
+| 26-35       | 👹 Demonio                  |  3   | —                    |
+| 36+         | 👹 Demonio Duro             |  3   | **Aciertan con 3-6** |
 
 ---
 
