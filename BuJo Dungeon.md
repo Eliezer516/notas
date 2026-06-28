@@ -60,8 +60,8 @@ ESCUDO:   [🛡️🛡️🛡️] 3/3 usos                  MOCHILA: [____] [___
 4. Tira d6 → Tamaño (Tabla S). Dibuja habitación en cuadrícula.
 5. Tira d6 → Puertas adicionales. Coloca (máximo las que quepan en márgenes).
 6. Tira d6 → Enemigos. Coloca en habitación (tú eliges dónde).
-7. Tira d6 → ¿Cofre? Si 4-6, coloca cofre abierto.
-8. Resuelve combate o usa Comodín para huir (pierdes 1 Vida, sin botín).
+7. Resuelve combate o usa Comodín para huir (pierdes 1 Vida, sin botín).
+8. Tira d6 → ¿Cofre? Si.
 9. Si ganaste combate, abre cofre si hay. Tira contenido:
    1 = 💥 Trampa (-1 HP)
    2-3 = Poción
