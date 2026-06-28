@@ -3,12 +3,7 @@ title: Elementos meta matematicos
 date: 2026-05-26
 draft: false
 ---
-Cuando hablamos de **elementos metamatemáticos**, nos adentramos en el terreno de la "matemática sobre la matemática": las reglas del juego, los límites de lo que podemos saber, la consistencia, la verdad y la estructura de los sistemas lógicos.
-
-Aunque suena a abstracción pura, estos conceptos no flotan en el vacío. Nuestra realidad cotidiana está llena de estos fragmentos metamatemáticos. Los usamos para tomar decisiones, diseñar software o, simplemente, para lidiar con las paradojas de la vida.
-
-Aquí tienes un desglose de cómo estos fragmentos fragmentados de la metamatemática se vinculan directamente con el "mundo real":
-
+Cuando hablamos de **elementos metamatemáticos**, nos adentramos en el terreno de la "matemática sobre la matemática". Aunque suena a abstracción pura, estos conceptos no flotan en el vacío. Nuestra realidad cotidiana está llena de estos fragmentos metamatemáticos. Los usamos para tomar decisiones, diseñar software o, simplemente, para lidiar con las paradojas de la vida.
 ### 1. Los Teoremas de Incompletitud de Gödel $\rightarrow$ Los límites de las leyes y los manuales
 
 El matemático Kurt Gödel demostró que en cualquier sistema lógico lo suficientemente complejo, siempre habrá verdades que no pueden ser demostradas dentro del propio sistema. Siempre habrá "vacíos".
