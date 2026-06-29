@@ -22,16 +22,17 @@ FUERZA: 3  (Daño = 1 + Fuerza - 3)
 ESCUDO:   [3/3] usos
 MOCHILA: [____] [____] [____] [____]
 ```
-Kits de Inicio
 
-| Kit | Contenido | Estilo |
-|---|---|---|
-| Clásico | Poción, Escudo, Comodín, Vacío | Equilibrado |
-| Guerrero | Escudo, Escudo, Poción, Vacío | Tanque (sin escape) |
+**Kits de Inicio**
+
+| Kit        | Contenido                       | Estilo                       |
+| ---------- | ------------------------------- | ---------------------------- |
+| Clásico    | Poción, Escudo, Comodín, Vacío  | Equilibrado                  |
+| Guerrero   | Escudo, Escudo, Poción, Vacío   | Tanque (sin escape)          |
 | Explorador | Comodín, Comodín, Poción, Vacío | Evasivo (sin reparar escudo) |
-| Alquimista | Poción, Poción, Escudo, Vacío | Supervivencia (sin escape) |
+| Alquimista | Poción, Poción, Escudo, Vacío   | Supervivencia (sin escape)   |
 
-Modos de Juego
+**Modos de Juego**
 
 | Modo | Preparación | Final | Notas |
 |---|---|---|---|
@@ -39,7 +40,7 @@ Modos de Juego
 | Delimitado | Dibuja rectángulo Ancho x Alto. Salas = Ancho + Alto. | Última sala: Jefe (5V) | Debes caber dentro. Si una sala no cabe, es derrumbada. |
 | Infinito | Ninguna | Sin final | Cada 15 salas: Jefe de Zona (5V). Vencerlo da +1 Fuerza, cura completa, +1 HP Máx por cada 3 jefes. |
 
-Tabla S: Tamaño de Sala
+**Tabla S: Tamaño de Sala**
 
 | d6 | Casillas | Sugerencia |
 |---|---|---|
@@ -48,14 +49,14 @@ Tabla S: Tamaño de Sala
 | 5 | 5 | Forma L, T o cruz |
 | 6 | 6 | Sala grande |
 
-Tabla P: Puertas
+**Tabla P: Puertas**
 
 | d6 | Salidas |
 |---|---|
 | 1-4 | +1 |
 | 5-6 | +2 |
 
-Tabla E: Enemigos
+**Tabla E: Enemigos**
 
 | d6 | Cantidad |
 |---|---|
@@ -63,21 +64,21 @@ Tabla E: Enemigos
 | 3-4 | 2 |
 | 5-6 | 3 |
 
-Combate
+**Combate**
 
 | Rol | Éxito | Daño |
 |---|---|---|
 | Héroe | 4-6 en d6 | 1 + (Fuerza - 3) |
 | Enemigo | 4-6 en d6 | 1 |
 
-Tabla C: Cofre
+**Tabla C: Cofre**
 
 | d6 | Resultado |
 |---|---|
 | 1-3 | No hay cofre |
 | 4-6 | Cofre abierto (se abre tras combate) |
 
-Tabla CC: Contenido del Cofre
+**Tabla CC: Contenido del Cofre**
 
 | d6 | Resultado |
 |---|---|
@@ -86,7 +87,7 @@ Tabla CC: Contenido del Cofre
 | 4-5 | Escudo (repara a 3/3 si tiene usos gastados; si está en 3/3, guarda en mochila). |
 | 6 | Comodín |
 
-Escalado de Enemigos (Modo Express)
+**Escalado de Enemigos (Modo Express)**
 
 | Sala | Enemigo | Vida |
 |---|---|---|
@@ -96,7 +97,7 @@ Escalado de Enemigos (Modo Express)
 | 9 | d6: 1-3=Bruto, 4-6=Demonio | 2-3 |
 | 10 | Jefe Final | 5 |
 
-Escalado de Enemigos (Modos Delimitado e Infinito)
+**Escalado de Enemigos (Modos Delimitado e Infinito)**
 
 | Profundidad | Enemigo | Vida | Notas |
 |---|---|---|---|
