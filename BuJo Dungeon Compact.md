@@ -8,8 +8,10 @@ Necesitas: un d6, lápiz, borrador y cuaderno cuadriculado/punteado.
 ## 👤 FICHA DEL HÉROE
 
 ```
-VIDAS:    [██████████] 10/10        FUERZA: 3  (Daño = 1 + Fuerza - 3)
-ESCUDO:   [3/3] usos                 MOCHILA: [____] [____] [____] [____]
+VIDAS:    [██████████] 10/10
+FUERZA: 3  (Daño = 1 + Fuerza - 3)
+ESCUDO:   [3/3] usos
+MOCHILA: [____] [____] [____] [____]
 ```
 
 **Kits de Inicio** (elige uno, inmutable durante la partida):
@@ -78,7 +80,7 @@ Tira d6 y resuelve en orden:
 | **Enemigo** | 4-6 en d6 | 1 |
 
 - **Escudo:** Absorbe automáticamente el **primer golpe** de la sala (gasta 1 uso). Una vez por sala.
-- **Huir:** Gastas un **Comodín** y avanzas a la siguiente sala. **Sin botín.** El combate se aborta.
+- **Huir:** Gastas un **Comodín**, avanzas a la siguiente sala y pierdes una vida. **Sin botín.** El combate se aborta.
 
 > Debes matar a todos para registrar la sala y buscar botín.
 
