@@ -48,7 +48,6 @@ Una familia registra sus gastos mensuales en diferentes categorías. El total de
 **Tarea:**
 1.  Calcula el porcentaje que representa cada categoría de gasto sobre el total.
 2.  Utilizando la fórmula $\theta = \frac{\text{porcentaje}}{100} \times 360^\circ$, determina el ángulo de cada sector para un gráfico circular.
-3.  Dibuja un **gráfico circular** (diagrama de sectores) que muestre la proporción de cada categoría de gasto. Etiqueta cada sector con su nombre y el porcentaje correspondiente.
 
 ---
 
