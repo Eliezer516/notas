@@ -6,9 +6,9 @@ Dungeon-crawler táctico y espacial para tu libreta.
 ### 👤 FICHA DEL HÉROE
 
 ```text
-VIDAS:    [❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️] 10/10        
+VIDAS:    [♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️] 10/10        
 FUERZA: 3  (Daño = 1 + Fuerza - 3)
-ESCUDO:   [🛡️️🛡️] 3/3 usos
+ESCUDO:   [🛡️️🛡️🛡️] 3/3 usos
 MOCHILA: [____] [____] [____] [____]
 ```
 
