@@ -430,7 +430,7 @@
 **Fecha**: 16/06/2026
 **Encuentro**: 17
 **Clase**: 33 - 34
-**RTP**: [[La mediana: encontrar el valor central]]
+**RTP**: [[La mediana, encontrar el valor central]]
 **Técnica**: Ejercicios prácticos
 **Indicador**: Ordena conjuntos de datos de forma ascendente o descendente antes de localizar la mediana en su cuaderno. (3pts)
 

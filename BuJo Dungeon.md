@@ -25,8 +25,6 @@ MOCHILA: [____] [____] [____] [____]
 > *   **Vacío:** Se llena con el primer cofre que encuentres. Si la mochila está llena, descarta algo primero.
 > *   **Pergamino de Mejora:** Aumenta permanentemente +2 HP Máx, +1 Fuerza, +1 Escudo Máximo o **+1 Espacio en Mochila**. Úsalo entre salas.
 
----
-
 ### 🗺️ PREPARACIÓN DEL LABERINTO
 
 1.  Dibuja un rectángulo en tu hoja (ej. 8x6 o 10x10 casillas). Este es tu mapa total.
@@ -35,8 +33,6 @@ MOCHILA: [____] [____] [____] [____]
 
 **Regla de Oro del Espacio:**
 Al colocar una sala, debes asegurarte de no dejar "islas" de casillas vacías rodeadas completamente por salas ya dibujadas. El espacio debe permanecer conectado y accesible hasta el final. Si una tirada de tamaño no cabe o encierra espacio inválido, ajusta la forma lo mejor posible dentro de las reglas de la Tabla S.
-
----
 
 ### 🕹️ FLUJO DE JUEGO
 
@@ -50,11 +46,10 @@ Al colocar una sala, debes asegurarte de no dejar "islas" de casillas vacías ro
 8.  Repite desde el paso 2 hasta que **no quede ni una sola casilla libre** en el rectángulo.
 9.  La última sala colocada es la **Sala del Jefe**.
 
----
-
 ### 📊 TABLAS UNIFICADAS
 
 **Generación de Sala**
+
 | Tabla S: Tamaño | Tabla P: Puertas | Tabla E: Enemigos |
 | :--- | :--- | :--- |
 | **1-2=3**<br>**3-4=4**<br>**5=5**<br>**6=6** | **1-4=+1**<br>**5-6=+2** | **1-2=1**<br>**3-4=2**<br>**5-6=3** |
@@ -62,11 +57,10 @@ Al colocar una sala, debes asegurarte de no dejar "islas" de casillas vacías ro
 *(Nota: Las puertas adicionales se suman a la puerta por la que entraste).*
 
 **Botín y Recompensas**
+
 | Tabla C: ¿Cofre? | Tabla CC: Contenido |
 | :--- | :--- |
 | **1-3=No**<br>**4-6=Sí** | **1=💥 Trampa (-1 HP)**<br>**2=Poción de Curación**<br>**3=Reparador de Escudo**<br>**4=Pergamino de Mejora**<br>**5-6=Bomba de Escape** |
-
----
 
 ### ⚔️ COMBATE Y ESCALADO
 
@@ -76,6 +70,7 @@ Al colocar una sala, debes asegurarte de no dejar "islas" de casillas vacías ro
 *   **Escudo:** Absorbe el primer golpe de la sala automáticamente.
 
 **Escalado de Enemigos (por número de sala recorrida):**
+
 | Salas | Enemigo | Vida |
 | :--- | :--- | :--- |
 | 1 - 5 | 🐛 Bicho | 1 |
@@ -83,8 +78,6 @@ Al colocar una sala, debes asegurarte de no dejar "islas" de casillas vacías ro
 | 16 - 25 | d6: 1-3 Bruto / 4-6 Demonio | 2-3 |
 | 26+ | 👹 Demonio | 3 |
 | **Última** | 🐉 **JEFE FINAL** | **5** |
-
----
 
 ### 💡 CONSEJOS ESTRATÉGICOS
 
