@@ -1,11 +1,3 @@
-Aquí está la lista con las descripciones reescritas usando sinónimos:
-
----
-
-## **Lista de Estudiantes - Registros Descriptivos**
-
----
-
 **1.-** Nombres y Apellidos del Estudiante: **Anyelber Yosue Castellanos Valecillos**
 Cedula de Identidad: **33964777**  Año y Sección: 1ro "A"  Literal: **B**
 Descripción de la Actuación del Estudiante: manifiesta cierto interés durante el desarrollo de la clase sin acatar las normas de convivencia y conserva escaso orden en los distintos espacios.
