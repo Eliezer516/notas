@@ -1,3 +1,9 @@
+---
+title: Prevenir es mejor que corregir
+date: 2026-07-18
+draft: false
+tipo: enseñanza
+---
 # **PREVENIR ES MEJOR QUE CORREGIR**
 ## *Una enseñanza sobre la sabiduría de apartarse del mal*
 
