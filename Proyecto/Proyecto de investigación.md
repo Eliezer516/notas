@@ -2,7 +2,7 @@
 telegraph_page_url: https://telegra.ph/Proyecto-de-investigación-06-26
 telegraph_page_path: Proyecto-de-investigación-06-26
 ---
-**PROYECTO**: Estrategias lúdicas e inclusivas para la resolución de operaciones combinadas en fracciones como una praxis transformadora con estudiantes neurodivergentes de primer año de la U.E. Santo Domingo de Guzmán del municipio Pampanito del estado Trujillo
+**PROYECTO**: Estrategias lúdicas e inclusivas para la resolución de operaciones combinadas en fracciones como una praxis transformadora con estudiantes neurodivergentes de primer año de la U.E. Santo Domingo de Guzmán del estado Trujillo
 
 # Momento I: Reflexión Inicial sobre el Contexto
 El Momento I: Reflexión Inicial sobre el Contexto constituye la fase fundacional del proceso investigativo y es esencial para enraizar el proyecto en la realidad concreta de la Unidad Educativa Santo Domingo de Guzmán, ubicada en la parroquia Santo Domingo. Su relevancia radica en facilitar una inmersión activa mediante el Diagnóstico Situacional Participativo (DSP), que va más allá de los datos cuantitativos para comprender las complejas interrelaciones entre las problemáticas educativas presentes.
